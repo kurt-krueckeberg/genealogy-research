@@ -30,25 +30,19 @@ Sind die Aufgaben auf die Webseit von Hessiche Heimat auch verfügbar?
 Die https://www.hfv-ev.de[Hessische familiengeschichtliche Vereingung (HfV)] (Hessian Family History Assocation) wurde 1921 gegründet. `About Us` erzählt ihre Zeile:
 
 ____
-Access to sources such as registry office books and church books is not
-always easy. Joint research and the exchange of results make work
-easier. For this reason, the Hessian Family History Association (HfV)
-was founded in Darmstadt in 1921. It essentially works on the three
-former provinces of the old Grand Duchy of Hesse and the People’s State
-of Hesse: Starkenburg, Oberhessen and Rheinhessen. In addition, former
-areas of the Landgraviate of Hesse-Darmstadt, e.g. B. County of
-Lichtenberg (Pirmasens), Hessian hinterland.
+Access to sources such as registry office books and church books is not always easy. Joint research and the exchange of results make work
+easier. For this reason, the Hessian Family History Association (HfV) was founded in Darmstadt in 1921. It essentially works on the three
+former provinces of the old Grand Duchy of Hesse and the People’s State of Hesse: Starkenburg, Oberhessen and Rheinhessen. In addition, former
+areas of the Landgraviate of Hesse-Darmstadt, e.g. B. County of Lichtenberg (Pirmasens), Hessian hinterland.
 ____
 
 ____
-The other two clubs in Hesse were founded almost at the same time as our
-club. The Society for Family History in Kurhessen and Waldeck (GFKW) and
+The other two clubs in Hesse were founded almost at the same time as our club. The Society for Family History in Kurhessen and Waldeck (GFKW) and
 the Family History Society for Nassau and Frankfurt (FG/FGNF).
 ____
 
 ____
-In recent years, the HfV has been able to greatly expand its range of
-services through the support of its members and will continue to work to
+In recent years, the HfV has been able to greatly expand its range of services through the support of its members and will continue to work to
 help our members with their research.
 ____
 
@@ -64,15 +58,12 @@ of the Hessian Family History Association]. HfV’s digitzation effort
 seeks to:
 
 ____
-We would like to provide as many of the documents that are important for
-our work area as possible in our member area.
+We would like to provide as many of the documents that are important for our work area as possible in our member area.
 ____
 
 ____
-One focus is on the digitization of church book duplicates. The
-originals are in the Darmstadt State Archives and we have the
-opportunity to scan them in the office. The order of the congregations
-is determined by the members. There is information about this in the
+One focus is on the digitization of church book duplicates. The originals are in the Darmstadt State Archives and we have the
+opportunity to scan them in the office. The order of the congregations is determined by the members. There is information about this in the
 monthly newsletter and in the news on the homepage.
 ____
 
@@ -90,26 +81,21 @@ Fewer and fewer people can read old manuscripts.
 ____
 
 ____
-We have therefore built in the option of typing in the most important
-information in fields on each page of the duplicate church records in
-the members’ area. On the one hand, it is easier for less experienced
-users to understand the entries. On the other hand, you can also search
+We have therefore built in the option of typing in the most important information in fields on each page of the duplicate church records in
+the members’ area. On the one hand, it is easier for less experienced users to understand the entries. On the other hand, you can also search
 for entries.
 ____
 
 ____
-A few church book duplicates are fully transcribed. Many have little or
-no recorded entries.
+A few church book duplicates are fully transcribed. Many have little or no recorded entries.
 ____
 
 ____
-Which books you work on is up to you. Here, too, it is possible to work
-from home.
+Which books you work on is up to you. Here, too, it is possible to work from home.
 ____
 
 ____
-If you have any questions, please email the managing director at
-it@hfv-ev.de
+If you have any questions, please email the managing director at it@hfv-ev.de
 ____
 
 There is also a https://www.rodheimer-geschichtsverein.de/[Rodheimers Gesichichts- und Heimatverein webpage]
@@ -181,30 +167,20 @@ I found some of the Rodheim-Bieber Heimatverein’s pdf newsletters online at ht
 
 ==== Hessen Church Records
 
-* https://helmut-hild-haus.de/index.html[Zentralarchiv der Evangelischen
-Kirche in Hessen und Nassau (EKHN)]
-+
-This
-https://helmut-hild-haus.de/index/einzelansicht/news/kirchenbuchportal-weitere-gemeinden-online-1.html[page]
-explains its church books are being digitized on made available on
-https://archion.de[Archion.de].
+* https://helmut-hild-haus.de/index.html[Zentralarchiv der Evangelischen Kirche in Hessen und Nassau (EKHN)]
++ This https://helmut-hild-haus.de/index/einzelansicht/news/kirchenbuchportal-weitere-gemeinden-online-1.html[page]
+explains its church books are being digitized on made available on https://archion.de[Archion.de].
 
 Archion’s
 https://www.archion.de/en/browse/?no_cache=1&path=40821-623350-623353-855430&cHash=e060d4217d1a59919a330f97efeb7848#https://www.archion.de/en/browse/?no_cache=1&path=40821-564945[EKHN
-records] appear organized by *Dekanant*, which translates as
-``dearnary''. The ``dean'' seems to have been a sort of regional
-Lutheran/Protestant paster responsible for a region.
+records] appear organized by *Dekanant*, which translates as ``dearnary''. The ``dean'' seems to have been a sort of regional Lutheran/Protestant paster responsible for a region.
 
-* The EKHN’s church book finder??
-https://www.ekhn-zentralarchiv.findbuch.net/php/main.php?ar_id=3669[search
-tool] describes the Dekanat of Gießen and explains when Rodheim became
+* The EKHN’s church book finder??  https://www.ekhn-zentralarchiv.findbuch.net/php/main.php?ar_id=3669[search tool] describes the Dekanat of Gießen and explains when Rodheim became
 part of it.
 
-There is also another church archive in the state of Hessen, but its
-holding a more specifically regional:
+There is also another church archive in the state of Hessen, but its holding a more specifically regional:
 
-* http://www.archiv-ekkw.de/[Landeskirchliches Archiv der Evangelischen
-Kirche von Kurhessen-Waldeck]
+* http://www.archiv-ekkw.de/[Landeskirchliches Archiv der Evangelischen Kirche von Kurhessen-Waldeck]
 
 ==== Zugehörigkeit zu Sankt Johannis Gemeinde
 
