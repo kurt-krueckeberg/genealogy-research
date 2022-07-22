@@ -1,0 +1,175 @@
+== General Research
+
+=== Genealogy Center Databases
+
+Genealogy Center's list of databases copied from link:https://acpl.lib.in.us/explore-genealogy/our-resources[about Our Databses]
+
+==== Free Databases:
+
+[frame="none",grid="rows"]
+|===
+|Database|Description
+
+|link:http://www.genealogycenter.info/search_microtext.php[Microtext Catalog]
+|The Genealogy Center Microtext Catalog is a searchable listing of microfilm and microfiche available in The Genealogy Center.
+
+|link:http://www.genealogycenter.info/africanamerican/[African American Gateway]
+|The African American Gateway is a growing resource for African American research, and includes information from the United States, Canada, and the Caribbean, and well as a few other countries. The links to websites in this gateway are paired with a bibliography of resources for African American research in The Genealogy Center collection.
+
+|link:http://www.genealogycenter.info/fwacdb.php[Allen County, Indiana Resources]
+|The Allen County, Indiana Resources collection of databases includes, but is not limited to indexes of local obituaries, cemeteries, marriage, death and other courthouse records, as well as African-American material. Also featured are images from the Firefighter Collection and local wills.
+
+|link:http://www.genealogycenter.info/bibles/[Family Bible Records]
+|The Family Bible Records section features transcriptions and images from family bibles donated to The Genealogy Center. Details include births, marriages, and deaths as well as information from items inserted in the Bibles, such as newspaper clippings, photographs, and funeral cards.
+
+|link:http://www.genealogycenter.info/familydb.php[Family Resources]
+|The Family Resources section features unique family histories and family files submitted by researchers who have granted permission for their material to be hosted on The Genealogy Center site. Contributions of additional data are most welcome.
+
+|link:http://www.genealogycenter.info/search_gensurnames.php[Genealogy Center Surname File]
+|The Genealogy Center Surname File can be searched to identify others researching your same surname. Contact information is provided to encourage collaboration. Contributors to this file are Genealogy Center patrons.
+
+|link:http://www.genealogycenter.info/indiana[Indiana Resources]
+|Indiana Resources represent a widely varied collection of databases created by researchers who have donated their work to The Genealogy Center, as well as Genealogy Center staff. This collection grows rapidly as more material becomes available.
+
+|link:http://www.genealogycenter.info/nativeamerican/[Native American Gateway]
+|The Native American Gateway is a resource for those exploring First Nations family history. Information on how to begin such research, links to materials from the National Archives and links to popular data are complemented by a continually updated listing of resources held by The Genealogy Center.
+
+|link:http://www.genealogycenter.info/otherstates[Other States Resources]
+|Other States Resources represent a widely varied collection of databases created by researchers who have donated their work to The Genealogy Center, as well as Genealogy Center staff. This collection grows rapidly as more material becomes available.
+
+|link:http://www.genealogycenter.info/military/[Our Military Heritage]
+|Our Military Heritage includes images of books, pamphlets, government documents, original letters, diaries, biographies, photographs, videos, unit histories, and rosters as well as service and pension records. A project of The Genealogy Center, this collection of data files offers materials from the Colonial era through the Afghanistan and Iraqi Wars. Contributions of additional data are most welcome.
+
+|link:https://www.genealogycenter.info/persi/[Periodical Source Index (PERSI)]
+|PERSI is the premier subject index for genealogy and local history periodicals, and is produced by the staff of The Genealogy Center. Using this valuable resource provides citations to tens of thousands of periodicals across North America, the British Isles, and Europe.
+
+|link:http://contentdm.acpl.lib.in.us/digital/[Community Album]
+|The Allen County Public Library’s Community Album spotlights the history of our northeast Indiana community as highlighted in photographs, print, and video. This virtual scrapbook continues to grow with contributions from the Community.
+|===
+
+==== On-site Databases:
+
+[frame="none",grid="rows"]
+|===
+|Database|Description
+
+|link:https://www.ancestryinstitution.com[Ancestry.com]
+|Discover your ancestors at Ancestry.com, the world's largest family history website. Browse census records, passenger lists and locality-specific databases and start your own family tree.
+
+|link:http://www.accessible-archives.com/collections/african-american-newspapers/[Accessible Archives African American Newspapers]
+|Search or browse this unique collection of 19th century African-American newspapers, including  The Christian Recorder (1861-1891, 1893-1902),  The Colored American/Weekly Advocate  (1837-1841),  Douglass' Monthly  (1859-1863),  Frederick Douglass' Paper  (1851-1855),  The Freedmen's Record  (1865-1874),  Freedom's Journal  (1827-1829),  The National Era  (1847-1860),  The Negro Business League Herald  (1909),  The North Star  (1847-1851), and  Provincial Freeman  (1854-1857).
+
+|link:http://africanamericanheritage.proquest.com/[African American Heritage]
+|African American Heritage is an essential collection of databases and resources for African American research. It includes original records, the AfriGeneas<sup>TM</sup> Community social networking site, and Black Genesis, a state-by-state methodological resource guide.
+
+|link:http://search.proquest.com/?accountid=8269[African American Historical Newspapers]
+|The "Genealogy" link leads one to a collection of nine distinct African-American newspapers, featuring the  Atlanta Daily World  (1931-2003),  The Baltimore Afro-American  (1893-1988),  Chicago Defender  (1910-1975),  Cleveland Call and Post  (1934-1991),  Los Angeles Sentinel  (1934-2005),  New York Amsterdam News  (1922-1993),  The Norfolk Journal and Guide  (1921-2003),  The Philadelphia Tribune  (1912-2001), and  Pittsburgh Courier  (1911-2002).
+
+|link:https://search.ebscohost.com/login.aspx?authtype=ip,cpidamp;custid=s9069710amp;groupid=mainamp;profile=ehostamp;defaultdb=h7i[African American Historical Serials Collection]
+|The "African American Historical Serials Collection" is an archive of periodicals that document the history of African American religious life and culture between 1829 and 1922. It includes newspapers and magazines, plus reports and annuals from African American religious organizations, including churches and social service agencies.
+
+|link:https://infoweb.newsbank.com/signin/AllenCountyPublicLibrary/GBNL[America's GenealogyBank]
+|Search or browse through these database collections of Historical Newspapers (1690-1922), Historical Books (1749-1900), Historical Documents (1789-1994), and America's Obituaries (1977-current).
+
+|link:http://www.americanancestors.org/[AmericanAncestors.org]
+|AmericanAncestors.org, produced by the New England Historic Genealogical Society (NEHGS), provides a wealth of resources for researching New England and early American families. The site includes many searchable databases, the NEHGS library catalog and publications list, and more.
+
+|link:http://www.aihc.amdigital.co.uk/[American Indian Histories and Cultures]
+|This collection of manuscripts, rare and original documents from treaties, speeches and diaries, as well as historic maps and travel journals dates from the earliest contact with European settlers right up to photographs and newspapers from the mid-twentieth century.
+
+|link:http://www.americanindiannewspapers.amdigital.co.uk/[American Indian Newspapers]
+|Explore nearly 200 years of Indigenous print journalism from the United States and Canada. This resource has been developed with, and has only been made possible by, the permission and contribution of the newspaper publishers and Tribal Councils concerned.
+
+|link:http://go.gale.com/gdsc/start.do?p=GDSCamp;u=fort37223amp;authCount=1[Archives Unbound: Evangelism in Africa: Correspondence of the Board of Foreign Mission, 1835-1910]
+|A unique collection of records of the Board of Foreign Missions of the Presbyterian Church, an agency that created orphanages, schools, hospitals, and churches in Africa from 1835-1910, is accessible on Archives Unbound.
+
+|link:http://go.gale.com/gdsc/start.do?p=GDSCamp;u=fort37223amp;authCount=1[Archives Unbound: The Civil War in Words and Deeds]
+|Archives Unbound is a collection of regimental histories and personal narratives documenting all facets of military life during the Civil War.
+
+|link:http://go.galegroup.com/gdsc/i.do?action=interpretamp;id=5UAJamp;v=2.1amp;u=fort37223amp;it=aboutCollectionsamp;p=GDSCamp;sw=wamp;authCount=1[Archives Unbound: The War of 1812: Diplomacy on the High Seas]
+|The Archives Unbound: The War of 1812: Diplomacy on the High Seas collection includes applications from privateers, documents regarding enemy aliens and prisoners of war, and passenger lists from the United States covering the time period of 1812-1814.
+
+|link:https://app.arkivdigital.se/organizations/R4RJnZva7v06YX8wwAV0yNUMhTHQ_FTl[ArkivDigital]
+|ArkivDigital is the largest private provider of Swedish church records and other historical records online. This site includes various kinds of historical documents such as church records, court records and inventory of estates.
+
+|link:https://search.proquest.com/hnpglobeandmail?accountid=8269[Canada's Heritage from 1844--The Globe and Mail]
+|Published in Toronto and covering the years 1844-2009, this historical newspaper archive contains stories, photographs, birth and marriage announcements, death notices, and more.
+
+|link:https://search.ebscohost.com/login.aspx?authtype=ip,cpidamp;custid=s9069710amp;groupid=mainamp;profile=ehostamp;defaultdb=ear[Ebony Magazine Archive]
+|The "Ebony Magazine Archive" covers civil rights, education, entrepreneurship and other social topics with an African-American focus. It includes more than 800 issues providing a broad view of African-American culture from its first issue in 1945 through 2014.
+
+|link:http://www.findmypast.com/[FindMyPast]
+|One of the best online sources for British research, and increasingly a major resource for North American records and images, FindMyPast features census schedules, vital records, church registers, and military records; British, Irish and American newspapers; and much more. 
+
+|link:http://www.fold3.com/institution-index.php[Fold3.com]
+|At Fold3.com, it is possible to search for or browse millions of historical documents and photographs. This database includes digital images of military records, city directories and many other resources.
+
+|link:http://www.jewishlife.amdigital.co.uk/[Jewish Life in America]
+|This resource explores the history of Jewish communities in America from the arrival of the first Jews in the 17th century through to the mid-20th century. This treasure trove of material provides digital images of collections from the American Jewish Historical Society in New York. In addition, Jewish Life in America contains interactive maps, essays by leading scholars, a selection of American Jewish Year Book articles, and links to other useful websites.
+
+|link:http://search.ebscohost.com/login.aspx?authtype=ip,cpidamp;custid=s9069710amp;site=mhlibedamp;return=y[MyHeritage]
+|The "MyHeritage Library Edition" link leads to a searchable database of more than 9 billion historical records and family trees. The records range from census, vital records, military, immigration, and much more covering the United States, Canada, Europe, and more.
+
+|link:https://infoweb.newsbank.com/signin/AllenCountyPublicLibrary/FWNB[News Sentinel Text Archive]
+|Search or browse through  The News Sentinel  newspaper articles from Fort Wayne, IN for 1962-2019.
+
+|link:https://access.newspaperarchive.com/[NewspaperArchive]
+|Search or browse for your ancestors among newspaper articles available on NewspaperArchive. This database features newspapers covering all 50 states in the U.S. and 47 other countries from the 1600s to current.
+
+|link:http://www.newspapers.com/[Newspapers.com]
+|Search or browse for your ancestors among newspaper articles on Newspapers.com. This database features more than 3100 historical newspapers, covering the United States, Canada, England, Ireland, and Panama from the 1700s-2000s.
+
+|link:http://infotrac.galegroup.com/itweb/fort37223?db=SAS[Slavery and Anti-Slavery: A Transnational Archive]
+|The Slavery and Anti-Slavery database is a rare historical archive of court records, maps, books, newspapers, and periodicals from the United States, Latin America, the Caribbean, Africa, and Europe specific to the topics of slavery, abolition, and emancipation.
+|===
+
+==== Genealog Center's Microtext Land Record Catalog for Allen County IN
+
+[width="100%",cols="10%,60%.10%,10%,10%",options="header",]
+|===
+|County|Name|# of Items|Media|Filed Under:
+|Allen|Deed Index 1824-1902 |4 |35mm Film |Indiana
+|Allen|Deeds 1824-1842 |2 |35mm Film |Indiana
+|Allen|Deeds 1824-1901 (Books A-Y, 26-160) |56 |35mm Film |Indiana
+|Allen|Deeds 1857-1868, (Books 26-44) |9 |35mm Film |Indiana
+|Allen|Mortgage Index 1829-1887 |1 |35mm Film |Indiana
+|Allen|Mortgages 1846-1886 |18 |35mm Film |Indiana
+|Allen|Mortgage Index 1829-1887|1|35mm Film|	Indiana
+|Allen|Mortgages 1846-1886|18|35mm Film|Indiana
+|===
+
+==== Allen County Genealogical Society of Indiana(ACGSI)
+
+https://www.acgsi.org/records.php[ACGSI web page]
+
+=== German Genealogical Research Resources
+
+==== FamilySearch wiki
+
+https://www.familysearch.org/en/wiki/Germany_Genealogy[Germany Genealogy]
+
+==== German Verein Liste
+
+GenWiki's link:https://wiki.genealogy.net/Portal:Vereine[Portal von Vereine]
+
+----
+Viele genealogische Vereine, Arbeitskreise, Interessengemeinschaften und andere genealogische Institute stellen sich auf dem Server des Vereins für Computergenealogie e.V. vor und nehmen aktiv an den Projekten teil.
+Auch wenn Sie vielleicht sonst ein Vereinsmuffel sind, die Mitgliedschaft in einem genealogischen Verein kann sich lohnen! Viele genealogische Veranstaltungen werden von Vereinen ausgerichtet. Mitglieder einiger
+Vereine, Arbeitsgruppen usw., die hier im GenWiki eine Anmeldung und damit eine Benutzerseite haben, teilen ihre Mitgliedschaft dort mit, die Übersicht dazu findet sich hier. 
+----
+
+Vereins of note include
+
+- Hamburg
+
+- Bremen
+
+- Niedersachsen. See links and descriptions at link:https://wiki.genealogy.net/Nieders%C3%A4chsischer_Landesverein_f%C3%BCr_Familienkunde_e.V._(NLF[Niedersächsicher Landesverein für Familenkunde]
+
+- link:https://www.vfkbw.de/[Verein für Familienkunde in Baden-Württemberg]
+
+- link:https://www.hfv-ev.de/[Hessische familiengeschichtliche Vereinigung (HfV)]
+
+- Schaumburg
+
+  link:https://www.cnn.com[[Schaumburg-Lippischen Heimatverein e.V.]
