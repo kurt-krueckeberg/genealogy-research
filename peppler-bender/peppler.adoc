@@ -2,21 +2,26 @@
 
 === Introduction
 
-The first Peppler family to settle in Allen County, Indiana, emigrated, in April 1857, from *Rodheim an der Bieber* (Rodheim on the Bieber,
-a stream), a small village in the Grand Duchy of Hessen, in what today is the federal state of Hesse (one of 17 German states). On April 1,
-1954 (@Add a citation/footnote) Rodheim was renamed *Rodheim-Bieber*.
+The first Peppler family to settle in Allen County, Indiana, emigrated April 1857 from *Rodheim an der Bieber* (Rodheim on the Bieber,
+a stream), a small village in the Grand Duchy of Hessen, today the federal state of Hesse (one of 17 German states). On April 1,
+1954 (@Add a citation/footnote) *Rodheim an der Bieber* was renamed *Rodheim-Bieber*.
 
 === Early Clues
+Because Germany did not become a nation-station until 1871, no national records of any genealogical significance exist for ancestors who emigrated
+in the mid nineteenth century. The most important genealogical records for German ancestors are parish church books, which began to be kept after the 
+Reformation. They list parentage, birth date, confirmation dates, marriages, and so on. 
 
-Finding ancestors in Germany in the mid 19th century is challenging. Because Germany was not a nation until 1871, no national records 
-were kept.
+But to find the home town or village, we have to start with clues we find in U.S. records and work backwards, connecting the dots as we go.
 
-After they arrive in the U.S., the job becomes easier. U.S. censuses began in ???. Passenger ship arrival lists were a legal requirement that 
-began as early as ????
+After German ancestors arrive in the U.S., we usually can find them in U.S. censuses, which began "in 1790, and has been taken every ten years since. 
+(https://www.archives.gov/research/census[National Archives, Census Records])."
+find them in passenger ship arrival lists. Passenger lists of ships arriving from foreign ports were a legal requirement that  bean as early as ????. 
+
+To figuing out their German hometown 
 
 ****
-For centuries ``Germany'' existed as an empire composed of a conglomeration of city-states, principalities (Fürstentum), duchies
-(Herzogtum), grand duchies (Großherzogtum), each with its own ruler or prince. In ??? there were over of over 300 such ???, At the top of the
+For centuries ``Germany'' existed as an empire composed of a conglomeration of principalities (Fürstentum), duchies
+(Herzogtum), grand duchies (Großherzogtum), free cities, etc., each with its own ruler or prince. In ??? there were over of over 300 such ???, At the top of the
 ruling hierarchy stood the Emperor, crowned by the Pope (although for practical reasons he was crowned by proxy by the Archbishop ???, in
 Aachen??). large like ????). The Protestant Reformation ensured a the empire late of cohesion, but it gave rise to church books….. todo:
 mention Heiliges Römanisches Reich was used – quote Pete Wilson – in the 17th century)
@@ -34,7 +39,7 @@ Platt in ????. They would have three children. Only the first born would
 have a long life.
 
 * Johann Jacob Peppler (1810-1873), his wife
-* Magdelane nee Platt Peppler (1810-1901) and their three children:
+* Magdelane nee Platt Peppler (1810-1901), and their three children:
 ** Ludwig ``Louis'' Peppler" (1843-1914)
 ** Johann Jakob Peppler (1845-1873)
 ** Georg Andreas Peppler (1851-1857)
@@ -100,7 +105,7 @@ Hessen* and *Rodheim in the Grandducy of Hessen Darmstadt* as their
 place of origin.
 
 This is my transcription of the inscription on the tombstone image for
-link:./images/Marie%20Magdalene%20Platt%20Peppler%20Tombstone.jpg[Marie Magdalene Platt Peppler]:
+link:./images/Marie_Magdalene_Platt_tombstone.jpg[Marie Magdalene Platt Peppler]:
 
 ____
 hier ruhet in Gott +
@@ -132,7 +137,9 @@ My transcription of the visible portion of the tombstone inscription for
 link:./images/Rootsweb%20headstone%20photo%20of%20Johann%20Jacob%20Peppler.jpg[Johann Jacob Peppler] is:
 
 ____
-hier ruhet in Gott geboren zu Rodheim ????? Großherzogtum Hessen
+hier ruhet in Gott +
+geboren zu Rodheim +
+bei Gie Großherzogtum Hessen
 Darmstadt
 ____
 

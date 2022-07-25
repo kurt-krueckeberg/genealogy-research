@@ -1,0 +1,26 @@
+=== National Archives Records Adminstration 
+Some National Archives Records Adminstration(NARA) links: 
+
+* https://www.archives.gov/research/genealogy[Resources for Genealogists]
+* https://www.archives.gov/research/immigration[NARA Immigrant Records] related to:
+** Immigration Records
+*** which include https://www.archives.gov/research/immigration/passenger-arrival.html[Passenger Arrival Records]
+** Naturalization Records
+** Visa Records
+** Alien Files
+** Enemy Alien Records
+** Passport Records
+** Other Immigrant Topics
+** Ethnic Heritage
+* **NARA Census Records** https://www.archives.gov/research/census[research page].
+
+
+The Census Records page explains:
+____
+Census records can provide the building blocks of your research.  The first Federal Population Census was taken in 1790, and has been taken every ten years since.  Because of a 72-year restriction on access to the Census, the most recent year available is 1950.  The 1950 Census was released on April 1, 2022.  
+
+The National Archives has the census schedules available from 1790 to 1950, and most have now been digitized by our digitization partners.  Family researchers generally find it most helpful to begin with the most current census and work backwards as a strategy for locating people in earlier generations
+____
+
+There are also *independent NARA researchers* for https://www.archives.gov/research/hire-help[Hire]. They are not NARA employees.
+

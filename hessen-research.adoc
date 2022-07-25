@@ -1,5 +1,9 @@
 == Hessian Resources for Further Research
 
+Test of setting and include foldr with `:include: _includes` and then including anoth asciidoc document with `include::test.adoc[]':
+
+image::test.jpg[]
+
 === Hessische Familienkunde Publication Links
 
 * https://wiki.genealogy.net/Hessische_Familienkunde
@@ -126,8 +130,8 @@ On 26 January 2004 Karl-Heinz Reeh and Heinz Peppler were elected as successors 
 ____
 
 ____
-The local history and family researcher known as ``Platte Ernst'' was responsible for a special exhibition in the local history museum
-Rodheim-Bieber in February 2002. Under the title ``The life’s work of Ernst Schmidt as a local historian and family researcher of Rodheim'' he
+The local history and family researcher known as "Platte Ernst" was responsible for a special exhibition in the local history museum
+Rodheim-Bieber in February 2002. Under the title "The life’s work of Ernst Schmidt as a local historian and family researcher of Rodheim" he
 made his complete activities accessible in the large room of the local history museum. All his books and treatises, a lot of picture material
 as well as some family trees of Rodheim families (altogether nearly 20) were shown. In 2011 Ernst Schmidt passed away in his 93rd year.
 ____
@@ -153,7 +157,7 @@ ____
 ____
 Not only the history of the village but also historical places outside the village are researched, such as the old entrenchments, the
 Königstuhl, the old shooting ranges, the caves at Dünsberg and near Bieber, forester’s lodges, mills and the old water chamber to name but a
-few.
+uew.
 ____
 
 ____
@@ -173,7 +177,7 @@ explains its church books are being digitized on made available on https://archi
 
 Archion’s
 https://www.archion.de/en/browse/?no_cache=1&path=40821-623350-623353-855430&cHash=e060d4217d1a59919a330f97efeb7848#https://www.archion.de/en/browse/?no_cache=1&path=40821-564945[EKHN
-records] appear organized by *Dekanant*, which translates as ``dearnary''. The ``dean'' seems to have been a sort of regional Lutheran/Protestant paster responsible for a region.
+records] appear organized by *Dekanant*, which translates as "dearnary". The "dean" seems to have been a sort of regional Lutheran/Protestant paster responsible for a region.
 
 * The EKHN’s church book finder??  https://www.ekhn-zentralarchiv.findbuch.net/php/main.php?ar_id=3669[search tool] describes the Dekanat of Gießen and explains when Rodheim became
 part of it.
@@ -189,9 +193,9 @@ They were members of the Sankt Johannis Gemeinde, just north of Emmanuel
 were a splinter congregation of Emmanuel according it
 http://www.emmanuelsoest.org/our-history/[history].
 
-==== Marriage of Ludwig ``Louis'' Peppler to daughter of the Benders from Fellinghausen
+==== Marriage of Ludwig "Louis" Peppler to daughter of the Benders from Fellinghausen
 
-Ludwig ``Louis'' married Mary Bender, who was born in Indiana, but whose
+Ludwig "Louis" married Mary Bender, who was born in Indiana, but whose
 parents were from Fellinghausen, Hessen-Darmstadt, very close to
 Rodheim-Bieber. Who else was from Fellinghausen–the Felds? Did they all
 come in chain-migration?
@@ -264,7 +268,7 @@ https://www.lagis-hessen.de/en/subjects/index/sn/ol[Historical Gazetteer]. And a
 
 === Bender Leads
 
-Both Johann ``John'' Bender and his brother, Johann Friedrich, who
+Both Johann "John" Bender and his brother, Johann Friedrich, who
 emigrated in 1836 (and may have later moved from IN to NE later in
 life), were Allen Co pioneers.
 
@@ -379,9 +383,7 @@ Familienkunde
 ===== Hessische Familienkunde Publication Links
 
 * https://wiki.genealogy.net/Hessische_Familienkunde
-* this list of
-https://wiki.genealogy.net/Hessische_Familienkunde[volumes] of the
-Hessische Familienkunde Zeichnung.
+* this list of https://wiki.genealogy.net/Hessische_Familienkunde[volumes] of the Hessische Familienkunde Zeichnung.
 * The Genealogy Center has many of the Hessische Familienkunde
 https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/1560231?offset=0&qs=1685303869&search_in=code&state=code[volumes]
 * The Family Search catalog has entries for
@@ -395,23 +397,19 @@ here]
 
 ===== Rodheim Researcher Ernst Schmidt’s Volumes
 
-* ``Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber nach
-Nordamerika'', Ernst Schmidt, September 1989, Hessische Familienkunde,
+* "Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber nach Nordamerika", Ernst Schmidt, September 1989, Hessische Familienkunde,
 Band 19 Heft 7, pages 317f
 
-It gives the birth, marriages and emigration dates of those who
-emigrated to North America from Rodheim and nearby Fellinghausen. It
+It gives the birth, marriages and emigration dates of those who emigrated to North America from Rodheim and nearby Fellinghausen. It
 also mentions other relevant facts.
 
-This article is also an indexed, searchable Ancestry source; however,
-Ancestry’s version omits details from the article and only contains only
-birth. marriage (and possibly) emigration dates. You can see a screen
-print of information from the Ancestry.com version of this source:
-link:./images/ancestry-citaion-for-ernst-schmidt-rodheim-volume.png[Ancestry.com images]
+This article is also an indexed, searchable Ancestry source; however, Ancestry’s version omits details from the article and only contains only
+birth. marriage (and possibly) emigration dates. You can see a screen print of information from the Ancestry.com version of this source:
+link:./images/ancestry-citaion-for-ernst-schmidt-rodheim-volume.png[Ancestry.com image]
 
-* ``Sie gingen nach Amerika: Die Auswanderer aus dem Kirchspiel Rodheim
-an der Bieber'', Schmidt, Ernst, ????. In Hessiche Heimat: Aus Natur und
-Geschichte (Giessen), no. 2 (18 Jan. 1986), p. 8; no. 3 (1 Feb. 1986),
+
+* "Sie gingen nach Amerika: Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber", Schmidt, Ernst, ????. In Hessiche Heimat: Aus Natur und
+Geschichte, published by ?????, Giessen, no. 2 (18 Jan. 1986), p. 8; no. 3 (1 Feb. 1986),
 p. 12; no. 4 (15 Feb. 1986), p. 16.
 
 This is an Ancestry source.
@@ -514,14 +512,9 @@ Gesichichts- und Heimatverein webpage]
 
 There is also a
 
-* https://www.heimatverein-rodheim-bieber.de/hv/arbeitskreise/dorf-und-familiengeschichte/[Heimat
-Rodheim-Bieber]
-* The Verein’s
-https://www.heimatverein-rodheim-bieber.de/hv/arbeitskreise/dorf-und-familiengeschichte/[Dorf-und
-Familiengeschichte wporking group].
-* The Vereins has
-https://www.heimatverein-rodheim-bieber.de/hv/literatur/[literatur]
-available for purchase.
+* https://www.heimatverein-rodheim-bieber.de/hv/arbeitskreise/dorf-und-familiengeschichte/[Heimat Rodheim-Bieber]
+* The Verein’s https://www.heimatverein-rodheim-bieber.de/hv/arbeitskreise/dorf-und-familiengeschichte/[Dorf-und Familiengeschichte wporking group].
+* The Vereins has https://www.heimatverein-rodheim-bieber.de/hv/literatur/[literatur] available for purchase.
 
 This is a translation of the Dorf und Familian Geschichte’s web page:
 
@@ -539,10 +532,10 @@ successors for Ernst Schmidt. Heinz Peppler passed away in 2014.
 ____
 
 ____
-The local history and family researcher known as ``Platte Ernst'' was
+The local history and family researcher known as "Platte Ernst" was
 responsible for a special exhibition in the local history museum
-Rodheim-Bieber in February 2002. Under the title ``The life’s work of
-Ernst Schmidt as a local historian and family researcher of Rodheim'' he
+Rodheim-Bieber in February 2002. Under the title "The life’s work of
+Ernst Schmidt as a local historian and family researcher of Rodheim" he
 made his complete activities accessible in the large room of the local
 history museum. All his books and treatises, a lot of picture material
 as well as some family trees of Rodheim families (altogether nearly 20)
@@ -604,11 +597,10 @@ https://archion.de[Archion.de].
 Archion’s
 https://www.archion.de/en/browse/?no_cache=1&path=40821-623350-623353-855430&cHash=e060d4217d1a59919a330f97efeb7848#https://www.archion.de/en/browse/?no_cache=1&path=40821-564945[EKHN
 records] appear organized by *Dekanant*, which translates as
-``dearnary''. The ``dean'' seems to have been a sort of regional
+"dearnary". The "dean" seems to have been a sort of regional
 Lutheran/Protestant paster responsible for a region.
 
-* The EKHN’s church book finder??
-https://www.ekhn-zentralarchiv.findbuch.net/php/main.php?ar_id=3669[search
+* The EKHN’s church book finder??  https://www.ekhn-zentralarchiv.findbuch.net/php/main.php?ar_id=3669[search
 tool] describes the Dekanat of Gießen and explains when Rodheim became
 part of it.
 
@@ -625,9 +617,9 @@ They were members of the Sankt Johannis Gemeinde, just north of Emmanuel
 were a splinter congregation of Emmanuel according it
 http://www.emmanuelsoest.org/our-history/[history].
 
-===== Marriage of Ludwig ``Louis'' Peppler to daughter of the Benders from Fellinghausen
+===== Marriage of Ludwig "Louis" Peppler to daughter of the Benders from Fellinghausen
 
-Ludwig ``Louis'' married Mary Bender, who was born in Indiana, but whose
+Ludwig "Louis" married Mary Bender, who was born in Indiana, but whose
 parents were from Fellinghausen, Hessen-Darmstadt, very close to
 Rodheim-Bieber. Who else was from Fellinghausen–the Felds? Did they all
 come in chain-migration?
