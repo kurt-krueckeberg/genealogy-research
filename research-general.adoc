@@ -6,6 +6,8 @@ include::nara.adoc[]
 
 include::gen-center.adoc[]
 
+https://stevemorse.org/[stevemorse.org]
+
 ==== Allen County Genealogical Society of Indiana(ACGSI)
 
 https://www.acgsi.org/records.php[ACGSI web page]
