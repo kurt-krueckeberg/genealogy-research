@@ -138,15 +138,23 @@ https://acpl.lib.in.us/pathfinders/snapshots/subjects[Subject Snapshots]
 
 ==== Genealog Center's Microtext Land Record Catalog for Allen County IN
 
-[width="100%",cols="10%,60%.10%,10%,10%",options="header",]
+[cols="1,2,1,1,1",frame="none",grid="rows"]
 |===
-|County|Name|# of Items|Media|Filed Under:
+|County|Name|`#` of Items|Media|Filed Under:
+
 |Allen|Deed Index 1824-1902 |4 |35mm Film |Indiana
+
 |Allen|Deeds 1824-1842 |2 |35mm Film |Indiana
+
 |Allen|Deeds 1824-1901 (Books A-Y, 26-160) |56 |35mm Film |Indiana
+
 |Allen|Deeds 1857-1868, (Books 26-44) |9 |35mm Film |Indiana
+
 |Allen|Mortgage Index 1829-1887 |1 |35mm Film |Indiana
+
 |Allen|Mortgages 1846-1886 |18 |35mm Film |Indiana
+
 |Allen|Mortgage Index 1829-1887|1|35mm Film|	Indiana
+
 |Allen|Mortgages 1846-1886|18|35mm Film|Indiana
 |===
