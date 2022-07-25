@@ -1,10 +1,13 @@
 === Genealogy Center Databases
 
-Genealogy Center's list of databases copied from link:https://acpl.lib.in.us/explore-genealogy/our-resources[about Our Databses]
+These database lists are from link:https://acpl.lib.in.us/explore-genealogy/our-resources[about Our Databses]
+
+https://acpl.lib.in.us/pathfinders/snapshots/subjects[Subject Snapshots]
 
 ==== Free Databases:
 
-[frame="none",grid="rows"]
+.free databases
+[cols="1,2",frame="none",grid="rows"]
 |===
 |Database|Description
 
@@ -47,7 +50,8 @@ Genealogy Center's list of databases copied from link:https://acpl.lib.in.us/exp
 
 ==== On-site Databases:
 
-[frame="none",grid="rows"]
+.onsite databases
+[cols="1,2",frame="none",grid="rows"]
 |===
 |Database|Description
 
