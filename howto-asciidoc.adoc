@@ -1,0 +1,31 @@
+== Tips on Using Asciidoctor
+
+=== Include Directive
+
+To include an image files directly from the defaults `images` folder:
+
+`include::file-name.jpg[]` 
+
+`include::file-name.png[]`. 
+
+The `[]` can contain further image parameters settings such as width and height. The default images folder is `images`. You can change it: 
+
+___
+`:includedir: myimagesdir`
+___
+
+To include other asciidoc files:
+
+`include::other-doc.adoc[]`
+
+=== Custom Stylesheet
+
+See https://docs.asciidoctor.org/asciidoctor/latest/html-backend/custom-stylesheet[Apply a Custom Stylesheet]
+
+I think you can specify your own stylesheet with:
+
+`:stylesheet: mysytles.css`
+
+You can also override parts of the default stylesheet. The details are mentioned on the Asciidoctor site.
+
+See Asciidoctor https://github.com/darshandsoni/asciidoctor-skins[skins project]
