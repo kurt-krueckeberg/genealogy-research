@@ -1,4 +1,7 @@
+= Genealogy Research
 :toc:
+:stylesheet: dark.css
+:stylesdir: skins 
 
 == General Research
 
