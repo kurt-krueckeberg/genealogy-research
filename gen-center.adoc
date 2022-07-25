@@ -1,3 +1,14 @@
+=== Snapshot Guides
+
+Snapshots are research guides:
+
+* https://acpl.lib.in.us/pathfinders/snapshots/subjects[Subject Snapshots] includes a German guide.
+* https://acpl.lib.in.us/pathfinders/snapshots/states[State Snapshots] are State research guides.
+
+=== Allen County Resources
+
+There is an "old"? Allen county Resources page and the current .pdf guides from genealogycenter.org.
+
 === Genealogy Center Databases
 
 These database lists are from link:https://acpl.lib.in.us/explore-genealogy/our-resources[about Our Databses]
