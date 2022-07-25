@@ -28,4 +28,4 @@ I think you can specify your own stylesheet with:
 
 You can also override parts of the default stylesheet. The details are mentioned on the Asciidoctor site.
 
-See Asciidoctor https://github.com/darshandsoni/asciidoctor-skins[skins project]
+See the Asciidoctor https://github.com/darshandsoni/asciidoctor-skins[skins project] and its https://darshandsoni.com/asciidoctor-skins/screenshots/[preview screenshots].
