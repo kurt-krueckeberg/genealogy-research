@@ -84,9 +84,7 @@ parents. In this case, there would be no entry for them in the
 |===
 |RecID Int (Prim Key) |ChildID Int |F amilyID Int |Re lFather Int |Re
 lMother Int |Chi ldOrder Int |Is Private Int
-|
+|===
 
 
 == Analysis of Tables Related to Downloaded Ancestry Media Files
-
-===
