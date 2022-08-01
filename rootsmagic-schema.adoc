@@ -13,7 +13,7 @@ Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
 |IsPrivate Int |Proof Int |Bookmark Int |Note TEXT |UTCModDate Float
 |===
 
-`NameTable` 's `NameID` is the key that identifies every name used in the tree. Each person has a main names and zero or more alternate
+`NameTable` \'s `NameID` is the key that identifies every name used in the tree. Each person has a main names and zero or more alternate
 names. Each row of the `NameTable` also has an `OwnerID` desginating to whom the name belongs. This is a foregin key that no
 doubt maps to `PersonTable.PersonID`. This derives from the fact that
 
@@ -49,6 +49,8 @@ If a mother or father is unknown it appears that their `FatherID` or `MotherID` 
 A FamilyTable allows us to model the fact that a specific mand or a specific woman may have children by more than one person, more than one
 `PersonID`.
 
+todo: Figure out if a Family means they have children. Use my Frankenstein tree. Give a wife to the son, but no children.
+
 .Table 3. FamilyTable
 [width="99%",cols="18%,5%,5%,4%,5%,5%,5%,4%,6%,6%,6%,7%,7%,7%,4%,6%",]
 |===
@@ -74,3 +76,24 @@ lMother Int |Chi ldOrder Int |Is Private Int
 
 
 == Analysis of Tables Related to Downloaded Ancestry Media Files
+
+== todo
+
+- Figure out if a Family means they have children. Use my Frankenstein tree. Give a wife to the son, but no children., expert and import to rootsmagic.
+- Confirm that PersonID is useful for assigning Ancestry Media Gallery files to the correct person.
+- Webtrees may also use the PeronsID and expose it.
+
+
+== Fields to Extract
+
+Either extract or simply read that rootmagic dataase with PHP sqlite3 drive, and asve things like:
+ 
+- `PersonTable.PersonID` 
+
+- `NameTable`
+  - main name
+  - alternate names
+  - birth year
+  - death year
+
+
