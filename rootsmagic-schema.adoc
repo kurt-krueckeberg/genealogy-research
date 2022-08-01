@@ -2,9 +2,8 @@
 
 == Analysis of Main Tables Describing Persons, Names, and Relationshiups
 
-The `PersonTable.PersonID` is the key for all unique individuals in a
-tree. In a addition to the `PersonID` key, the unique `UniqueID` column
-is likely a `GUID` of some sort, perhaps related to GEDOM field?
+The `PersonTable` `PersonID` is the key that identifies all unique individuals in a
+tree. In a addition to the `PersonID` key, `UniqueID` column is likely a `GUID` of some sort, perhaps related to GEDOM field?
 
 .Table 1. PersonTable
 [width="99%",cols="19%,7%,4%,6%,6%,5%,6%,6%,5%,5%,7%,5%,6%,5%,8%",]
@@ -14,22 +13,20 @@ Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
 |IsPrivate Int |Proof Int |Bookmark Int |Note TEXT |UTCModDate Float
 |===
 
-The `NameTable` has key `NameID` that uniquely identifies every nane
-used in the tree. These are each person's main names and any alternate
-names they have. Each row of the `NameTable` also has an `OwnerID`
-desginating to whom the name belongs. This is a foregin key that no
+`NameTable` 's `NameID` is the key that identifies every name used in the tree. Each person has a main names and zero or more alternate
+names. Each row of the `NameTable` also has an `OwnerID` desginating to whom the name belongs. This is a foregin key that no
 doubt maps to `PersonTable.PersonID`. This derives from the fact that
-1.) the count of `OnwerID` s is equal to the count of the `PersonID`s ,
-the unique persons in the tree, and 2.) this links the Person with
-unique `PersonID` to the name(s), which must be done.
 
-It appears that the first `NameID`, of the set of `NameID` s that all
-have the same `OnwerID`, is the "main" name used, and the subsequents
+. the count of `OnwerID` s is equal to the count of the `PersonID`s , the unique persons in the tree, and
+. this links the Person with unique `PersonID` to the name(s). Such a link must be provided.
+
+It appears the first `NameID`, of the set of `NameID` \'s that all have the same `OnwerID`, is the "main" name used, and the subsequents
 names in the set are the 'alternate' names.
 
-Thus a person in the `PersonTable` identified by their `PersonID` has a
-"main" name, but can also have several alternate names. These are
+Thus a person in the `PersonTable` identified by their `PersonID` has a "main" name, but can also have several alternate names. These are
 usually just given names rather than surnames.
+
+The `NameTable` also has the `BirthYear` and `DeathYear`.
 
 .Table 2. NameTable
 [width="99%",cols="17%,3%,4%,3%,3%,3%,4%,4%,3%,5%,4%,4%,3%,4%,3%,4%,4%,3%,4%,5%,4%,4%,5%",]
@@ -41,24 +38,17 @@ TEXT |BirthYear Int |DeathYear Int |Display Int |Language TEXT
 |UTCModDate Float |SurnameMP TEXT |GivenMP TEXT |NicknameMP TEXT
 |===
 
-The `FamilyTable` has a primary key of `FamilyID`. The columns
-`FatherID` and `MotherID` are no doubt foreign keys that map to
-`PersonTable.PersonID`. The pair `FatherID` plus `MotherID` is also
-mostly likely unique since the children from the same couple are cpart
-of the same family entity, even if the family is not a traditional
-nuclear family or even one in which the children grow up. Every child
-has a unique set of father and mother. I’m not sure if the `FamilyTable`
-only models couples that have chilren? Some couples (either
+The `FamilyTable` has a primary key of `FamilyID`. The column pair `FatherID` and `MotherID` must also clearly be unique. These are no doubt foreign keys that map to
+`PersonTable.PersonID`. The unique pair `FatherID` plus `MotherID` can have zero or more children (perhaps one or more, depending on whehter children are necessary to consititue
+a family. Obviously, some couples, married or not, do not have children). This is a conceptual famlily, not one necessary even one in which the children live and grow up wit h the parents.
+Every child has a unique set of father and mother. I’m not sure if the `FamilyTable` only models couples that have chilren? Some couples (either
 intentionally or otherwise) have no children.
 
-If a mother or father is unknown it appears that their `FatherID` or
-`MotherID` is 0.
+If a mother or father is unknown it appears that their `FatherID` or `MotherID` is 0.
 
-A FamilyTable allows us to model the fact that a specific mand or a
-specific woman may have children by more than one person, more than one
+A FamilyTable allows us to model the fact that a specific mand or a specific woman may have children by more than one person, more than one
 `PersonID`.
 
-The `NameTable` also has the `BirthYear` and `DeathYear`.
 .Table 3. FamilyTable
 [width="99%",cols="18%,5%,5%,4%,5%,5%,5%,4%,6%,6%,6%,7%,7%,7%,4%,6%",]
 |===
@@ -68,15 +58,11 @@ The `NameTable` also has the `BirthYear` and `DeathYear`.
 TEXT |MotherLabelStr TEXT |Note TEXT |UTCModDate Float
 |===
 
-The concept of a child and children is modelled by the `ChildTable`.
-Each child in this table has a unique `RecID`. The `ChildID` is no doubt
-a foreign key that maps to `PersonID`. There is also a `FamilyID` that
-no doubt is a foreign key that maps to `FamilyTable.FamilyID`. All
-children with the same `FamilyID` belong to the same family in the sense
-that they have the same set of parents.
+The concept of a child and children is modelled by the `ChildTable`.  Each child in this table has a unique `RecID`. The `ChildID` is no doubt
+a foreign key that maps to `PersonID`. There is also a `FamilyID` that no doubt is a foreign key that maps to `FamilyTable.FamilyID`. All
+children with the same `FamilyID` belong to the same family in the sense that they have the same set of parents.
 
-Perhaps not every person in a tree yet has an idenitifable set of
-parents. In this case, there would be no entry for them in the
+Perhaps not every person in a tree yet has an idenitifable set of parents. In this case, there would be no entry for them in the
 `ChildTable` or `FmailyTable`.
 
 .Table 4. ChildTable
