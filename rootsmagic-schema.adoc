@@ -4,7 +4,7 @@
 
 === PersonTable
 
-The `PersonTable` `PersonID` key identifies each unique individuals in a family tree, and the `UniqueID` column is apparently a `GUID` of some sort, perhaps a field that is part of the **GEDCOM** standard.
+`PersonTable` has `PersonID` key to identify each unique individual in a family tree, and `UniqueID` column that apparently is a `GUID` or hash value, that is perhaps a field that is part of the **GEDCOM** standard.
 
 .Table 1. PersonTable
 [width="99%",cols="19%,7%,4%,6%,6%,5%,6%,6%,5%,5%,7%,5%,6%,5%,8%",]
@@ -16,19 +16,10 @@ Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
 
 === NameTable
 
-`NameTable` \'s `NameID` key identifies every name with surname `Surname` and given name `Given`,  that occurs in the tree, the "primary" name and any alternate names (which typically are alternate given names). `OwnerID` is a foreign key that represents the 
-`PersonTable.PersonID`. This must be true since
+`NameTable` \'s `NameID` key identifies each name that appears in the tree with surname `Surname`, given name `Given`, birth year `BirthYear` and death year `DeathYear`. The "primary" name is given first in order and any alternate names (which typically are alternate given names) immediately follow. `OwnerID` is a foreign key corresponding to the `PersonTable.PersonID` who "owns" this name, the person to whom the name belongs. We infer this from two facts:
 
 . `count(OwnerID) == count(PersonID)`, and
-. how else can the  `PersonID` brto the name(s). Such a link must be provided.
-
-It appears the first `NameID`, of the set of `NameID` \'s that all have the same `OnwerID`, is the "main" name used, and the subsequents
-names in the set are the 'alternate' names.
-
-Thus a person in the `PersonTable` identified by their `PersonID` has a "main" name, but can also have several alternate names. These are
-usually just given names rather than surnames.
-
-The `NameTable` also has the `BirthYear` and `DeathYear`.
+. how else can the `PersonID` be linked to their name (and the other associated facts in the `NameTable` mentioned above)?
 
 .Table 2. NameTable
 [width="99%",cols="17%,3%,4%,3%,3%,3%,4%,4%,3%,5%,4%,4%,3%,4%,3%,4%,4%,3%,4%,5%,4%,4%,5%",]
@@ -40,18 +31,17 @@ TEXT |BirthYear Int |DeathYear Int |Display Int |Language TEXT
 |UTCModDate Float |SurnameMP TEXT |GivenMP TEXT |NicknameMP TEXT
 |===
 
-The `FamilyTable` has a primary key of `FamilyID`. The column pair `FatherID` and `MotherID` must also clearly be unique. These are no doubt foreign keys that map to
-`PersonTable.PersonID`. The unique pair `FatherID` plus `MotherID` can have zero or more children (perhaps one or more, depending on whehter children are necessary to consititue
-a family. Obviously, some couples, married or not, do not have children). This is a conceptual famlily, not one necessary even one in which the children live and grow up wit h the parents.
-Every child has a unique set of father and mother. I’m not sure if the `FamilyTable` only models couples that have chilren? Some couples (either
-intentionally or otherwise) have no children.
+=== FamilyTable
 
-If a mother or father is unknown it appears that their `FatherID` or `MotherID` is 0.
+`FamilyTable` has `FamilyID` key to identify each unique family. The pair `FatherID` and `MotherID` must also clearly be unique. They are no doubt foreign keys that map to
+`PersonTable.PersonID`. 
 
-A FamilyTable allows us to model the fact that a specific mand or a specific woman may have children by more than one person, more than one
-`PersonID`.
+The unique pair `FatherID` plus `MotherID` can have zero or more children. I doubt that a child is required to constitute a family, but I’m not 100% sure of the predicate for `FamilyTable`.
+At any rate, there is no requirement that their offspring ever live and grow up with them.
 
-todo: Figure out if a Family means they have children. Use my Frankenstein tree. Give a wife to the son, but no children.
+It appears that if a mother or father is unknown, their `FatherID` or `MotherID` is 0.
+
+*Todo:* Figure out if a Family means they have children. Use my Frankenstein tree. Give a wife to the son, but no children.
 
 .Table 3. FamilyTable
 [width="99%",cols="18%,5%,5%,4%,5%,5%,5%,4%,6%,6%,6%,7%,7%,7%,4%,6%",]
@@ -62,40 +52,43 @@ todo: Figure out if a Family means they have children. Use my Frankenstein tree.
 TEXT |MotherLabelStr TEXT |Note TEXT |UTCModDate Float
 |===
 
-The concept of a child and children is modelled by the `ChildTable`.  Each child in this table has a unique `RecID`. The `ChildID` is no doubt
-a foreign key that maps to `PersonID`. There is also a `FamilyID` that no doubt is a foreign key that maps to `FamilyTable.FamilyID`. All
+=== ChildTable 
+
+`ChildTable` has key `RecID`. The `ChildID` is no doubt a foreign key referencing the `PersonTable.PersonID`, and `FamilyID` must be a foreign key referencing `FamilyTable.FamilyID`. All
 children with the same `FamilyID` belong to the same family in the sense that they have the same set of parents.
 
-Perhaps not every person in a tree yet has an idenitifable set of parents. In this case, there would be no entry for them in the
-`ChildTable` or `FmailyTable`.
+Can a child belong to more than one family? 
+And what if a person does not yet have an assigned parents. In this case, there would be no entry for them in the `ChildTable` or `FamilyTable`.
 
 .Table 4. ChildTable
 [width="97%",cols="16%,14%,14%,14%,14%,14%,14%",]
 |===
-|RecID Int (Prim Key) |ChildID Int |F amilyID Int |Re lFather Int |Re
+|RecID Int (Prim Key) |ChildID Int |FamilyID Int |Re lFather Int |Re
 lMother Int |Chi ldOrder Int |Is Private Int
 |===
 
 
 == Analysis of Tables Related to Downloaded Ancestry Media Files
 
-== todo
+== Todoes
 
-- Figure out if a Family means they have children. Use my Frankenstein tree. Give a wife to the son, but no children., expert and import to rootsmagic.
-- Confirm that PersonID is useful for assigning Ancestry Media Gallery files to the correct person.
-- Webtrees may also use the PeronsID and expose it.
+=== DB Questions to Figure Out
 
+Figure out if "family" means there must be a child. To test this use my Frankenstein tree. Give a wife to the son, but give them no children, expert and import to rootsmagic.
+And create a SQL join statment, left or right join, to determine if there persons with no parents.
 
-== Fields to Extract
+SQL to show persons with no children is also desired.
 
-Either extract or simply read that rootmagic dataase with PHP sqlite3 drive, and asve things like:
- 
-- `PersonTable.PersonID` 
+=== Ancestry Medis Files
 
-- `NameTable`
-  - main name
-  - alternate names
-  - birth year
-  - death year
+Incorporate my notes for assigning Ancestry Media Gallery files to the correct person.
 
+=== New DB with Forign Key Contrainst
 
+After figure out the question above, dump the Rootsmagic db and import it into a new DB that has the foreign key contraints described above.
+
+=== Other 
+
+- Look into Webtrees and its tables.
+
+- Look into Tim Forsythe's GEDCOM 5 validator writtenin C++.
