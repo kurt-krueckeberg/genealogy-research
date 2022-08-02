@@ -4,7 +4,7 @@
 
 === PersonTable
 
-`PersonTable.PersonID` key identifies a unique person (in the family tree) with sex of `Sex` and with unique `UniqueID` (which apparently is a `GUID` or hash value that is **GEDCOM** standard field).
+`PersonTable.PersonID` key identifies a unique person (in the family tree) whose sex is `Sex` and with unique `UniqueID` (which apparently is a `GUID` or hash value that is **GEDCOM** standard field).
 
 .table PersonTable
 [width="99%",cols="19%,7%,4%,6%,6%,5%,6%,6%,5%,5%,7%,5%,6%,5%,8%",]
