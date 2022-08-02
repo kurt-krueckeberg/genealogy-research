@@ -40,7 +40,7 @@ TEXT |BirthYear Int |DeathYear Int |Display Int |Language TEXT
 `FamilyTable` has `FamilyID` key to identify each unique family. The pair `FatherID` and `MotherID` must also clearly be unique, and no doubt are foreign keys referencing `PersonTable.PersonID`. 
 
 The unique pair `FatherID` plus `MotherID` can have zero or more children. I doubt that a child is required to constitute a family, but I’m not 100% sure of the predicate for `FamilyTable`.
-At any rate, there is no requirement that their offspring ever live and grow up with them.
+At any rate, there is no requirement that their offspring ever live and grow up with their parents.
 
 It appears that if a mother or father is unknown, their `FatherID` or `MotherID` is 0.
 
