@@ -42,7 +42,7 @@ TEXT |BirthYear Int |DeathYear Int |Display Int |Language TEXT
 The unique pair `FatherID` plus `MotherID` can have zero or more children. I doubt that a child is required to constitute a family, but I’m not 100% sure this is the predicate for `FamilyTable`.
 At any rate, there is no requirement that their offspring ever live and grow up with their parents.
 
-It appears that if a mother or father is unknown, their `FatherID` or `MotherID` is 0.
+It appears that if a mother or father is unknown their `FatherID` or `MotherID` is 0.
 
 *Todo:* Figure out if a Family means they have children. Use my Frankenstein tree. Give a wife to the son, but no children.
 
