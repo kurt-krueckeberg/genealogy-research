@@ -83,7 +83,7 @@ SQL to show persons with no children is also desired.
 
 Incorporate my notes for assigning Ancestry Media Gallery files to the correct person.
 
-=== New DB with Forign Key Contrainst
+=== New DB with Forign Key Contraints
 
 After figure out the question above, dump the Rootsmagic db and import it into a new DB that has the foreign key contraints described above.
 
