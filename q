@@ -4,9 +4,9 @@
 
 === PersonTable
 
-`PersonTable.PersonID` key identifies a unique person (in the family tree) with unique `UniqueID` (which apparently is a `GUID` or hash value that is **GEDCOM** standard field).
+`PersonTable.PersonID` key identifies a unique person (in the family tree) with unique `UniqueID`, which apparently is a `GUID` or hash value that is perhaps a field that in the **GEDCOM** standard.
 
-.table PersonTable
+.Table 1. PersonTable
 [width="99%",cols="19%,7%,4%,6%,6%,5%,6%,6%,5%,5%,7%,5%,6%,5%,8%",]
 |===
 |PersonID Int (Prim Key) |UniqueID TEXT |Sex Int |ParentID Int |SpouseID
@@ -16,12 +16,12 @@ Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
 
 === NameTable
 
-`NameTable.NameID` key identifies each name that appears in the tree with surname `Surname`, given name `Given`, birth year `BirthYear` and death year `DeathYear`. The "primary" name is given first in order and any alternate names (which typically are alternate given names) immediately follow. `OwnerID` is a foreign key corresponding to the `PersonTable.PersonID` who "owns" this name, the person to whom the name belongs. We infer this from two facts:
+`NameTable` \'s `NameID` key identifies each name that appears in the tree with surname `Surname`, given name `Given`, birth year `BirthYear` and death year `DeathYear`. The "primary" name is given first in order and any alternate names (which typically are alternate given names) immediately follow. `OwnerID` is a foreign key corresponding to the `PersonTable.PersonID` who "owns" this name, the person to whom the name belongs. We infer this from two facts:
 
 . `count(OwnerID) == count(PersonID)`, and
 . how else can the `PersonID` be linked to their name (and the other associated facts in the `NameTable` mentioned above)?
 
-.table NameTable
+.Table 2. NameTable
 [width="99%",cols="17%,3%,4%,3%,3%,3%,4%,4%,3%,5%,4%,4%,3%,4%,3%,4%,4%,3%,4%,5%,4%,4%,5%",]
 |===
 |NameID Int (Prim Key) |OwnerID Int |Surname TEXT |Given TEXT |Prefix
@@ -43,7 +43,7 @@ It appears that if a mother or father is unknown, their `FatherID` or `MotherID`
 
 *Todo:* Figure out if a Family means they have children. Use my Frankenstein tree. Give a wife to the son, but no children.
 
-.table FamilyTable
+.Table 3. FamilyTable
 [width="99%",cols="18%,5%,5%,4%,5%,5%,5%,4%,6%,6%,6%,7%,7%,7%,4%,6%",]
 |===
 |FamilyID Int (Prim Key) |FatherID Int |MotherID Int |ChildID Int
@@ -60,7 +60,7 @@ children with the same `FamilyID` belong to the same family in the sense that th
 Can a child belong to more than one family? 
 And what if a person does not yet have an assigned parents. In this case, there would be no entry for them in the `ChildTable` or `FamilyTable`.
 
-.table ChildTable
+.Table 4. ChildTable
 [width="97%",cols="16%,14%,14%,14%,14%,14%,14%",]
 |===
 |RecID Int (Prim Key) |ChildID Int |FamilyID Int |Re lFather Int |Re
