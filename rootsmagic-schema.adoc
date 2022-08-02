@@ -4,7 +4,7 @@
 
 === PersonTable
 
-`PersonTable.PersonID` key identifies a unique person (in the family tree) whose sex is `Sex` and with unique `UniqueID` (which apparently is a `GUID` or hash value that is **GEDCOM** standard field).
+`PersonTable.PersonID` key identifies a unique person (in the family tree) with sex `Sex` and with unique `UniqueID` (apparently a `GUID` or hash value that is a **GEDCOM** standard field).
 
 .table PersonTable
 [width="99%",cols="19%,7%,4%,6%,6%,5%,6%,6%,5%,5%,7%,5%,6%,5%,8%",]
@@ -18,7 +18,7 @@ Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
 
 `NameTable.NameID` key identifies each unique name with surname `Surname`, given name `Given`, birth year `BirthYear` and death year `DeathYear`.
 
-The *primary* name appears first (with the smallest `NameID`) and any alternate names (typically alternate given names) immediately follow.
+The *primary* name appears first (with the smallest `NameID`). A alternate names (typically alternate given names) immediately follow.
 
 `OwnerID` is a foreign key corresponding to the `PersonTable.PersonID`, the person to whom the name belongs. We inferred this from two facts:
 
