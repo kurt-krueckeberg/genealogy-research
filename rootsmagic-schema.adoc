@@ -1,9 +1,10 @@
-= Analysis of Rootsmagic Database
+= Analysis of the Rootsmagic Database
 
-== Analysis of Main Tables Describing Persons, Names, and Relationshiups
+== Tables Related to Persons, Names, and Relationships, etc.
 
-The `PersonTable` `PersonID` is the key that identifies all unique individuals in a
-tree. In a addition to the `PersonID` key, `UniqueID` column is likely a `GUID` of some sort, perhaps related to GEDOM field?
+=== PersonTable
+
+The `PersonTable` `PersonID` key identifies each unique individuals in a family tree, and the `UniqueID` column is apparently a `GUID` of some sort, perhaps a field that is part of the **GEDCOM** standard.
 
 .Table 1. PersonTable
 [width="99%",cols="19%,7%,4%,6%,6%,5%,6%,6%,5%,5%,7%,5%,6%,5%,8%",]
@@ -13,12 +14,13 @@ Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
 |IsPrivate Int |Proof Int |Bookmark Int |Note TEXT |UTCModDate Float
 |===
 
-`NameTable` \'s `NameID` is the key that identifies every name used in the tree. Each person has a main names and zero or more alternate
-names. Each row of the `NameTable` also has an `OwnerID` desginating to whom the name belongs. This is a foregin key that no
-doubt maps to `PersonTable.PersonID`. This derives from the fact that
+=== NameTable
 
-. the count of `OnwerID` s is equal to the count of the `PersonID`s , the unique persons in the tree, and
-. this links the Person with unique `PersonID` to the name(s). Such a link must be provided.
+`NameTable` \'s `NameID` key identifies every name with surname `Surname` and given name `Given`,  that occurs in the tree, the "primary" name and any alternate names (which typically are alternate given names). `OwnerID` is a foreign key that represents the 
+`PersonTable.PersonID`. This must be true since
+
+. `count(OwnerID) == count(PersonID)`, and
+. how else can the  `PersonID` brto the name(s). Such a link must be provided.
 
 It appears the first `NameID`, of the set of `NameID` \'s that all have the same `OnwerID`, is the "main" name used, and the subsequents
 names in the set are the 'alternate' names.
