@@ -23,7 +23,7 @@ The *primary name* appears first (with the smallest NameID). Any alternate names
 `OwnerID` is a foreign key corresponding to the `PersonTable.PersonID`, the person to whom the name belongs. We inferred this from two facts:
 
 . `count(OwnerID) == count(PersonID)`, and
-. A `PersonID` must have a name, there must be a link to their `NameTable` names (and the other associated facts in `NameTable`)
+. A `PersonID` must have a name, there must be a link to their `NameTable` name(s) and the other associated facts in `NameTable`.
 
 .NameTable
 [width="99%",cols="17%,3%,4%,3%,3%,3%,4%,4%,3%,5%,4%,4%,3%,4%,3%,4%,4%,3%,4%,5%,4%,4%,5%",]
