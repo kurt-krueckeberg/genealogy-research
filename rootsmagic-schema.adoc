@@ -18,7 +18,8 @@ Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
 
 `NameTable.NameID` key identifies each unique name with surname `Surname`, given name `Given`, birth year `BirthYear` and death year `DeathYear`.
 
-The *primary* name appears first (with the smallest `NameID`). A alternate names (typically alternate given names) immediately follow.
+'a' is not recognized as an internal or external command,
+operable program or batch file.
 
 `OwnerID` is a foreign key corresponding to the `PersonTable.PersonID`, the person to whom the name belongs. We inferred this from two facts:
 
