@@ -59,7 +59,7 @@ TEXT |MotherLabelStr TEXT |Note TEXT |UTCModDate Float
 
 All children with the same `FamilyID` belong to the same family in the sense they have the same set of parents.
 
-Can a child belong to more than one family? And what if a person does not yet have any or both assigned parents. In this case, there would be no entry for them in the `ChildTable` or `FamilyTable`.
+Can a child belong to more than one family? And what if a person does not yet have any or both assigned parents. In this case, there should be no entry for them in the `ChildTable` or `FamilyTable`.
 
 .ChildTable
 [width="97%",cols="16%,14%,14%,14%,14%,14%,14%",]
