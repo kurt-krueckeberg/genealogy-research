@@ -55,7 +55,8 @@ TEXT |MotherLabelStr TEXT |Note TEXT |UTCModDate Float
 
 === ChildTable 
 
-`ChildTable` has key `RecID`. The `ChildID` is no doubt a foreign key referencing the `PersonTable.PersonID` and `FamilyID` a foreign key referencing `FamilyTable.FamilyID`.
+`ChildTable` has key `RecID`, child identifier `ChildID`, no doubt a foreign key referencing the `PersonTable.PersonID`, family identifier `FamilyID` a foreign key referencing `FamilyTable.FamilyID`
+and `ChildOrder` indicating birth order. The integer attributes `RelFather` and `RelMother` are unclear.
 
 All children with the same `FamilyID` belong to the same family in the sense they have the same set of parents.
 
