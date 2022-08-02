@@ -16,7 +16,8 @@ Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
 
 === NameTable
 
-`NameTable.NameID` key identifies each name that appears in the tree with surname `Surname`, given name `Given`, birth year `BirthYear` and death year `DeathYear`. The "primary" name is given first in order and any alternate names (which typically are alternate given names) immediately follow. `OwnerID` is a foreign key corresponding to the `PersonTable.PersonID` who "owns" this name, the person to whom the name belongs. We infer this from two facts:
+`NameTable.NameID` key identifies each unique name with surname `Surname`, given name `Given`, birth year `BirthYear` and death year `DeathYear`. The *primary* name appears first in order (with the smallest `NameID`)
+and any alternate names (typically alternate given names) immediately follow. `OwnerID` is a foreign key corresponding to the `PersonTable.PersonID` who "owns" this name, the person to whom the name belongs. We infer this from two facts:
 
 . `count(OwnerID) == count(PersonID)`, and
 . how else can the `PersonID` be linked to their name (and the other associated facts in the `NameTable` mentioned above)?
