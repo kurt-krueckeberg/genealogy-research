@@ -9,8 +9,7 @@ The `PersonTable.PersonID` key identifies a unique person (in the family tree) w
 .PersonTable
 [width="99%",cols="19%,7%,4%,6%,6%,5%,6%,6%,5%,5%,7%,5%,6%,5%,8%",]
 |===
-|PersonID Int (Prim Key) |UniqueID TEXT |Sex Int |ParentID Int |SpouseID
-Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
+|PersonID Int (Prim Key) |UniqueID TEXT |Sex Int |ParentID Int |SpouseID Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
 |IsPrivate Int |Proof Int |Bookmark Int |Note TEXT |UTCModDate Float
 |===
 
@@ -28,10 +27,8 @@ The *primary name* appears first (with the smallest NameID). Any alternate names
 .NameTable
 [width="99%",cols="17%,3%,4%,3%,3%,3%,4%,4%,3%,5%,4%,4%,3%,4%,3%,4%,4%,3%,4%,5%,4%,4%,5%",]
 |===
-|NameID Int (Prim Key) |OwnerID Int |Surname TEXT |Given TEXT |Prefix
-TEXT |Suffix TEXT |Nickname TEXT |NameType Int |Date TEXT |SortDate
-BigInt |IsPrimary Int |IsPrivate Int |Proof Int |Sentence TEXT |Note
-TEXT |BirthYear Int |DeathYear Int |Display Int |Language TEXT
+|NameID Int (Prim Key) |OwnerID Int |Surname TEXT |Given TEXT |Prefix TEXT |Suffix TEXT |Nickname TEXT |NameType Int |Date TEXT |SortDate
+BigInt |IsPrimary Int |IsPrivate Int |Proof Int |Sentence TEXT |Note TEXT |BirthYear Int |DeathYear Int |Display Int |Language TEXT
 |UTCModDate Float |SurnameMP TEXT |GivenMP TEXT |NicknameMP TEXT
 |===
 
@@ -47,10 +44,8 @@ It appears that if a mother or father is unknown their `FatherID` or `MotherID` 
 .FamilyTable
 [width="99%",cols="18%,5%,5%,4%,5%,5%,5%,4%,6%,6%,6%,7%,7%,7%,4%,6%",]
 |===
-|FamilyID Int (Prim Key) |FatherID Int |MotherID Int |ChildID Int
-|HusbOrder Int |WifeOrder Int |IsPrivate Int |Proof Int |SpouseLabel Int
-|FatherLabel Int |MotherLabel Int |SpouseLabelStr TEXT |FatherLabelStr
-TEXT |MotherLabelStr TEXT |Note TEXT |UTCModDate Float
+|FamilyID Int (Prim Key) |FatherID Int |MotherID Int |ChildID Int |HusbOrder Int |WifeOrder Int |IsPrivate Int |Proof Int |SpouseLabel Int
+|FatherLabel Int |MotherLabel Int |SpouseLabelStr TEXT |FatherLabelStr TEXT |MotherLabelStr TEXT |Note TEXT |UTCModDate Float
 |===
 
 === ChildTable 
@@ -65,8 +60,7 @@ Can a child belong to more than one family? And what if a person does not yet ha
 .ChildTable
 [width="97%",cols="16%,14%,14%,14%,14%,14%,14%",]
 |===
-|RecID Int (Prim Key) |ChildID Int |FamilyID Int |Re lFather Int |Re
-lMother Int |Chi ldOrder Int |Is Private Int
+|RecID Int (Prim Key) |ChildID Int |FamilyID Int |RelFather Int |RelMother Int |Chi ldOrder Int |Is Private Int
 |===
 
 == Analysis of Tables Related to Downloaded Ancestry Media Files
