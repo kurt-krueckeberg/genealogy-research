@@ -86,10 +86,11 @@ After figure out the question above, dump the Rootsmagic db and import it into a
 
 - Look into an alternate solution of:
 
-  - Converting GEDCOM 5 to GECOM X, and then
+  - Github FamilySearch Converting GEDCOM 5 to GECOM X, and then
 
-  - Using Gecom X library to extract the details.
+  - Github FamilySearch GEDCOM 5 Parser
+
+  - Using Github FamilySearch PHP Gecom X library to extract the details.
 
 - Look into Webtrees and its tables.
 
-- Look into Tim Forsythe's GEDCOM 5 validator writtenin C++.
