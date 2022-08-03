@@ -36,8 +36,8 @@ BigInt |IsPrimary Int |IsPrivate Int |Proof Int |Sentence TEXT |Note TEXT |Birth
 
 `FamilyTable` has `FamilyID` key to identify each unique family. The pair `FatherID` and `MotherID` must also clearly be unique, and no doubt are foreign keys referencing `PersonTable.PersonID`. 
 
-The unique pair `FatherID` plus `MotherID` can have zero or more children. I doubt that a child is required to constitute a family, but I’m not 100% sure this is the predicate for `FamilyTable`.
-At any rate, there is no requirement that their offspring ever live and grow up with their parents.
+The unique pair `FatherID` plus `MotherID` can have zero or more children. I doubt that a child is required to constitute a family, but this predicate for `FamilyTable` has not been verified.
+Genealogical software does not, in general, does not directly concern itslef with issues like whether the offspring of a realtionship ever live with or grow up with their parents.
 
 It appears that if a mother or father is unknown their `FatherID` or `MotherID` is 0.
 
@@ -83,6 +83,12 @@ Incorporate my notes for assigning Ancestry Media Gallery files to the correct p
 After figure out the question above, dump the Rootsmagic db and import it into a new DB that has the foreign key contraints described above.
 
 === Other 
+
+- Look into an alternate solution of:
+
+  - Converting GEDCOM 5 to GECOM X, and then
+
+  - Using Gecom X library to extract the details.
 
 - Look into Webtrees and its tables.
 
