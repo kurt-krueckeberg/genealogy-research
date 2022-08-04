@@ -7,10 +7,10 @@
 The `PersonTable.PersonID` key identifies a unique person (in the family tree) with sex `Sex` and with unique `UniqueID` (apparently a `GUID` or hash value that is a **GEDCOM** standard field).
 
 .PersonTable
-[width="99%",cols="19%,7%,4%,6%,6%,5%,6%,6%,5%,5%,7%,5%,6%,5%,8%",]
+[width="99%"]
 |===
-|PersonID Int (Prim Key) |UniqueID TEXT |Sex Int |ParentID Int |SpouseID Int |Color Int |Relate1 Int |Relate2 Int |Flags Int |Living Int
-|IsPrivate Int |Proof Int |Bookmark Int |Note TEXT |UTCModDate Float
+|PersonID Int (Prim Key) |UniqueID TEXT |Sex Int |ParentID Int |SpouseID Int |Color Int |Relate1 Int |Relate2 Int
+|Flags Int |Living Int |IsPrivate Int |Proof Int |Bookmark Int |Note TEXT |UTCModDate Float
 |===
 
 === NameTable
