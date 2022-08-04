@@ -2,9 +2,14 @@
 
 == Tables Related to Persons, Names, and Relationships, etc.
 
+RootsMagic apparently has a custom-defined collation sequence `RMNOCASE` (Roots Magic No Case). https://sqlitetoolsforrootsmagic.com/RMNOCASE-faking-it-in-SQLite-Expert-command-line-shell-et-al/[SQLite Tools for RootsMagic]
+mentions this.
+
 === PersonTable
 
-The `PersonTable.PersonID` key identifies a unique person (in the family tree) with sex `Sex` and with unique `UniqueID` (apparently a `GUID` or hash value that is a **GEDCOM** standard field).
+==== Predicate
+The `PersonTable` `PersonID` key identifies a unique individual (in the family tree) with sex `Sex`, unique `UniqueID` (that apparently is a `GUID` or hash value that is a **GEDCOM** standard field),
+parent(s) `ParentID`, spouse `SpouseID` and `Living` boolean flag.
 
 .PersonTable
 [width="99%"]
@@ -13,16 +18,16 @@ The `PersonTable.PersonID` key identifies a unique person (in the family tree) w
 |Flags Int |Living Int |IsPrivate Int |Proof Int |Bookmark Int |Note TEXT |UTCModDate Float
 |===
 
+==== Comments
+
+- `Sex` is acutally a  boolean but is defined as `integer`.
+- `Living` is acutally a  boolean but is defined as `integer`.
+- Since `ParentID == 0` and `SpouseID == 0` for most rows, the actual significance of these attributes is uncertain.
+
 === NameTable
 
-The `NameTable.NameID` key identifies each unique name with surname `Surname`, given name `Given`, birth year `BirthYear` and death year `DeathYear`.
-
-The *primary name* appears first (with the smallest NameID). Any alternate names (typically alternate given names) immediately follow.
-
-`OwnerID` is a foreign key corresponding to the `PersonTable.PersonID`, the person to whom the name belongs. We infer this from the facts:
-
-. `count(OwnerID) == count(PersonID)`, and
-. A `PersonID` must have a name, there must be a link to their `NameTable` name(s) and the other associated facts in `NameTable`.
+==== Predicate
+The `NameTable.NameID` key identifies a unique name with surname `Surname`, given name `Given`, birth year `BirthYear` and death year `DeathYear`.
 
 .NameTable
 [width="99%",cols="17%,3%,4%,3%,3%,3%,4%,4%,3%,5%,4%,4%,3%,4%,3%,4%,4%,3%,4%,5%,4%,4%,5%",]
@@ -31,6 +36,15 @@ The *primary name* appears first (with the smallest NameID). Any alternate names
 BigInt |IsPrimary Int |IsPrivate Int |Proof Int |Sentence TEXT |Note TEXT |BirthYear Int |DeathYear Int |Display Int |Language TEXT
 |UTCModDate Float |SurnameMP TEXT |GivenMP TEXT |NicknameMP TEXT
 |===
+
+==== Comments
+
+The *primary name* appears first, i.e., it has the smallest `NameID`. Alternate names, which typically are alternate given names, immediately follow it.
+
+`OwnerID` is a foreign key corresponding to the `PersonTable.PersonID`, the person to whom the name belongs. We infer this from the fact that:
+
+. `count(OwnerID) == count(PersonID)`, and
+. A `PersonID` must have a name, there must be a link to their `NameTable` name(s) and the other associated facts in `NameTable`.
 
 === FamilyTable
 

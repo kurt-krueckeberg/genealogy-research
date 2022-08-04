@@ -1,0 +1,8 @@
+select NameTable.Given,
+NameTable.Surname,
+PersonTable.Sex
+From NameTable inner join PersonTable
+ on NameTable.OwnerID=PersonTable.PersonID
+Order By Surname;
+
+Order By can't be used due to RMONOCASE
