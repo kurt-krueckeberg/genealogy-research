@@ -1,0 +1,8 @@
+- Create an Sqlite3 or MySql database that has foreign key constraints. And wirte PHP code to read into it.
+
+- Take note of the precise meaning and defined values for these table attributes: https://sqlitetoolsforrootsmagic.com/understanding-the-rootsmagic-8-database-type-decodes/#Multimedian
+
+- Look into https://github.com/ricko2001/Genealogy-scripts/tree/main/RM%20-Test%20external%20files
+
+
+- Look into the fuzz??.dll need to do Order By 

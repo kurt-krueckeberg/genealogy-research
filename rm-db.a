@@ -1,5 +1,9 @@
 = Understanding the Rootsmagic Database
 
+== SQLite3 Tools
+
+https://sqlitetoolsforrootsmagic.com/SQLiteManagers/[List].
+
 == RootsMagic Database Overview
 This information is from https://sqlitetoolsforrootsmagic.com[SQLite Tools for RootsMagic]. 
 https://docs.google.com/spreadsheets/d/1yOb8klovt6UXStcD_S2g7wkkKh4S12AZJ9zSo1Dz_-g/pubhtml#[RootsMagic4+DataDefs.ods] has several documents related to explaing the RM database. Yellow highlighted 
