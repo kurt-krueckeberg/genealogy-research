@@ -112,8 +112,17 @@ It appears that if a mother or father is unknown their `FatherID` or `MotherID` 
 
 === ChildTable 
 
-`ChildTable` has key `RecID`, child identifier `ChildID`, no doubt a foreign key referencing the `PersonTable.PersonID`, family identifier `FamilyID` a foreign key referencing `FamilyTable.FamilyID`
-and `ChildOrder` indicating birth order. The integer attributes `RelFather` and `RelMother` are unclear.
+`ChildTable` has key `RecID`, child identifier `ChildID`, a foreign key referencing the `PersonTable.PersonID`, and... 
+
+- `ChildID` foreign key referencing PersonID in PersonTable
+- `FamilyID` references `FamilyTable.FamilyID` or Marriage Record Identication Number (MRIN). 
+- `RelFather` relationship to Father: 0-Birth,1-Adopted, 2- Step,etc
+- `RelMother` relationship to Mother: 0-Birth,1-Adopted, 2- Step,etc
+- `ChildOrder` 0 means in record order; 1,2,... revises the order for the family but 1000 also observed for child added w/o birthdate, and 501 sometimes noted when no other children in family.
+- `IsPrivate` 0 or 1.	1 if Private checked in Parents pane of Edit Person dialog. Effect on reports is not apparent.
+- `ProofFather` 0,1,2,3	Set by Proof listbox in Parents pane of Edit Persons. 0-blank, 1-Proven, 2-Disproven, 3-Disputed
+- `ProofMother` 0,1,2,3	Set by Proof listbox in Parents pane of Edit Persons. 0-blank, 1-Proven, 2-Disproven, 3-Disputed
+- `Note` unused?
 
 .ChildTable
 [width="97%",cols="16%,14%,14%,14%,14%,14%,14%",]
