@@ -1,5 +1,5 @@
 
-== Tables Related to Persons, Names, and Relationships, etc.
+=== Analysis of Tables Related to Persons, Names, and Relationships, etc.
 
 RootsMagic apparently has a custom-defined collation sequence `RMNOCASE` (Roots Magic No Case). https://sqlitetoolsforrootsmagic.com/RMNOCASE-faking-it-in-SQLite-Expert-command-line-shell-et-al/[SQLite Tools for RootsMagic]
 mentions this.
@@ -88,19 +88,18 @@ It appears that if a mother or father is unknown their `FatherID` or `MotherID` 
 |===
 
 - `ChildID` is almost always 0.
-FamilyTable	FamilyID	I	PRIMARY	1,2,3...	Family Identification Number
-FamilyTable	FatherID	I		1,2,3...	Father Identification Number, linking to PersonID of PersonTable
-FamilyTable	MotherID	I		1,2,3...	Mother Identification Number, linking to PersonID of PersonTable
-FamilyTable	ChildID	I		0,1,2,...	Child Identification Number, linking to PersonID of PersonTable (0 if no children) [RIN of one of children, possibly last active in Pedigree view, others?]
-FamilyTable	HusbOrder	I		0,1,2,...	Husband Order, from Rearrange Spouses screen (0 if never rearranged) [some oddities, such as value of 2, but only one husband?]
-FamilyTable	WifeOrder	I		0,1,2,...	Wife Order, from Rearrange Spouses screen (0 if never rearranged) [some oddities such as value of 2, but only one wife?]
-FamilyTable	IsPrivate	I		0,1	Private, from Edit Person screen (0 = Not Private (unchecked), 1 = Private (checked))
-FamilyTable	Proof	I		0-3	Proof, from Edit Person screen (0 = [blank], 1 = Proven, 2 = Disproven, 3 = Disputed)
-FamilyTable	SpouseLabel	I		0	not currently supported?
-FamilyTable	FatherLabel	I		0-2	Husband label, from Edit Person screen (0 = Father, 1 = Husband, 2 = Partner)
-FamilyTable	MotherLabel	I		0-2	Wife label, from Edit Person screen (0 = Mother, 1 = Wife, 2 = Partner)
-FamilyTable	Note	B		Text	Note, from Edit Person screen
-
+- `FamilyID` Family Identification Number
+- `FatherID` Father Identification Number, linking to PersonID of PersonTable
+- `MotherID` Mother Identification Number, linking to PersonID of PersonTable
+- `ChildID` Number linking to PersonID of PersonTable (0 if no children) [RIN of one of children, possibly last active in Pedigree view, others?]
+- `HusbOrder` Husband Order, from Rearrange Spouses screen (0 if never rearranged) [some oddities, such as value of 2, but only one husband?]
+- `WifeOrder` Wife Order, from Rearrange Spouses screen (0 if never rearranged) [some oddities such as value of 2, but only one wife?]
+- `IsPrivate` Private from Edit Person screen (0 = Not Private (unchecked), 1 = Private (checked))
+- `Proof` Proof from Edit Person screen (0 = [blank], 1 = Proven, 2 = Disproven, 3 = Disputed)
+- `SpouseLabel` not currently supported?
+- `FatherLabel` Husband label, from Edit Person screen (0 = Father, 1 = Husband, 2 = Partner)
+- `MotherLabel` Wife label, from Edit Person screen (0 = Mother, 1 = Wife, 2 = Partner)
+- `Note` Note from Edit Person screen
 
 === ChildTable 
 

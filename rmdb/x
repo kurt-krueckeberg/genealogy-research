@@ -19,7 +19,7 @@ if ($argc !== 2)
 else if (!file_exists($argv[1]))
   die ($argv[1] . " does not exist.\n");
 
-$cmd = "a " . $argv[1] . " -a stylesheet=./skins/dark.css -o ~/k/temp/new.html";
+$cmd = "a " . $argv[1] . " -o ~/k/temp/new.html";
 
 echo "$cmd \n";
 

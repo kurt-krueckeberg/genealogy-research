@@ -1,17 +1,21 @@
-= Understanding the Rootsmagic Database
+= Rootsmagic Database
+:toc:
+:stylesheet: dark.css
+:stylesdir: skins 
 
 == RootsMagic Sqlite3 DB
-RootsMagic8 (RM8)  is Sqlite3 relational database that uses a custom collation scheme RMNOCASE that prevents `Order By` from working.
+RootsMagic 8 (RM8) is a sqlite3 database that uses a custom collation scheme RMNOCASE that often prevents `Order By` from working.
 
 == SQLite3 Tools
 
-In addition to the CLI Ubuntu *sqlite3* package, this is list of https://sqlitetoolsforrootsmagic.com[SQLite Tools] that can be used with RootsMagic or any Sqlite3 db. 
+In addition to the CLI Ubuntu *sqlite3* package, this is a list of https://sqlitetoolsforrootsmagic.com[SQLite Tools] that can be used with sqlite3 db. 
 
 == RootsMagic Database Overview
 
-https://docs.google.com/spreadsheets/d/1yOb8klovt6UXStcD_S2g7wkkKh4S12AZJ9zSo1Dz_-g/pubhtml#[RootsMagic4+DataDefs.ods] is a single document containing spreadsheets/documents that explain the schema, tables, etc. *Yellow highlighted* text pertains only to RM8.
+https://docs.google.com/spreadsheets/d/1yOb8klovt6UXStcD_S2g7wkkKh4S12AZJ9zSo1Dz_-g/pubhtml#[RootsMagic4+DataDefs.ods] is a document contaaing other documents that explain the RM tables, columns, etc. 
+*Yellow highlighted* text pertains only to RM8.
 
-It includes a summary of the tables, excerpted below.
+Below is an excerpted summary of the tablesbelow.
 
 === Table Summary
 
@@ -117,7 +121,7 @@ Stores data for individual and family Event sharing among persons in tree and ou
 
 === Relevant Tables
 
-The tables most relevant to me would be these.
+These tables seem most relevant to me. 
 
 *AddressLinkTable*
 
@@ -191,3 +195,4 @@ Stores Citation Source details for each unique source, linked from CitationTable
 
 Stores data for individual and family Event sharing among persons in tree and outside the tree, with links to RoleTable (Witness, Doctor, user-defined), EventTable, and to PersonTable (if in tree). Stores note for shared event plus name of person if not in tree. If person is not in tree, nothing of this record appears in reports.
 
+include::analysis-schema.adoc[]
