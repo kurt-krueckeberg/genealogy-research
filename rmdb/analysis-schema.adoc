@@ -21,14 +21,15 @@ parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` :wqand `Living
 
 - `Sex` is a boolean (but defined as integer): `0` if male, `1` if female.
 - `ParentID` is often zero.
-- `SpouseID` is almost always zero (meaming no spouse?). When not zero, it is like a foreign key referencing `FamilyTable.FamilyID`.
+- `SpouseID` is almost always zero. When not zero, it functions like a foreign key that references `FamilyTable.FamilyID`. The corresponding `FmailyTable` roww will have either `FahterID` or `MotherID` who is
+   the spouse(of this `PersonID`). But `SpouseID` is not necessary in determing the family that this person is a child of (or a parent of).
 - `Living` is boolean 
 - `Color`
   from "color coding" screen ( 0 = None,  1 = Red,  2 = Lime,  3 = Blue,  4 = Fuschia,  5 = Yellow,  6 = Aqua,  7 = Silver,  8 = Maroon,  9 = Green, 10 = Navy, 11 = Purple, 12 = Brown, 13 = Teal, 14 = Gray)
 - `Relate1`
-  number of generations from person to ancestor in common with person chosen via Tools -> Set Relationships (See Relationship1&2 sheet for exceptions and further explanation)
+  number of generations from person to ancestor in common with person chosen via Tools -> Set Relationships. See the "Relationship1&2" spreadsheet for exceptions and further explanation. Not relevant.
 - `Relate2`
-  number of generations from person chosen via Tools -> Set Relationships to ancestor in common with person (See Relationship1&2 sheet for exceptions and further explanation)
+  number of generations from person chosen via Tools -> Set Relationships to ancestor in common with person. See Relationship1&2 sheet for exceptions and further explanation. Not relevant.
 - `Flags`
   not currently used?
 - `IsPrivate`
@@ -69,13 +70,19 @@ The *primary name* appears first, i.e., it has the smallest `NameID`. Alternate 
 - `BirthYear` is either 0 or four-digit year extracted from EventTable.Date for Birth FactType for Person, if Primary Name or Alternate Name.
 - `DeathYear` is either 0 or four-digit year extracted from EventTable.Date for Death FactType for Person, if Primary Name or Alternate Name.
 
+==== Queries
+
+[source]
+----
+select p.Sex as sex, n.Surname as Surname, n.given as given, n.BirthYear birth_year, n.Deathyear as death_year from PersonTable as p join NameTable as n on p.PersonID=n.OwnerID;
+----
+
 === FamilyTable
 
 `FamilyTable` has `FamilyID` key to identify each unique family. `FatherID` and `MotherID` function like foreign keys referencing `PersonTable.PersonID` when they
 are non-zero.
-. 
 
-The unique pair `FatherID` plus `MotherID` can have zero or more children. I doubt that a child is required to constitute a family, but this predicate for `FamilyTable` has not been verified.
+The unique pair `FatherID` plus `MotherID` can have zero or more children (I believe). I doubt that a child is required to constitute a family, but this predicate for `FamilyTable` has not been verified.
 Genealogical software does not, in general, does not directly concern itslef with issues like whether the offspring of a realtionship ever live with or grow up with their parents.
 
 It appears that if a mother or father is unknown their `FatherID` or `MotherID` is 0.
@@ -87,8 +94,8 @@ It appears that if a mother or father is unknown their `FatherID` or `MotherID` 
 |FatherLabel Int |MotherLabel Int |SpouseLabelStr TEXT |FatherLabelStr TEXT |MotherLabelStr TEXT |Note TEXT |UTCModDate Float
 |===
 
+- `FamilyID` primary key
 - `ChildID` is almost always 0.
-- `FamilyID` Family Identification Number
 - `FatherID` Father Identification Number, linking to PersonID of PersonTable
 - `MotherID` Mother Identification Number, linking to PersonID of PersonTable
 - `ChildID` Number linking to PersonID of PersonTable (0 if no children) [RIN of one of children, possibly last active in Pedigree view, others?]
@@ -100,6 +107,8 @@ It appears that if a mother or father is unknown their `FatherID` or `MotherID` 
 - `FatherLabel` Husband label, from Edit Person screen (0 = Father, 1 = Husband, 2 = Partner)
 - `MotherLabel` Wife label, from Edit Person screen (0 = Mother, 1 = Wife, 2 = Partner)
 - `Note` Note from Edit Person screen
+
+*todo* Find the table of .sql queries and get the queryies for 1.) determining family and its members, 2.) determing spouse(s), etc.
 
 === ChildTable 
 
