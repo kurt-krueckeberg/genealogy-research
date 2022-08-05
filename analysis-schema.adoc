@@ -7,7 +7,7 @@ mentions this.
 === PersonTable
 
 ==== Predicate
-The `PersonTable` `PersonID` key identifies a unique individual (in the family tree) with sex `Sex`, unique `UniqueID` (that apparently is a `GUID` or hash value that is a **GEDCOM** standard field),
+`PersonTable` has `PersonID` key that identifies a unique individual (in the family tree) with sex `Sex`, unique `UniqueID` (that apparently is a `GUID` or hash value that is a **GEDCOM** standard field),
 parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` :wqand `Living` boolean flag.
 
 .PersonTable
@@ -19,9 +19,25 @@ parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` :wqand `Living
 
 ==== Comments
 
-- `Sex` is acutally a  boolean but is defined as `integer`.
-- `Living` is acutally a  boolean but is defined as `integer`.
+- `Sex` is acutally a boolean but is defined as `integer`. `0` is male and `1` is female.
+- `SpouseID`
+   Spouse Identification Number, linking to of `FamilyTable.FamilyID`, (0 if no spouse) [MRIN with one of spouses, possibly last active in Pedigree view or when selected via Spouses Status Bar, others?]
+- `Living` is acutally a boolean 
 - Since `ParentID == 0` and `SpouseID == 0` for most rows, and they are not foreign keys referencing `PersonTable.PersonID`.
+- `Color`
+  from "color coding" screen ( 0 = None,  1 = Red,  2 = Lime,  3 = Blue,  4 = Fuschia,  5 = Yellow,  6 = Aqua,  7 = Silver,  8 = Maroon,  9 = Green, 10 = Navy, 11 = Purple, 12 = Brown, 13 = Teal, 14 = Gray)
+- `Relate1`
+  number of generations from person to ancestor in common with person chosen via Tools -> Set Relationships (See Relationship1&2 sheet for exceptions and further explanation)
+- `Relate2`
+  number of generations from person chosen via Tools -> Set Relationships to ancestor in common with person (See Relationship1&2 sheet for exceptions and further explanation)
+- `Flags`
+  not currently used?
+- `IsPrivate`
+  not currently used?
+- `Proof`
+  not currently used?
+- `Note`
+  A note entered from Edit Person screen
 
 === NameTable
 
@@ -40,10 +56,19 @@ BigInt |IsPrimary Int |IsPrivate Int |Proof Int |Sentence TEXT |Note TEXT |Birth
 
 The *primary name* appears first, i.e., it has the smallest `NameID`. Alternate names, which typically are alternate given names, immediately follow it.
 
-`OwnerID` is a foreign key corresponding to the `PersonTable.PersonID`, the person to whom the name belongs. We infer this from the fact that:
+`OwnerID` is a foreign key referencing the `PersonTable.PersonID`, the person to whom the name belongs. We infer this from the fact that:
 
 . `count(OwnerID) == count(PersonID)`, and
 . A `PersonID` must have a name, there must be a link to their `NameTable` name(s) and the other associated facts in `NameTable`.
+
+- `Surname` surname(s).
+- `Given` given name(s).
+- `Prefix`
+- `Suffix`	
+- `Nickname`
+- `IsPrimary` is a boolean with `1` if this is the first name assigned to person or `0` if an Alternate Name.
+- `BirthYear` is either 0 or four-digit year extracted from EventTable.Date for Birth FactType for Person, if Primary Name or Alternate Name.
+- `DeathYear` is either 0 or four-digit year extracted from EventTable.Date for Death FactType for Person, if Primary Name or Alternate Name.
 
 === FamilyTable
 
