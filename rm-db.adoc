@@ -1,15 +1,17 @@
 = Understanding the Rootsmagic Database
 
+== RootsMagic Sqlite3 DB
+RootsMagic8 (RM8)  is Sqlite3 relational database that uses a custom collation schme RMNOCASE that prevents `Order By` from working.
+
 == SQLite3 Tools
 
-https://sqlitetoolsforrootsmagic.com/SQLiteManagers/[List].
+In addition the CLI Ubuntu *sqlite3* package, this is list of https://sqlitetoolsforrootsmagic.com[SQLite Tools] that can be used with RootsMagic or any Sqlite3 db. 
 
 == RootsMagic Database Overview
-This information is from https://sqlitetoolsforrootsmagic.com[SQLite Tools for RootsMagic]. 
-https://docs.google.com/spreadsheets/d/1yOb8klovt6UXStcD_S2g7wkkKh4S12AZJ9zSo1Dz_-g/pubhtml#[RootsMagic4+DataDefs.ods] has several documents related to explaing the RM database. Yellow highlighted 
-information pertains to RootsMagic.
 
-One of the documents is a RootsMagic tables summary shown below. 
+https://docs.google.com/spreadsheets/d/1yOb8klovt6UXStcD_S2g7wkkKh4S12AZJ9zSo1Dz_-g/pubhtml#[RootsMagic4+DataDefs.ods] is a single document containing spreadsheets/documents that explain the schema, tables, etc. *Yellow highlighted* text pertains only to RM8.
+
+It includes a summary of the tables, excerpted below.
 
 ==== Table Summary
 
@@ -115,7 +117,7 @@ Stores data for individual and family Event sharing among persons in tree and ou
 
 === Relevant Tables
 
-These are likely the only relevant tables.
+The tables most relevant to me would be these.
 
 *AddressLinkTable*
 
