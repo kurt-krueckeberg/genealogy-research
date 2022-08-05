@@ -21,4 +21,6 @@ else if (!file_exists($argv[1]))
 
 $cmd = "a " . $argv[1] . " -a stylesheet=./skins/dark.css -o ~/k/temp/new.html";
 
+echo "$cmd \n";
+
 exec($cmd);

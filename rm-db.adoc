@@ -1,11 +1,11 @@
 = Understanding the Rootsmagic Database
 
 == RootsMagic Sqlite3 DB
-RootsMagic8 (RM8)  is Sqlite3 relational database that uses a custom collation schme RMNOCASE that prevents `Order By` from working.
+RootsMagic8 (RM8)  is Sqlite3 relational database that uses a custom collation scheme RMNOCASE that prevents `Order By` from working.
 
 == SQLite3 Tools
 
-In addition the CLI Ubuntu *sqlite3* package, this is list of https://sqlitetoolsforrootsmagic.com[SQLite Tools] that can be used with RootsMagic or any Sqlite3 db. 
+In addition to the CLI Ubuntu *sqlite3* package, this is list of https://sqlitetoolsforrootsmagic.com[SQLite Tools] that can be used with RootsMagic or any Sqlite3 db. 
 
 == RootsMagic Database Overview
 
@@ -13,7 +13,7 @@ https://docs.google.com/spreadsheets/d/1yOb8klovt6UXStcD_S2g7wkkKh4S12AZJ9zSo1Dz
 
 It includes a summary of the tables, excerpted below.
 
-==== Table Summary
+=== Table Summary
 
 *AddressLinkTable*
 
