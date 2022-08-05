@@ -1,7 +1,7 @@
 = Rootsmagic Database
 :toc:
 :stylesheet: dark.css
-:stylesdir: skins 
+:stylesdir: ../skins 
 
 == RootsMagic Sqlite3 DB
 RootsMagic 8 (RM8) is a sqlite3 database that uses a custom collation scheme RMNOCASE that often prevents `Order By` from working.

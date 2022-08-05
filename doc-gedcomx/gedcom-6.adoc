@@ -1,4 +1,9 @@
-=== FamilySearch Repositories for GEDCOM X
+= GedcomX Tools and Information
+:toc:
+:stylesheet: dark.css
+:stylesdir: ../skins 
+
+== FamilySearch Repositories for GEDCOM X
 
 - http://www.gedcomx.org/Code.html[Converting Gedcom 5 to Json] and two other tools.
 - https://github.com/FamilySearch/gedcomx-php-client[Family Search API PHP SDK]
