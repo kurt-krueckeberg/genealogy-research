@@ -1,3 +1,10 @@
+=== FamilySearch Repositories for GEDCOM X
+
+- http://www.gedcomx.org/Code.html[Converting Gedcom 5 to Json] and two other tools.
+- https://github.com/FamilySearch/gedcomx-php-client[Family Search API PHP SDK]
+- https://github.com/FamilySearch/gedcomx-php-client[GedxomX PHP SDK]
+- Gedcomx.org list of http://www.gedcomx.org/Code.html[code libraries]
+
 GEDCOM XML 6 seems to be the latest Gedcom X version. Ahnenblatt exports to it.
 
 https://docs.microsoft.com/en-us/archive/msdn-magazine/2004/may/the-xml-files-xml-data-migration-case-study-gedcom[XML Data Migration Case Study: GEDCOM]
