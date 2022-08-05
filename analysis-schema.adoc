@@ -8,7 +8,7 @@ mentions this.
 
 ==== Predicate
 The `PersonTable` `PersonID` key identifies a unique individual (in the family tree) with sex `Sex`, unique `UniqueID` (that apparently is a `GUID` or hash value that is a **GEDCOM** standard field),
-parent(s) `ParentID`, spouse `SpouseID` and `Living` boolean flag.
+parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` :wqand `Living` boolean flag.
 
 .PersonTable
 [width="99%"]
