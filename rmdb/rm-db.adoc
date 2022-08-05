@@ -15,6 +15,8 @@ In addition to the CLI Ubuntu *sqlite3* package, this is a list of https://sqlit
 https://docs.google.com/spreadsheets/d/1yOb8klovt6UXStcD_S2g7wkkKh4S12AZJ9zSo1Dz_-g/pubhtml#[RootsMagic4+DataDefs.ods] is a document contaaing other documents that explain the RM tables, columns, etc. 
 *Yellow highlighted* text pertains only to RM8.
 
+There is an ER diagram available, file:///C:/Users/kurtk/temp/er-diag.pdf[too].
+
 Below is an excerpted summary of the tablesbelow.
 
 === Table Summary

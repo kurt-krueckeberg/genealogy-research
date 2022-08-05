@@ -125,6 +125,9 @@ Can a child belong to more than one family? And what if a person does not yet ha
 |RecID Int (Prim Key) |ChildID Int |FamilyID Int |RelFather Int |RelMother Int |Chi ldOrder Int |Is Private Int
 |===
 
+==== Comments
+The ChildTable has only 2047 rows. Thus only 2047 ChildIDs (which is a foreign key referencing PersonTable) out of 3086 occur in the ChildTable.
+
 == Conversion to JSON and XML
 The https://github.com/FamilySearch/gedcom5-java[gedcom5-java] FamilySearch github repo has a `Gedcom2Json` convertor. It explains how to compile it using maven. Run it:
 
