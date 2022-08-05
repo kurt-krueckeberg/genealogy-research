@@ -19,11 +19,10 @@ parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` :wqand `Living
 
 ==== Comments
 
-- `Sex` is acutally a boolean but is defined as `integer`. `0` is male and `1` is female.
-- `SpouseID`
-   Spouse Identification Number, linking to of `FamilyTable.FamilyID`, (0 if no spouse) [MRIN with one of spouses, possibly last active in Pedigree view or when selected via Spouses Status Bar, others?]
-- `Living` is acutally a boolean 
-- Since `ParentID == 0` and `SpouseID == 0` for most rows, and they are not foreign keys referencing `PersonTable.PersonID`.
+- `Sex` is a boolean (but defined as integer): `0` if male, `1` if female.
+- `ParentID` is often zero.
+- `SpouseID` is almost always zero (meaming no spouse?). When not zero, it is like a foreign key referencing `FamilyTable.FamilyID`.
+- `Living` is boolean 
 - `Color`
   from "color coding" screen ( 0 = None,  1 = Red,  2 = Lime,  3 = Blue,  4 = Fuschia,  5 = Yellow,  6 = Aqua,  7 = Silver,  8 = Maroon,  9 = Green, 10 = Navy, 11 = Purple, 12 = Brown, 13 = Teal, 14 = Gray)
 - `Relate1`
@@ -72,7 +71,9 @@ The *primary name* appears first, i.e., it has the smallest `NameID`. Alternate 
 
 === FamilyTable
 
-`FamilyTable` has `FamilyID` key to identify each unique family. The pair `FatherID` and `MotherID` must also clearly be unique, and no doubt are foreign keys referencing `PersonTable.PersonID`. 
+`FamilyTable` has `FamilyID` key to identify each unique family. `FatherID` and `MotherID` function like foreign keys referencing `PersonTable.PersonID` when they
+are non-zero.
+. 
 
 The unique pair `FatherID` plus `MotherID` can have zero or more children. I doubt that a child is required to constitute a family, but this predicate for `FamilyTable` has not been verified.
 Genealogical software does not, in general, does not directly concern itslef with issues like whether the offspring of a realtionship ever live with or grow up with their parents.
@@ -85,6 +86,21 @@ It appears that if a mother or father is unknown their `FatherID` or `MotherID` 
 |FamilyID Int (Prim Key) |FatherID Int |MotherID Int |ChildID Int |HusbOrder Int |WifeOrder Int |IsPrivate Int |Proof Int |SpouseLabel Int
 |FatherLabel Int |MotherLabel Int |SpouseLabelStr TEXT |FatherLabelStr TEXT |MotherLabelStr TEXT |Note TEXT |UTCModDate Float
 |===
+
+- `ChildID` is almost always 0.
+FamilyTable	FamilyID	I	PRIMARY	1,2,3...	Family Identification Number
+FamilyTable	FatherID	I		1,2,3...	Father Identification Number, linking to PersonID of PersonTable
+FamilyTable	MotherID	I		1,2,3...	Mother Identification Number, linking to PersonID of PersonTable
+FamilyTable	ChildID	I		0,1,2,...	Child Identification Number, linking to PersonID of PersonTable (0 if no children) [RIN of one of children, possibly last active in Pedigree view, others?]
+FamilyTable	HusbOrder	I		0,1,2,...	Husband Order, from Rearrange Spouses screen (0 if never rearranged) [some oddities, such as value of 2, but only one husband?]
+FamilyTable	WifeOrder	I		0,1,2,...	Wife Order, from Rearrange Spouses screen (0 if never rearranged) [some oddities such as value of 2, but only one wife?]
+FamilyTable	IsPrivate	I		0,1	Private, from Edit Person screen (0 = Not Private (unchecked), 1 = Private (checked))
+FamilyTable	Proof	I		0-3	Proof, from Edit Person screen (0 = [blank], 1 = Proven, 2 = Disproven, 3 = Disputed)
+FamilyTable	SpouseLabel	I		0	not currently supported?
+FamilyTable	FatherLabel	I		0-2	Husband label, from Edit Person screen (0 = Father, 1 = Husband, 2 = Partner)
+FamilyTable	MotherLabel	I		0-2	Wife label, from Edit Person screen (0 = Mother, 1 = Wife, 2 = Partner)
+FamilyTable	Note	B		Text	Note, from Edit Person screen
+
 
 === ChildTable 
 
