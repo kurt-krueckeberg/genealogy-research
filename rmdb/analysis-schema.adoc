@@ -115,10 +115,6 @@ It appears that if a mother or father is unknown their `FatherID` or `MotherID` 
 `ChildTable` has key `RecID`, child identifier `ChildID`, no doubt a foreign key referencing the `PersonTable.PersonID`, family identifier `FamilyID` a foreign key referencing `FamilyTable.FamilyID`
 and `ChildOrder` indicating birth order. The integer attributes `RelFather` and `RelMother` are unclear.
 
-All children with the same `FamilyID` belong to the same family in the sense they have the same set of parents.
-
-Can a child belong to more than one family? And what if a person does not yet have any or both assigned parents. In this case, there should be no entry for them in the `ChildTable` or `FamilyTable`.
-
 .ChildTable
 [width="97%",cols="16%,14%,14%,14%,14%,14%,14%",]
 |===
@@ -126,6 +122,11 @@ Can a child belong to more than one family? And what if a person does not yet ha
 |===
 
 ==== Comments
+All children with the same `FamilyID` have the same set of parents. They have zero or more siblings. Not every `PersonID` appears in the `ChildTable`. Not every person has at least one parent; for example,
+the olders ancestors don't have assigned parents.
+
+Can a child belong to more than one family? And what if a person does not yet have any or both assigned parents. In this case, there should be no entry for them in the `ChildTable` or `FamilyTable`.
+
 The ChildTable has only 2047 rows. Thus only 2047 ChildIDs (which is a foreign key referencing PersonTable) out of 3086 occur in the ChildTable.
 
 == Conversion to JSON and XML
