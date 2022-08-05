@@ -21,7 +21,7 @@ parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` :wqand `Living
 
 - `Sex` is acutally a  boolean but is defined as `integer`.
 - `Living` is acutally a  boolean but is defined as `integer`.
-- Since `ParentID == 0` and `SpouseID == 0` for most rows, the actual significance of these attributes is uncertain.
+- Since `ParentID == 0` and `SpouseID == 0` for most rows, and they are not foreign keys referencing `PersonTable.PersonID`.
 
 === NameTable
 
