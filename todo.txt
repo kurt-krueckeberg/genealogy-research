@@ -1,0 +1,3 @@
+Add list of sql queriest from the website. Get the queries for figuring out families, parents, etc.
+
+Write PHP code using them to create media files in surname folders that have surnanme\give[bith-death]
