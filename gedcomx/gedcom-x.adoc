@@ -12,6 +12,7 @@
   s
 - Gedcomx.org list of http://www.gedcomx.org/Code.html[code libraries]
 - https://groups.google.com/g/gedcomx?pli=1[GedcomX Newsgroup]
+- https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md[GedcomX Comceptual model]
 GEDCOM XML 6 seems to be the latest Gedcom X version. Ahnenblatt exports to it.
 
 https://docs.microsoft.com/en-us/archive/msdn-magazine/2004/may/the-xml-files-xml-data-migration-case-study-gedcom[XML Data Migration Case Study: GEDCOM]
