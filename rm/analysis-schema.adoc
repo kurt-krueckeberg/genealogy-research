@@ -42,9 +42,9 @@ parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` :wqand `Living
 === NameTable
 
 ==== Predicate
-The `NameTable.NameID` key identifies a unique name with surname `Surname` and given name `Given`, belonging to `OwnerID`, a foreign key referencing `PersonTable.PersonID`, the name's owner.
-`BirthYear` and `DeathYear` are attributes unrleated to the table's predicate. They are present for historical reasons, cached here so EventTable didn't need to be queried in the days when computer speed was slow
-and memory low. However, the table is therefore not in normalized form since the birth and date years are duplicated in every row with the same `OwerID`. To prove this is the case, consider these two queries 
+The `NameTable.NameID` key identifies a unique name with surname `Surname` and given name `Given`, with `OwnerID` (a foreign key) referring to `PersonTable.PersonID`, the name's owner.
+`BirthYear` and `DeathYear` are attributes unrleated to the table's predicate, they are present for historical reasons, cached here so `EventTable` didn't need to be queried in the days when computer speed was slow
+and memory low. However, this causes the table not to be in normal form because the same birth and date years are repeated in every row with the same `OwerID`. To confirm this is the case, consider these two queries 
 
 [source, sql]
 ----
@@ -58,8 +58,9 @@ and
 SELECT OwnerID, BirthYear,DeathYear, count(*) as tuple_total from NameTable group by OwnerID, BirthYear, DeathYear having tuple_total > 1
 ----
 
-which return the same result rows. This can be demonstrated when their results are joined on `OwnerID` and filtered by a where-clause in which the total number of names is not equal to the total of the unique groupings
-(combintaions) of OwnerID, BirthYear, and DeathYear. The query always returns nothing:
+The first select rows for person's with more than one name assigned to them. The second query selects rows where any of there attributes OwnerID, BirthYear or DeathYear diifer. Both queries return the exactly the same 
+results. If their results are joined on `OwnerID` and filtered by a *where clause* where the total number of names is not equal to the total number of the unique groupings of *OwnerID, BirthYear, and DeathYear*.
+The query always returns nothing:
 
 [source, sql]
 ----
@@ -72,7 +73,7 @@ select r1.OwnerID, total_names, r2.BirthYear, r2.DeathYear, tuple_total
  WHERE total_names!=tuple_total;
 ----
 
-Other attributes are `Prefix`, `Suffix` and `Nickname`. `isPrimary` (an int) that has this set of values and associated meanings:
+Other self-descriptiive attributes are `Prefix`, `Suffix` and `Nickname`. `isPrimary` is (an int) that has this set of values and associated meanings:
 
 - 0 if it is the first name assigned to person. *My comment*: I think this means when it is smallest `NameID` in the group of `OwerID`s.
 - between 0-7 when it is an alternate name. These values corresponds to the "name type" chosen from the "Edit Person Alternate Name Fact" listbox and correspond to: null|AKA|Birth|Immigrant|Maiden|Married|Nickname|Other.
