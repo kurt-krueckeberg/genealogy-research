@@ -4,6 +4,11 @@
 RootsMagic apparently has a custom-defined collation sequence `RMNOCASE` (Roots Magic No Case). https://sqlitetoolsforrootsmagic.com/RMNOCASE-faking-it-in-SQLite-Expert-command-line-shell-et-al/[SQLite Tools for RootsMagic]
 mentions this.
 
+=== todo
+
+- See todo below. Finishing the media tables section and the family table analysis to create queries to get families..parents, sibling, child of the parents, etc.
+- ??
+
 === PersonTable
 
 ==== Predicate
@@ -99,6 +104,10 @@ Include keys and foreign keys:
 ----
 select n.Surname as surname, n.Given as given, n.BirthYear as birth_year, n.DeathYear as death_year, p.Sex as Sex, n.OwnerID as OwnerId, n.NameID as NameId from NameTable as n join PersonTable as p on p.PersonID=n.OwnerID where n.IsPrimary=1 order by lower(Surname), OwnerID, NameID;
 ----
+
+==== todo
+
+Create a the sql that queries the EventTable to get the birth and death year and use it above instead of the NameTable.
 
 === ChildTable 
 
