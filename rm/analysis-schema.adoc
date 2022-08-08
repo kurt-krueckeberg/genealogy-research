@@ -1,5 +1,5 @@
 
-=== Analysis of Tables Related to Persons, Names, and Relationships, etc.
+== Analysis of Tables Related to Persons, Names, and Relationships, etc.
 
 RootsMagic apparently has a custom-defined collation sequence `RMNOCASE` (Roots Magic No Case). https://sqlitetoolsforrootsmagic.com/RMNOCASE-faking-it-in-SQLite-Expert-command-line-shell-et-al/[SQLite Tools for RootsMagic]
 mentions this.
@@ -10,7 +10,7 @@ mentions this.
 `PersonTable` has `PersonID` key that identifies a unique individual (in the family tree) with sex `Sex`, unique `UniqueID` (that apparently is a `GUID` or hash value that is a **GEDCOM** standard field),
 parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` :wqand `Living` boolean flag.
 
-.PersonTable
+ .PersonTable
 [width="99%"]
 |===
 |PersonID Int (Prim Key) |UniqueID TEXT |Sex Int |ParentID Int |SpouseID Int |Color Int |Relate1 Int |Relate2 Int
@@ -19,7 +19,7 @@ parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` :wqand `Living
 
 ==== Comments
 
-- `Sex` is a boolean (but defined as integer): `0` if male, `1` if female.
+- `Sex` is defined as an int but used as a boolean meaning: `0` if male, `1` if female.
 - `ParentID` is often zero.
 - `SpouseID` is almost always zero. When not zero, it functions like a foreign key that references `FamilyTable.FamilyID`. The corresponding `FmailyTable` roww will have either `FahterID` or `MotherID` who is
    the spouse(of this `PersonID`). But `SpouseID` is not necessary in determing the family that this person is a child of (or a parent of).
@@ -42,7 +42,40 @@ parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` :wqand `Living
 === NameTable
 
 ==== Predicate
-The `NameTable.NameID` key identifies a unique name with surname `Surname`, given name `Given`, birth year `BirthYear` and death year `DeathYear`.
+The `NameTable.NameID` key identifies a unique name with surname `Surname` and given name `Given`, belonging to `OwnerID`, a foreign key referencing `PersonTable.PersonID`, the name's owner.
+`BirthYear` and `DeathYear` are attributes unrleated to the table's predicate. They are present for historical reasons, cached here so EventTable didn't need to be queried in the days when computer speed was slow
+and memory low. However, the table is therefore not in normalized form since the birth and date years are duplicated in every row with the same `OwerID`. To prove this is the case, consider these two queries 
+
+[source, sql]
+----
+SELECT OwnerID, count(*) as total_names from NameTable group by OwnerID having total_names > 1 order by OwnerID;
+----
+
+and
+
+[source, sql]
+----
+SELECT OwnerID, BirthYear,DeathYear, count(*) as tuple_total from NameTable group by OwnerID, BirthYear, DeathYear having tuple_total > 1
+----
+
+which return the same result rows. This can be demonstrated when their results are joined on `OwnerID` and filtered by a where-clause in which the total number of names is not equal to the total of the unique groupings
+(combintaions) of OwnerID, BirthYear, and DeathYear. The query always returns nothing:
+
+[source, sql]
+----
+select r1.OwnerID, total_names, r2.BirthYear, r2.DeathYear, tuple_total
+ from 
+ (SELECT OwnerID, count(*) as total_names from NameTable group by OwnerID having total_names > 1) as r1
+    join
+ (SELECT OwnerID, BirthYear,DeathYear, count(*) as tuple_total from NameTable group by OwnerID, BirthYear, DeathYear having tuple_total > 1) as r2
+    on r1.OwnerID=r2.OwnerID
+ WHERE total_names!=tuple_total;
+----
+
+Other attributes are `Prefix`, `Suffix` and `Nickname`. `isPrimary` (an int) that has this set of values and associated meanings:
+
+- 0 if it is the first name assigned to person. *My comment*: I think this means when it is smallest `NameID` in the group of `OwerID`s.
+- between 0-7 when it is an alternate name. These values corresponds to the "name type" chosen from the "Edit Person Alternate Name Fact" listbox and correspond to: null|AKA|Birth|Immigrant|Maiden|Married|Nickname|Other.
 
 .NameTable
 [width="99%",cols="17%,3%,4%,3%,3%,3%,4%,4%,3%,5%,4%,4%,3%,4%,3%,4%,4%,3%,4%,5%,4%,4%,5%",]
@@ -52,29 +85,11 @@ BigInt |IsPrimary Int |IsPrivate Int |Proof Int |Sentence TEXT |Note TEXT |Birth
 |UTCModDate Float |SurnameMP TEXT |GivenMP TEXT |NicknameMP TEXT
 |===
 
-==== Comments
-
-The *primary name* appears first, i.e., it has the smallest `NameID`. Alternate names, which typically are alternate given names, immediately follow it.
-
-`OwnerID` is a foreign key referencing the `PersonTable.PersonID`, the person to whom the name belongs. We infer this from the fact that:
-
-. `count(OwnerID) == count(PersonID)`, and
-. A `PersonID` must have a name, there must be a link to their `NameTable` name(s) and the other associated facts in `NameTable`.
-
-- `Surname` surname(s).
-- `Given` given name(s).
-- `Prefix`
-- `Suffix`	
-- `Nickname`
-- `IsPrimary` is a boolean with `1` if this is the first name assigned to person or `0` if an Alternate Name.
-- `BirthYear` is either 0 or four-digit year extracted from EventTable.Date for Birth FactType for Person, if Primary Name or Alternate Name.
-- `DeathYear` is either 0 or four-digit year extracted from EventTable.Date for Death FactType for Person, if Primary Name or Alternate Name.
-
 ==== Queries
 
 [source]
 ----
-select p.Sex as sex, n.Surname as Surname, n.given as given, n.BirthYear birth_year, n.Deathyear as death_year from PersonTable as p join NameTable as n on p.PersonID=n.OwnerID;
+select n.Surname as Surname, n.given as given, n.BirthYear birth_year, n.Deathyear as death_year, n.IsPrimay, p.Sex as sex, from PersonTable as p join NameTable as n on p.PersonID=n.OwnerID order by NameId, OwnerID;
 ----
 
 === FamilyTable
