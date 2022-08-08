@@ -2,7 +2,8 @@
 == Analysis of Tables Related to Persons, Names, and Relationships, etc.
 
 RootsMagic uses a custom-defined collation sequence `RMNOCASE` (Roots Magic No Case), which https://sqlitetoolsforrootsmagic.com/RMNOCASE-faking-it-in-SQLite-Expert-command-line-shell-et-al/[SQLite Tools for RootsMagic]
-discusses, for several text fieldx like `NameTable.Surname` and `NameTable.Given`. It can prevent queries from succeeding. One work around is to force the text to lower case; for example
+discusses, for several text fieldx like `NameTable.Surname` and `NameTable.Given`. It can prevent queries from succeeding. One work around is to force the text to lower case; for example, `lower(Surname)` is
+used in the `order by` clause below:
 
 [source, sql]
 ----
