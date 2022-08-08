@@ -21,6 +21,12 @@ There is an ER diagram available, file:///C:/Users/kurtk/temp/er-diag.pdf[too].
 
 Below is the excerpted database table summary.
 
+=== SQL Scripts
+
+A list of https://sqlitetoolsforrootsmagic.com/sql-files-list/[SQL scripts].
+
+Searching the page for *rm8.sql* returns the scripts for RM8.
+
 === Table Summary
 
 *AddressLinkTable*
