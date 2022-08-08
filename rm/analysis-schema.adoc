@@ -6,7 +6,7 @@ discusses, for several text fieldx like `NameTable.Surname` and `NameTableGiven`
 
 [source, sql]
 ----
-select n.Surname as primary_surname, n.Given as primary_given, p.Sex as Sex from NameTable as n join PersonTable as p on p.PersonID=n.OwnerID where n.IsPrimary=1 order by lower(Surname), OwnerID, NameID;
+select n.Surname as surname, n.Given as given, p.Sex as Sex from NameTable as n join PersonTable as p on p.PersonID=n.OwnerID where n.IsPrimary=1 order by lower(Surname), OwnerID, NameID;
 ----
 
 === todo
@@ -54,7 +54,7 @@ parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` and `Living` b
 ==== Predicate
 The `NameTable.NameID` key identifies a unique name with surname `Surname` and given name `Given`, with `OwnerID` (a foreign key) referring to `PersonTable.PersonID`, the name's owner.
 `BirthYear` and `DeathYear` are attributes unrleated to the table's predicate, which are present for historical reasons, cached here so `EventTable` didn't need to be queried in the days when computer speed was slow
-and memory low. However, this prevents normalizing the table because the same birth and date years are repeated in every row with the same `OwerID`. To confirm this is the case, consider these two queries 
+and memory low. However, this prevents normalizing the table because the same birth and date years are repeated in every row with the same `OwnerID`. To confirm this is the case, consider these two queries 
 
 [source, sql]
 ----
