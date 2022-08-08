@@ -89,7 +89,7 @@ BigInt |IsPrimary Int |IsPrivate Int |Proof Int |Sentence TEXT |Note TEXT |Birth
 
 [source]
 ----
-select n.Surname as Surname, n.given as given, n.BirthYear birth_year, n.Deathyear as death_year, n.IsPrimay, p.Sex as sex, from PersonTable as p join NameTable as n on p.PersonID=n.OwnerID order by NameId, OwnerID;
+select n.Surname as Surname, n.Given as given, n.BirthYear as birth_year, n.Deathyear as death_year, n.IsPrimary, p.Sex as sex from PersonTable as p join NameTable as n on p.PersonID=n.OwnerID order by NameID, OwnerID;
 ----
 
 === FamilyTable
