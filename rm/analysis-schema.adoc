@@ -77,6 +77,19 @@ Other attributes are `Prefix`, `Suffix` and `Nickname`. `isPrimary` (an int) tha
 - 0 if it is the first name assigned to person. *My comment*: I think this means when it is smallest `NameID` in the group of `OwerID`s.
 - between 0-7 when it is an alternate name. These values corresponds to the "name type" chosen from the "Edit Person Alternate Name Fact" listbox and correspond to: null|AKA|Birth|Immigrant|Maiden|Married|Nickname|Other.
 
+Question: Is the doc-name-here correct when it says `IsPrimary` is zero when it is "the first name assigned to person". I assume "the first name assigned to person" means the smallest `NameID` within a group of `OwnerID` s. But it also says `IsPrimary` can also be 0 in a row with an alternate name.
+But this query
+
+select Surname, Given, OwnerID, NameID, IsPrimary from NameTable as n join PersonTable as p on p.personID=n.OwnerID where IsPrimary=0 and OwnerID=194 order by OwnerID, NameID;    
+
+compared with
+
+select Surname, Given, OwnerID, NameID, IsPrimary from NameTable as n join PersonTable as p on p.personID=n.OwnerID OwnerID=194 order by OwnerID, NameID;     
+
+indicates that IsPrimary is 1 when the name is primary, which makes more sense.
+
+Question: Does `IsPrimary=0` really tell you if a name is primary. You instead have to select the smallest NameID with a group of OwnerIDs. 
+
 .NameTable
 [width="99%",cols="17%,3%,4%,3%,3%,3%,4%,4%,3%,5%,4%,4%,3%,4%,3%,4%,4%,3%,4%,5%,4%,4%,5%",]
 |===
@@ -89,7 +102,7 @@ BigInt |IsPrimary Int |IsPrivate Int |Proof Int |Sentence TEXT |Note TEXT |Birth
 
 [source]
 ----
-select n.Surname as Surname, n.Given as given, n.OwnerID, n.NameID, p.Sex as sex, n.BirthYear as birth_year, n.DeathYear as death_year, n.IsPrimary from NameTable as n join PersonTable as p on p.PersonID=n.OwnerID order by lower(Surname), lower(Given), NameID, OwnerID;
+select n.Surname as Surname, n.Given as given, n.BirthYear as birth_year, n.DeathYear as death_year, p.Sex as Sex, n.IsPrimary as PrimaryName, n.OwnerID as OwnerId, n.NameID as NameId from NameTable as n join PersonTable as p on p.PersonID=n.OwnerID order by lower(Surname), OwnerID, NameID;
 ----
 
 === FamilyTable
