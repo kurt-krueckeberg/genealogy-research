@@ -73,7 +73,7 @@ select r1.OwnerID, total_names, r2.BirthYear, r2.DeathYear, tuple_total
  WHERE total_names!=tuple_total;
 ----
 
-Other self-descriptiive attributes are `Prefix`, `Suffix` and `Nickname`. `isPrimary` is 1 if it the primary name and 0 if it is an alternate name.
+Other self-descriptiive attributes are `Prefix`, `Suffix` and `Nickname`. `IsPrimary` is 1 if it the primary name and 0 if it is an alternate name.
 
 *Note*: The surname can be empty. The BirthYear of DeathYear can be zero, meaning they are unkown.
 
