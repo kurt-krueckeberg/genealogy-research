@@ -1,8 +1,13 @@
 
 == Analysis of Tables Related to Persons, Names, and Relationships, etc.
 
-RootsMagic apparently has a custom-defined collation sequence `RMNOCASE` (Roots Magic No Case). https://sqlitetoolsforrootsmagic.com/RMNOCASE-faking-it-in-SQLite-Expert-command-line-shell-et-al/[SQLite Tools for RootsMagic]
-mentions this.
+RootsMagic uses a custom-defined collation sequence `RMNOCASE` (Roots Magic No Case), which https://sqlitetoolsforrootsmagic.com/RMNOCASE-faking-it-in-SQLite-Expert-command-line-shell-et-al/[SQLite Tools for RootsMagic]
+discusses, for several text fieldx like `NameTable.Surname` and `NameTableGiven`. It can prevent queries from succeeding. One work around is to force the text to lower case; for example
+
+[source, sql]
+----
+select n.Surname as primary_surname, n.Given as primary_given, p.Sex as Sex from NameTable as n join PersonTable as p on p.PersonID=n.OwnerID where n.IsPrimary=1 order by lower(Surname), OwnerID, NameID;
+----
 
 === todo
 
@@ -93,7 +98,7 @@ BigInt |IsPrimary Int |IsPrivate Int |Proof Int |Sentence TEXT |Note TEXT |Birth
 ==== Queries
 Select the primary name, birth and death years and sex.
 
-[source]
+[source, sql]
 ----
 select n.Surname as surname, n.Given as given, n.BirthYear as birth_year, n.DeathYear as death_year, p.Sex as Sex from NameTable as n join PersonTable as p on p.PersonID=n.OwnerID where n.IsPrimary=1 order by lower(Surname), OwnerID, NameID;
 ----
