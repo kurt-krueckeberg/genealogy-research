@@ -30,10 +30,10 @@ parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` and `Living` b
 
 ==== Comments
 
-- `Sex` is defined as an int but used as a boolean meaning: `0` if male, `1` if female.
+- `Sex` is defined as an int but used as a boolean: `0` if male, and `1` if female.
 - `ParentID` is often zero.
-- `SpouseID` is almost always zero. When not zero, it functions like a foreign key that references `FamilyTable.FamilyID`. The corresponding `FmailyTable` roww will have either `FahterID` or `MotherID` who is
-   the spouse(of this `PersonID`). But `SpouseID` is not necessary in determing the family that this person is a child of (or a parent of).
+- `SpouseID` is almost always zero. When not zero, it functions like a foreign key referencing `FamilyTable.FamilyID`. In the referenced `FmailyTable` roww, `FatherID` or `MotherID` will be 
+   the spouse of `PersonID`. But `SpouseID` is not necessary in determing the family that this person is a child of (or a parent of).
 - `Living` is boolean 
 - `Color`
   from "color coding" screen ( 0 = None,  1 = Red,  2 = Lime,  3 = Blue,  4 = Fuschia,  5 = Yellow,  6 = Aqua,  7 = Silver,  8 = Maroon,  9 = Green, 10 = Navy, 11 = Purple, 12 = Brown, 13 = Teal, 14 = Gray)
