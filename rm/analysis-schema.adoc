@@ -32,7 +32,7 @@ parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` and `Living` b
 
 - `Sex` is defined as an int but used as a boolean: `0` if male, and `1` if female.
 - `ParentID` is often zero.
-- `SpouseID` is almost always zero. When not zero, it functions like a foreign key referencing `FamilyTable.FamilyID`. In the referenced `FmailyTable` roww, `FatherID` or `MotherID` will be 
+- `SpouseID` is almost always zero. When not zero, it functions like a foreign key referencing `FamilyTable.FamilyID`. In the referenced `FmailyTable` row, `FatherID` or `MotherID` will be 
    the spouse of `PersonID`. But `SpouseID` is not necessary in determing the family that this person is a child of (or a parent of).
 - `Living` is boolean 
 - `Color`

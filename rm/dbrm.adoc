@@ -4,11 +4,11 @@
 :stylesdir: ../skins 
 
 == RootsMagic Sqlite3 DB
-RootsMagic 8 (RM8) is a sqlite3 database that uses a custom collation scheme RMNOCASE that often prevents `Order By` from working.
+RootsMagic 8 (RM8) is a Sqlite3 database that uses a custom collation scheme RMNOCASE that often prevents `Order By` from working.
 
 == SQLite3 Tools
 
-In addition to the CLI Ubuntu *sqlite3* package, this is a list of https://sqlitetoolsforrootsmagic.com[SQLite Tools] that can be used with sqlite3 db. 
+In addition to the Ubuntu command line *Sqlite3* package, https://sqlitetoolsforrootsmagic.com[SQLite Tools] is a list of tools for Sqlite3.
 
 == RootsMagic Database Overview
 
