@@ -8,7 +8,7 @@ RootsMagic 8 (RM8) is a Sqlite3 database that uses a custom collation scheme RMN
 
 == SQLite3 Tools
 
-In addition to the Ubuntu command line *Sqlite3* package, https://sqlitetoolsforrootsmagic.com[SQLite Tools] is a list of tools for Sqlite3.
+In addition to the Ubuntu command line *Sqlite3* package, https://sqlitetoolsforrootsmagic.com[SQLite Tools] lists other tools available for Sqlite3.
 
 == RootsMagic Database Overview
 
