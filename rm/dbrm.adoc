@@ -10,6 +10,10 @@ RootsMagic 8 (RM8) is a Sqlite3 database that uses a custom collation scheme RMN
 
 In addition to the Ubuntu command line *Sqlite3* package, https://sqlitetoolsforrootsmagic.com[SQLite Tools] lists other Sqlite3 tools.
 
+== Todo
+
+Does creating and index `Create Index ...` on a table column imply that it is `UNIQUE`? If so, I need to note this.
+
 == RootsMagic Database Overview
 
 https://docs.google.com/spreadsheets/d/1yOb8klovt6UXStcD_S2g7wkkKh4S12AZJ9zSo1Dz_-g/pubhtml#[RootsMagic4+DataDefs.ods] is a set of spreadsheets summarizing the RootsMagic tables, giving the data definitions(schema), and

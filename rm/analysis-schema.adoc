@@ -12,6 +12,9 @@ select n.Surname as surname, n.Given as given, p.Sex as Sex from NameTable as n 
 
 === todo
 
+
+- Does creating an index `Create Index ...` on a table column imply that it is `UNIQUE`? If so, I need to note this if I want to mimic in MariaDB, the same thing. Doesn't the Data Definitions spreadsheet note this with `I`, too?
+  *Thus, I probablu should redo the indexed colums in each table.*
 - See todo below. Finishing the media tables section and the family table analysis to create queries to get families..parents, sibling, child of the parents, etc.
 - ??
 
@@ -147,6 +150,9 @@ The ChildTable has only 2047 rows. Thus only 2047 ChildIDs (which is a foreign k
 
 === FamilyTable
 
+Question: For each couple, a "husband" and "wife" (or non-married couple), represented by their separate PersonID's in the PersonTable, link to the same row in the FamilyTable?  
+Question: *{HusbandID, MotherID}* is a key-is it not?
+
 `FamilyTable` has `FamilyID` key to identify each unique family. `FatherID` and `MotherID` function like foreign keys referencing `PersonTable.PersonID` when they
 are non-zero.
 
@@ -163,18 +169,22 @@ It appears that if a mother or father is unknown their `FatherID` or `MotherID` 
 |===
 
 - `FamilyID` primary key
-- `ChildID` is almost always 0.
-- `FatherID` Father Identification Number, linking to PersonID of PersonTable
-- `MotherID` Mother Identification Number, linking to PersonID of PersonTable
-- `ChildID` Number linking to PersonID of PersonTable (0 if no children) [RIN of one of children, possibly last active in Pedigree view, others?]
-- `HusbOrder` Husband Order, from Rearrange Spouses screen (0 if never rearranged) [some oddities, such as value of 2, but only one husband?]
-- `WifeOrder` Wife Order, from Rearrange Spouses screen (0 if never rearranged) [some oddities such as value of 2, but only one wife?]
+- `FatherID` Father id referencing `Person.TablePersonID` 
+- `MotherID` Mother id referencing `Person.TablePersonID`
+- `ChildID` id referencing `Person.TablePersonID`. 0 if no children exist.[RIN of one of children, possibly last active in Pedigree view, others?]
+- `HusbOrder` husband order from rearrange spouses screen. 0 if never rearranged. [There are some oddities, such as value of 2, but only one husband?]
+- `WifeOrder` wife order from rearrange Spouses screen (0 if never rearranged) [some oddities such as value of 2, but only one wife?]
 - `IsPrivate` Private from Edit Person screen (0 = Not Private (unchecked), 1 = Private (checked))
 - `Proof` Proof from Edit Person screen (0 = [blank], 1 = Proven, 2 = Disproven, 3 = Disputed)
 - `SpouseLabel` not currently supported?
-- `FatherLabel` Husband label, from Edit Person screen (0 = Father, 1 = Husband, 2 = Partner)
-- `MotherLabel` Wife label, from Edit Person screen (0 = Mother, 1 = Wife, 2 = Partner)
+- `FatherLabel` husband label set from Edit Person screen (0 = Father, 1 = Husband, 2 = Partner).
+- `MotherLabel` Wife label, from Edit Person screen (0 = Mother, 1 = Wife, 2 = Partner).
 - `Note` Note from Edit Person screen
+
+*Questions:*
+
+- `FatherLabel`  *Queston:* What is there a default setting after Gedcom impoort?
+- `MotherLabel`  *Queston:* What is there a default setting after Gedcom impoort?
 
 *todo* Find the table of .sql queries and get the queryies for 1.) determining family and its members, 2.) determing spouse(s), etc.
 
