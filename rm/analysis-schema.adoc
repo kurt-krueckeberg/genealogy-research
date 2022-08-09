@@ -12,7 +12,7 @@ select n.Surname as surname, n.Given as given, p.Sex as Sex from NameTable as n 
 
 === todo
 
-
+- Create (in new db) a "unknown" person that has PersonID of 0 and possibly name of "Unknown". This would allow keys that function as links but are not defined as foreign keys, to function as foreign keys.
 - Does creating an index `Create Index ...` on a table column imply that it is `UNIQUE`? If so, I need to note this if I want to mimic in MariaDB, the same thing. Doesn't the Data Definitions spreadsheet note this with `I`, too?
   *Thus, I probablu should redo the indexed colums in each table.*
 - See todo below. Finishing the media tables section and the family table analysis to create queries to get families..parents, sibling, child of the parents, etc.
@@ -22,7 +22,7 @@ select n.Surname as surname, n.Given as given, p.Sex as Sex from NameTable as n 
 
 ==== Predicate
 `PersonTable` has `PersonID` key that identifies a unique individual (in the family tree) with sex `Sex`, unique `UniqueID` (that apparently is a `GUID` or hash value that is a **GEDCOM** standard field),
-parent(s) `ParentID`, spouse `SpouseID` that is also a `PersonID` and `Living` boolean flag.
+parent(s) `ParentID`, spouse `SpouseID` is almost always zero. When it isn't, it functions like a foreign key referencing `FamilyTable.familyID`. 
 
  .PersonTable
 [width="99%"]
@@ -120,11 +120,11 @@ Create a the sql that queries the EventTable to get the birth and death year and
 
 === ChildTable 
 
-The `ChildTable` stores relationship to family(ies) for each child. A child may have two or more families, say, a birth and adoptive family. This table links to PersonTable for the child and to FamilyTable for their parents.
+The `ChildTable` stores relationship to family(ies) for each child. A child may have two or more families, say, a birth and adoptive family. This table provides the links to `PersonTable.PersonID` for the child and to FamilyTable for their parents.
 
-`ChildTable` has key `RecID`, child identifier `ChildID`, a foreign key referencing the `PersonTable.PersonID`, and... 
+`ChildTable` has key `RecID`, child identifier `ChildID`, a foreign key referencing the `PersonTable.PersonID`, and `FamilyID`, a foreign key referencing `FamilyTable.FamilyID`. QUESTION: Can it be zero, meaning the family is not yet known?
 
-- `ChildID` foreign key referencing PersonID in PersonTable
+- `ChildID` foreign key referencing in `PersonTable.PersonID`.
 - `FamilyID` references `FamilyTable.FamilyID` or Marriage Record Identication Number (MRIN). 
 - `RelFather` relationship to Father: 0-Birth,1-Adopted, 2- Step,etc
 - `RelMother` relationship to Mother: 0-Birth,1-Adopted, 2- Step,etc
@@ -148,18 +148,26 @@ Can a child belong to more than one family? And what if a person does not yet ha
 
 The ChildTable has only 2047 rows. Thus only 2047 ChildIDs (which is a foreign key referencing PersonTable) out of 3086 occur in the ChildTable.
 
-=== FamilyTable
-
-Question: For each couple, a "husband" and "wife" (or non-married couple), represented by their separate PersonID's in the PersonTable, link to the same row in the FamilyTable?  
-Question: *{HusbandID, MotherID}* is a key-is it not?
-
-`FamilyTable` has `FamilyID` key to identify each unique family. `FatherID` and `MotherID` function like foreign keys referencing `PersonTable.PersonID` when they
-are non-zero.
-
+Question: 
 The unique pair `FatherID` plus `MotherID` can have zero or more children (I believe). I doubt that a child is required to constitute a family, but this predicate for `FamilyTable` has not been verified.
 Genealogical software does not, in general, does not directly concern itslef with issues like whether the offspring of a realtionship ever live with or grow up with their parents.
 
-It appears that if a mother or father is unknown their `FatherID` or `MotherID` is 0.
+=== FamilyTable
+
+`FamilyTable` has `FamilyID` key identifying each unique family, each couple that might (has?) produced children. `FatherID` and `MotherID` function like foreign keys referencing `PersonTable.PersonID`, but they
+can be zero, meaning, I believe, that that parent is unknown. It is never true that both `FatherID` and `MotherID` are zero. Thus,
+
+[source, sql]
+----
+select * from FamilyTable where FatherID=0 and MotherID=0;
+----
+
+will never return results. `ChildID` is almost always 0, so I don't know what it means. It references PersonID in a few rarer situations.
+
+Question:
+
+- For each couple, a "husband" and "wife" (or non-married couple), represented by their separate PersonID's in the PersonTable, link to the same row in the FamilyTable?  
+- *{HusbandID, MotherID}* is a key-is it not?
 
 .FamilyTable
 [width="99%",cols="18%,5%,5%,4%,5%,5%,5%,4%,6%,6%,6%,7%,7%,7%,4%,6%",]
@@ -169,8 +177,8 @@ It appears that if a mother or father is unknown their `FatherID` or `MotherID` 
 |===
 
 - `FamilyID` primary key
-- `FatherID` Father id referencing `Person.TablePersonID` 
-- `MotherID` Mother id referencing `Person.TablePersonID`
+- `FatherID` foreign key referencing `Person.TablePersonID` 
+- `MotherID` foreign key referencing `Person.TablePersonID`
 - `ChildID` id referencing `Person.TablePersonID`. 0 if no children exist.[RIN of one of children, possibly last active in Pedigree view, others?]
 - `HusbOrder` husband order from rearrange spouses screen. 0 if never rearranged. [There are some oddities, such as value of 2, but only one husband?]
 - `WifeOrder` wife order from rearrange Spouses screen (0 if never rearranged) [some oddities such as value of 2, but only one wife?]
@@ -180,13 +188,6 @@ It appears that if a mother or father is unknown their `FatherID` or `MotherID` 
 - `FatherLabel` husband label set from Edit Person screen (0 = Father, 1 = Husband, 2 = Partner).
 - `MotherLabel` Wife label, from Edit Person screen (0 = Mother, 1 = Wife, 2 = Partner).
 - `Note` Note from Edit Person screen
-
-*Questions:*
-
-- `FatherLabel`  *Queston:* What is there a default setting after Gedcom impoort?
-- `MotherLabel`  *Queston:* What is there a default setting after Gedcom impoort?
-
-*todo* Find the table of .sql queries and get the queryies for 1.) determining family and its members, 2.) determing spouse(s), etc.
 
 === Media Tables todo 
 
