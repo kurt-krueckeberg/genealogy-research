@@ -1,10 +1,7 @@
-See: https://stackoverflow.com/questions/2421388/using-group-by-on-multiple-columns/2421441#2421441
-
 Both these queries return the same number or result rows:
 
 SELECT OwnerID, count(*) as total_names from NameTable group by OwnerID having total_names > 1;
 SELECT OwnerID, BirthYear, count(*) as tuple_total from NameTable group by OwnerID, BirthYear, DeathYear having  tuple_total > 1;
-
 
 Joining the two results
 
@@ -20,8 +17,6 @@ join
 (SELECT OwnerID, BirthYear,DeathYear, count(*) as tuple_total from NameTable group by OwnerID, BirthYear, DeathYear having  tuple_total > 1) as r2
 on r1.OwnerID=r2.OwnerID
 WHERE total_names!=tuple_total;
------------------------
-
 
 Why are there BirthYear and DeathYear attributes in the NameTable since they doesn't have anything to do with person's names? And if a person has several names, say, several different given name variations,
 the BirthYear and DeathYear are identical for each name variation. 
