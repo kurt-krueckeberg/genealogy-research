@@ -53,7 +53,41 @@ sqlite> select count(*) from PersonTable as p join FamilyTable as f on p.ParentI
 17
 ----
 
-If I added a FamilyID of 0, then the last qeruy above would need to become: `select count(*) from PersonTable as p join FamilyTable as f on p.ParentID=f.FamilyID where FamilyID!=0;` 
+*Note:* If I do introduce a `FamilyID` of 0, then the last query would need to be: `select count(*) from PersonTable as p join FamilyTable as f on p.ParentID=f.FamilyID where FamilyID!=0;` 
+
+My imported gecom has only 17 result rows
+
+[source, bash]
+----
+sqlite> select PersonID, Given, Surname from (PersonTable as p join FamilyTable as f on p.ParentID=f.FamilyID) join NameTable n on n.OwnerID=p.PersonID where n.IsPrimary=1;
+195|Caroline Philippine Dorothee|Krueckeberg
+196|Sophia P|Krueckeberg
+198|C W Louise|Krueckeberg
+299|Wilhelmine Christine Helene|Krückeberg
+301|Christian Heinrich Martin|Krueckeberg
+350|Friedrich Christian Wilhelm|Krueckeberg
+353|Carl "Charles" Heinrich Wilhelm|Krückeberg
+354|Caroline Wilhelmine Marie|Kleinschmidt
+355|Carl Friedrich|Krückeberg
+356|Luise Dorothea|Weiland
+357|Carl Friedrich Gottlieb|Krückeberg
+702|Carl H|Krueckeberg
+719|Ernst Wilhelm Heinrich|Krueckeberg
+1961|Jobste Heinrich|Krückeberg
+1963|Johann Heinrich|Krückeberg
+1964|Caroline Sophie|Weiland
+2301|Johann Heinrich Christian| Kleinschmidt
+----
+
+while there are 227 persons with alternate names:
+
+[source, bash]
+----
+sqlite> select count(*) from (select count(*) as total_names, OwnerID from NameTable group by OwnerID having total_names>1);
+227
+----
+
+So I'm not sure why ParentID is non-zero for these 17 persons. Are these the persons whose spouse married a second time?
 
 === NameTable
 
