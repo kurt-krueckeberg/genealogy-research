@@ -1,4 +1,5 @@
-- Finish new-schema.sql a MySql or MariaDB database that has foreign key constraints.
+- Download the latest GEDCOM  and import it. Check how many FamilyTable.ChildID!=0 and figure out which Surname, PersonIDs, etc the yare. Ask in Forum about the meaning of FamilyTable.ChildID=0.
+- Finish new-schema.sql for MariaDB database that has foreign key constraints.
 
 - Take note of the precise meaning and defined values for these table attributes: https://sqlitetoolsforrootsmagic.com/understanding-the-rootsmagic-8-database-type-decodes/#Multimedian
 
