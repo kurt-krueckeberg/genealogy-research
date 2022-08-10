@@ -133,9 +133,12 @@ The `ChildTable` stores relationship to family(ies) for each child. A child may 
 
 - `ChildID` foreign key referencing in `PersonTable.PersonID`.
 - `FamilyID` references `FamilyTable.FamilyID` or Marriage Record Identication Number (MRIN). 
-- `RelFather` relationship to Father: 0-Birth,1-Adopted, 2- Step,etc
-- `RelMother` relationship to Mother: 0-Birth,1-Adopted, 2- Step,etc
+- `RelFather` the relationship to the father: 0-Birth,1-Adopted, 2- Step,etc
+- `RelMother` the relationship to mother: 0-Birth,1-Adopted, 2- Step,etc
 - `ChildOrder` 0 means in record order; 1,2,... revises the order for the family but 1000 also observed for child added w/o birthdate, and 501 sometimes noted when no other children in family.
+
+These next three attributes are important:
+
 - `IsPrivate` 0 or 1.	1 if Private checked in Parents pane of Edit Person dialog. Effect on reports is not apparent.
 - `ProofFather` 0,1,2,3	Set by Proof listbox in Parents pane of Edit Persons. 0-blank, 1-Proven, 2-Disproven, 3-Disputed
 - `ProofMother` 0,1,2,3	Set by Proof listbox in Parents pane of Edit Persons. 0-blank, 1-Proven, 2-Disproven, 3-Disputed
@@ -148,13 +151,14 @@ The `ChildTable` stores relationship to family(ies) for each child. A child may 
 |===
 
 ==== Comments
-All children with the same `FamilyID` have the same set of parents. They have zero or more siblings. Not every `PersonID` appears in the `ChildTable`. Not every person has at least one parent; for example,
+All children with the same `FamilyID` have the same set of parents.  Not every `PersonID` appears in the `ChildTable`. Not every person has at least one parent; for example,
 the olders ancestors don't have assigned parents.
-
-Can a child belong to more than one family? And what if a person does not yet have any or both assigned parents. In this case, there should be no entry for them in the `ChildTable` or `FamilyTable`.
 
 The ChildTable has only 2047 rows. Thus only 2047 ChildIDs (which is a foreign key referencing PersonTable) out of 3086 occur in the ChildTable.
 
+Can a child belong to more than one family? And what if a person does not yet have any or both assigned parents. In this case, there should be no entry for them in the `ChildTable` or `FamilyTable`.
+
+select 
 Question: 
 The unique pair `FatherID` plus `MotherID` can have zero or more children (I believe). I doubt that a child is required to constitute a family, but this predicate for `FamilyTable` has not been verified.
 Genealogical software does not, in general, does not directly concern itslef with issues like whether the offspring of a realtionship ever live with or grow up with their parents.
