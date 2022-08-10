@@ -1,6 +1,8 @@
 == New DB Design
 
-=== PersonID of 0
+=== PersonTable
+
+==== PersonID of 0
 
 If we add a PersonID of 0 to mean the "not-yet known" or unknonw person, then other tables that link to PersonTable.PersonID can be made foreign keys, thus making the "link" an actual relational constraint.
 We won't have to alter any other tables, either. They can keep there references to 0.
@@ -11,8 +13,49 @@ And we can then import the RM PersonTable as is, and afterward add PeronsID of 0
 
 [source, sql]
 ----
-CREATE TABLE PersonTable (PersonID INTEGER PRIMARY KEY, UniqueID TEXT, Sex INTEGER, ParentID INTEGER, SpouseID INTEGER, Color INTEGER, Relate1 INTEGER, Relate2 INTEGER, Flags INTEGER, Living INTEGER, IsPrivate INTEGER, Proof INTEGER, Bookmark INTEGER, Note TEXT, UTCModDate FLOAT );
+CREATE TABLE PersonTable (PersonID INTEGER PRIMARY KEY,
+	 UniqueID TEXT,
+	 Sex INTEGER,
+	 ParentID INTEGER,
+     FOREIGN KEY (ParentID), /* Is ParentID even needed. See comments below */
+     REFERENCES FamilyTable (FamilyID),
+	 SpouseID INTEGER,
+	 Color INTEGER,
+	 Relate1 INTEGER,
+	 Relate2 INTEGER,
+	 Flags INTEGER,
+	 Living INTEGER,
+	 IsPrivate INTEGER,
+	 Proof INTEGER,
+	 Bookmark INTEGER,
+	 Note TEXT,
+	 UTCModDate FLOAT);
 ----
+
+`ParentID` is often zero. The data definition entry for FamilyTable says:
+
+----
+Parent Identification Number, linking to FamilyID of FamilyTable, (0 if no parents) [MRIN of one set of parents, possibly last active in Pedigree view or when selected via Parents Status Bar, others?]
+----
+
+Comment: So it is a foreign key to FamilyTable.FamilyID. Write some queries to cnfirm this. And if it can be zero, should I create a FmailyTable.FamilyID of 0 to enable me to make it a
+forein key constraint (rather than a link)? Zero would mean mean the not-yet known family?
+
+These queries of my imported gedcom show it is almost always zero:
+
+[source, bash]
+----
+sqlite> select count(*) from PersonTable where ParentID=0;
+3069
+sqlite> select count(*) from PersonTable where ParentID!=0;
+17
+sqlite> select count(*) from PersonTable as p join FamilyTable as f on p.ParentID=f.FamilyID;
+17
+----
+
+If I added a FamilyID of 0, then the last qeruy above would need to become: `select count(*) from PersonTable as p join FamilyTable as f on p.ParentID=f.FamilyID where FamilyID!=0;` 
+
+=== NameTable
 
 BirthDate and DeathDate are cached in NameTable for historical reasons. They exist in the EventTable I believe, and I need to figure out how to query for them. 
 We will make OwnerID a foreign key. What about and ParentID, ChildId??
