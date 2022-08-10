@@ -78,9 +78,9 @@ sqlite> select PersonID, Given, Surname, ParentID from NameTable as n join Perso
 2301|Johann Heinrich Christian| Kleinschmidt|804
 ----
 
-Are these 17 individuals, persons whose spouse married a second time, say, after they themselves died or were divorced?
+Are these 17 individuals persons whose spouse married a second time, say, after they themselves died or were divorced?
 
-Recall: ParentID is NOT a reference to PersonID!
+Recall: ParentID is NOT a reference to PersonID. It is the a refernce to the FamilyID key whose attributes also include FatherID and MotherID.
 
 === NameTable
 
