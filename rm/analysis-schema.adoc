@@ -129,7 +129,19 @@ Create a the sql that queries the EventTable to get the birth and death year and
 
 The `ChildTable` stores relationship to family(ies) for each child. A child may have two or more families, say, a birth and adoptive family. This table provides the links to `PersonTable.PersonID` for the child and to FamilyTable for their parents.
 
-`ChildTable` has key `RecID`, child identifier `ChildID`, a foreign key referencing the `PersonTable.PersonID`, and `FamilyID`, a foreign key referencing `FamilyTable.FamilyID`. QUESTION: Can it be zero, meaning the family is not yet known?
+`ChildTable` has key `RecID`, child identifier `ChildID`, a foreign key referencing the `PersonTable.PersonID`, and `FamilyID`, a foreign key referencing `FamilyTable.FamilyID`. 
+
+Comments: The queries below show that ChildID is an actual foreign key. It is never zero, and the row count of ChildTable equals the row count of the join of ChildTable to PersonTable on childID=PersonID.
+
+[source]
+----
+sqlite> select count(*) from ChildTable as c join PersonTable p on c.ChildID=p.PersonID;
+2147
+sqlite> select count(*) from ChildTable;
+2147
+sqlite> select count(*) from ChildTable as c join PersonTable p on c.ChildID=p.PersonID;
+2147
+----
 
 - `ChildID` foreign key referencing in `PersonTable.PersonID`.
 - `FamilyID` references `FamilyTable.FamilyID` or Marriage Record Identication Number (MRIN). 
