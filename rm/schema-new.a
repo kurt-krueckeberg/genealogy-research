@@ -13,6 +13,7 @@ And we can then import the RM PersonTable as is, and afterward add PeronsID of 0
 
 [source, sql]
 ----
+SET collation_connection = latin1_german2_ci;
 CREATE TABLE PersonTable (PersonID INTEGER PRIMARY KEY,
 	 UniqueID TEXT,
 	 Sex INTEGER,

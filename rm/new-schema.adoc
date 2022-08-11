@@ -2,22 +2,25 @@ If we add a PersonID of 0 to mean the "not-yet known" or unknonw person, then ot
 We won't have to alter any other tables, either. They can keep there references to 0.
 Is the meaning of some attributes that use 0 overloaded?
 And we can then import the RM PersonTable as is, and afterward add PeronsID of 0.
-My changes:Made UniqueID a unique column. Question: Is this a UUID data tyoe? Should it be something other than TEXT?  See MariaDB UUID type. */
-UniqueText appears to be a UUID data tyoe, but I don't think it is used in any queries.? */
+My changes:
+
+- Made UniqueID a unique column. Question: Is this a UUID data tyoe? Should it be something other than TEXT?  See MariaDB UUID type. */
+- UniqueText appears to be a UUID data tyoe, but I don't think it is used in any queries.? */
+- IsPrivate made it `bool`
 
 [source,sql]
 ----
 CREATE TABLE Person(id INTEGER PRIMARY KEY,
 	 UniqueID TEXT unique, 
-	 Sex INTEGER,
-	 ParentID INTEGER,
+	 sex INTEGER,
+	 parentid INTEGER,
 	 SpouseID INTEGER,
 	 Color INTEGER,
 	 Relate1 INTEGER,
 	 Relate2 INTEGER,
 	 Flags INTEGER,
 	 Living INTEGER,
-	 IsPrivate bool, /* <-- changed. Was: INTEGER, */
+	 IsPrivate bool, 
 	 Proof INTEGER,
 	 Bookmark INTEGER,
 	 Note TEXT,
@@ -77,5 +80,6 @@ CREATE TABLE Child(id INTEGER PRIMARY KEY,
 	 ProofFather INTEGER,
 	 ProofMother INTEGER,
 	 Note TEXT,
-	 UTCModDate FLOAT );
+	 UTCModDate FLOAT,
+         ChildID foregin key references Peronid) );
 ----
