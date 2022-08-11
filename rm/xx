@@ -1,6 +1,0 @@
-select PersonID, Given, Surname, ParentID from NameTable as n join PersonTable p on n.OwnerID=p.PersonID where ParentID!=0 group by OwnerID;
-select PersonID, Given, Surname, ParentID from NameTable as n join PersonTable p on n.OwnerID=p.PersonID where ParentID!=0 group by OwnerID;
-
-
-select * from  (select PersonID, Given, Surname from NameTable as n join PersonTable p on n.OwnerID=p.PersonID group by OwnerID) as x;
-select ParentID, Given, Surname, ParentID from NameTable as n join PersonTable p on n.OwnerID=p.Parent where ParentID!=0 group by OwnerID;          where ParentID!=0 

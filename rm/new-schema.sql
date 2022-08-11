@@ -2,13 +2,65 @@
 -- We won't have to alter any other tables, either. They can keep there references to 0.
 -- Is the meaning of some attributes that use 0 overloaded?
 -- And we can then import the RM PersonTable as is, and afterward add PeronsID of 0.
-CREATE TABLE PersonTable (PersonID INTEGER PRIMARY KEY, UniqueID TEXT, Sex INTEGER, ParentID INTEGER, SpouseID INTEGER, Color INTEGER, Relate1 INTEGER, Relate2 INTEGER, Flags INTEGER, Living INTEGER, IsPrivate INTEGER, Proof INTEGER, Bookmark INTEGER, Note TEXT, UTCModDate FLOAT );
+ --My changes:Made UniqueID a unique column. Question: Is this a UUID data tyoe? Should it be something other than TEXT?  See MariaDB UUID type. */
+CREATE TABLE Person(id INTEGER PRIMARY KEY,
+	 UniqueID TEXT unique, //* <-- Made this column unique. Is this a UUID data tyoe??? */
+	 Sex INTEGER,
+	 ParentID INTEGER,
+	 SpouseID INTEGER,
+	 Color INTEGER,
+	 Relate1 INTEGER,
+	 Relate2 INTEGER,
+	 Flags INTEGER,
+	 Living INTEGER,
+	 IsPrivate bool, /* <-- changed. Was: INTEGER, */
+	 Proof INTEGER,
+	 Bookmark INTEGER,
+	 Note TEXT,
+	 UTCModDate FLOAT );
 
 -- BirthDate and DeathDate are cached in NameTable for historical reasons. They exist in the EventTable I believe, and I need to figure out how to query for them. 
 -- Make OwnerID a foreign key. What about and ParentID, ChildId??
-CREATE TABLE NameTable (NameID INTEGER PRIMARY KEY, OwnerID INTEGER, Surname TEXT COLLATE ?????, Given TEXT COLLATE ?????, NameType INTEGER, IsPrimary INTEGER, 
-CREATE TABLE NameTable (NameID INTEGER PRIMARY KEY, OwnerID INTEGER, Surname TEXT COLLATE ?????, Given TEXT COLLATE ?????, NameType INTEGER, IsPrimary INTEGER, 
+-- Does MariaDB use 'collate' in this manner, just like Sqlite?
+CREATE table Name(id integer primary key,
+	 ownerid integer,
+	 surname tinytext collate nocase, 
+	 given tinytext collate NOCASE,
+	 nametype integer,
+	 isprimary integer,
+	 
 
 -- Make FatherID and MotherID and ChildID foreign keys refereinceing PersonTabler.PersonID. 
 -- Make the pair FatherID/MotherID unique, an additional key. I likely can make ChildID a foreign key? Many of the other attributes like SpouseLable, FatherLabel can be ignored. They are only relevant to RM.
-CREATE TABLE FamilyTable (FamilyID INTEGER PRIMARY KEY, FatherID INTEGER, MotherID INTEGER, ChildID INTEGER, HusbOrder INTEGER, WifeOrder INTEGER, IsPrivate INTEGER, Proof INTEGER, SpouseLabel INTEGER, FatherLabel INTEGER, MotherLabel INTEGER, SpouseLabelStr TEXT, FatherLabelStr TEXT, MotherLabelStr TEXT, Note TEXT, UTCModDate FLOAT );
+-- Changes: I made IsPrivate a 'bool'. I made fatherid/motherid pair a unique constraint. 
+CREATE TABLE Family(id INTEGER PRIMARY KEY,
+	 fatherid INTEGER,
+	 motherid INTEGER,
+	 childid INTEGER,
+	 HusbOrder INTEGER,
+	 WifeOrder INTEGER,
+	 IsPrivate bool, /* <-- changed. Was:  INTEGER, */
+	 Proof INTEGER,
+	 SpouseLabel INTEGER,
+	 FatherLabel INTEGER,
+	 MotherLabel INTEGER,
+	 SpouseLabelStr TINYTEXT,
+	 FatherLabelStr TINYTEXT,
+	 MotherLabelStr TINYTEXT,
+	 Note TEXT, 
+	 UTCModDate FLOAT,
+         unique(fatherid, motherid)); /* <-- New. Add this constraint */
+-- 
+
+CREATE TABLE Child(id INTEGER PRIMARY KEY,
+	 ChildID INTEGER,
+	 FamilyID INTEGER,
+	 RelFather INTEGER,
+	 RelMother INTEGER,
+	 ChildOrder INTEGER,
+	 IsPrivate INTEGER,
+	 ProofFather INTEGER,
+	 ProofMother INTEGER,
+	 Note TEXT,
+	 UTCModDate FLOAT );
+
