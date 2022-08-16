@@ -3,25 +3,46 @@
 :stylesheet: dark.css
 :stylesdir: skins 
 
-== General Research
+== General 
 
-include::nara.adoc[]
+include::inc/nara.a[]
 
-include::gen-center.adoc[]
+include::inc/gen-center.a[]
+
+== Guides
+
+- https://irenehansen11.files.wordpress.com/2015/04/pre-1850-in-research.pdf[Pre-1850 Indiana Resources for Family History Research] by Irene Hansen, Reference Librarian Indiana State Library
+
+- https://www.familysearch.org/en/help/helpcenter/lessons/old-german-script-part-1[Old German Script] 3-part video series by FamilySearch
+
+== Genalogist and Research Assistance
+
+- https://ggsmn.org/cpage.php?pt=19[Translators list of Germanic Genealogical Society]
+ 
+- https://www.berufsgenealogie.net/[Verband deutschsprachiger Berufsgenealogen e.V. (Association of German-speaking Professional Genealogists)]
+
+- https://iggp.org/index.php[International German Genealogical Partnership] website's list of https://iggp.org/index.php[Professional Researchers]
+
+- https://www.apgen.org[Association of Professional Genalogists]. It is not a certifying organization.
+
+- https://www.familysearch.org/en/rootstech/session/certified-genealogist-and-accredited-genealogist-a-comparison[BCG vs ICAPGen] certification  
+
+- https://dagv.org/?Die_DAGV[Deutsche Arbeitsgemeinschaft genealogischer Verbände (DAGV)]
 
 === Steve Morse
 
 https://stevemorse.org[stevemorse.org]
 
-==== Allen County Genealogical Society of Indiana(ACGSI)
+=== Allen County Genealogical Society of Indiana(ACGSI)
 
 https://www.acgsi.org/records.php[ACGSI web page]
 
-==== FamilySearch wiki German Research Section
+== German Genealogical Research Resources
+
+=== FamilySearch wiki German Research Section
 
 https://www.familysearch.org/en/wiki/Germany_Genealogy[Germany Genealogy]
 
-=== German Genealogical Research Resources
 
 ==== German Verein Liste
 
