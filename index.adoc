@@ -5,9 +5,9 @@
 
 include::inc/nara.adoc[]
 
-include::inc/gen-center.adoc[]
-
 == Guides
+* https://www.familysearch.org/en/wiki/\[FamilySearch wiki]
+  - Germany Genealogy https://www.familysearch.org/en/wiki/Germany_Genealogy[Section] 
 
 * Genealogy Center guide to https://acpl.lib.in.us/images/Documents/Gendocs/allencountyincongregations.pdf[Allen County, Indiana, Congregational Records, Histories and Directories]
 
@@ -33,6 +33,10 @@ include::inc/gen-center.adoc[]
 * https://www.familysearch.org/en/rootstech/session/certified-genealogist-and-accredited-genealogist-a-comparison[BCG vs ICAPGen] certification  
 
 * https://dagv.org/?Die_DAGV[Deutsche Arbeitsgemeinschaft genealogischer Verbände (DAGV)]
+
+== Genealogy Center
+
+include::inc/gen-center.adoc[]
 
 === Steve Morse
 

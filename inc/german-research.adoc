@@ -1,17 +1,14 @@
 === FamilySearch wiki German Research Section
 
-https://www.familysearch.org/en/wiki/Germany_Genealogy[Germany Genealogy]
-
-
 === German Verein Liste
 
 GenWiki's link:https://wiki.genealogy.net/Portal:Vereine[Portal von Vereine]
 
-----
+____
 Viele genealogische Vereine, Arbeitskreise, Interessengemeinschaften und andere genealogische Institute stellen sich auf dem Server des Vereins für Computergenealogie e.V. vor und nehmen aktiv an den Projekten teil.
 Auch wenn Sie vielleicht sonst ein Vereinsmuffel sind, die Mitgliedschaft in einem genealogischen Verein kann sich lohnen! Viele genealogische Veranstaltungen werden von Vereinen ausgerichtet. Mitglieder einiger
 Vereine, Arbeitsgruppen usw., die hier im GenWiki eine Anmeldung und damit eine Benutzerseite haben, teilen ihre Mitgliedschaft dort mit, die Übersicht dazu findet sich hier. 
-----
+____
 
 Vereins of note: 
 
