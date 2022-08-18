@@ -1,4 +1,4 @@
-== Hessian Resources for Further Research
+== Hesse 
 
 Test of setting and include foldr with `:include: _includes` and then including anoth asciidoc document with `include::test.adoc[]':
 
