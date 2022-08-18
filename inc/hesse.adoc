@@ -1,10 +1,4 @@
-== Hesse 
-
-Test of setting and include foldr with `:include: _includes` and then including anoth asciidoc document with `include::test.adoc[]':
-
-image::test.jpg[]
-
-=== Hessische Familienkunde Publication Links
+==== Hessische Familienkunde Publication Links
 
 * https://wiki.genealogy.net/Hessische_Familienkunde
 * this list of https://wiki.genealogy.net/Hessische_Familienkunde[volumes] of the Hessische Familienkunde Zeichnung.
@@ -16,7 +10,7 @@ Volumes of the Hessicahe Familenkunde are available for purchase:
 * http://www.genealogie-zeitschriften.de/hessische-familienkunde/index.php[here]
 * https://www.zvab.com/buch-suchen/titel/hessische-familienkunde-heft/zeitschrift-periodikum/[and here]
 
-=== Hessische Heimt (Zeitschriften)
+==== Hessische Heimt (Zeitschriften)
 
 Hessiche Heimat ist ein http://www.hessische-heimat.de/hheimat.html[Verband], der seit 1950s einen Zeitschriten veröffentlichtet.
 Eine Liste von alle Aufgaben ist verfügbar http://www.hessische-heimat.de/hhregister50.htm[hier].
@@ -29,7 +23,7 @@ Zeitschrift für Kunst, Kultur und Denkmalpflege.
 
 Sind die Aufgaben auf die Webseit von Hessiche Heimat auch verfügbar?
 
-=== Hessische familiengeschichtliche Vereingung
+==== Hessische familiengeschichtliche Vereingung
 
 Die https://www.hfv-ev.de[Hessische familiengeschichtliche Vereingung (HfV)] (Hessian Family History Assocation) wurde 1921 gegründet. `About Us` erzählt ihre Zeile:
 
@@ -104,7 +98,7 @@ ____
 
 There is also a https://www.rodheimer-geschichtsverein.de/[Rodheimers Gesichichts- und Heimatverein webpage]
 
-==== Heimatsverein Rodheim-Bieber
+===== Heimatsverein Rodheim-Bieber
 
 Der https://www.heimatverein-rodheim-bieber.de[Heimatsverein Rodheim-Bieber] hat einen https://www.heimatverein-rodheim-bieber.de/hv/arbeitskreise/dorf-und-familiengeschichte/[Arbeitskreis Dorf- und Familiengeschichte],
 deren https://www.heimatverein-rodheim-bieber.de/hv/literatur/[Literatur] vorhanden ist. Irgendeine der interessantsten Veröffentlichten, die vorhanden ist, sind:
@@ -165,11 +159,11 @@ Also current documentations belong to it, like photographing buildings which are
 are always welcome.
 ____
 
-===== Die Veröffentlichungen des Vereins
+====== Die Veröffentlichungen des Vereins
 
 I found some of the Rodheim-Bieber Heimatverein’s pdf newsletters online at https://www.yumpu.com/user/heimatverein.rodheim.bieber.de.
 
-==== Hessen Church Records
+===== Hessen Church Records
 
 * https://helmut-hild-haus.de/index.html[Zentralarchiv der Evangelischen Kirche in Hessen und Nassau (EKHN)]
 + This https://helmut-hild-haus.de/index/einzelansicht/news/kirchenbuchportal-weitere-gemeinden-online-1.html[page]
@@ -186,14 +180,14 @@ There is also another church archive in the state of Hessen, but its holding a m
 
 * http://www.archiv-ekkw.de/[Landeskirchliches Archiv der Evangelischen Kirche von Kurhessen-Waldeck]
 
-==== Zugehörigkeit zu Sankt Johannis Gemeinde
+===== Zugehörigkeit zu Sankt Johannis Gemeinde
 
 They were members of the Sankt Johannis Gemeinde, just north of Emmanuel
 (Soest), on the esat side of Wayne Trace just north day of I-469. They
 were a splinter congregation of Emmanuel according it
 http://www.emmanuelsoest.org/our-history/[history].
 
-==== Marriage of Ludwig "Louis" Peppler to daughter of the Benders from Fellinghausen
+===== Marriage of Ludwig "Louis" Peppler to daughter of the Benders from Fellinghausen
 
 Ludwig "Louis" married Mary Bender, who was born in Indiana, but whose
 parents were from Fellinghausen, Hessen-Darmstadt, very close to
@@ -203,7 +197,7 @@ come in chain-migration?
 todo: create a timeline and map of where they lived in old country and
 where they lived in Marion twp, allen, Indiana.
 
-==== FindAGrave Parentage Information for Joh. Jacob Pppler
+===== FindAGrave Parentage Information for Joh. Jacob Pppler
 
 The Find-A-Grave page for
 https://www.findagrave.com/memorial/78479111/pep[Johann Jacob Pppler]
@@ -241,11 +235,11 @@ Peppler was the joint-leader of the Verein’s
 https://www.heimatverein-rodheim-bieber.de/hv/arbeitskreise/dorf-und-familiengeschichte/[Village
 and family history] working group.
 
-==== FamilySearch Wiki Hesse
+===== FamilySearch Wiki Hesse
 
 https://www.familysearch.org/en/wiki/Hesse_(Hessen),_German_Empire_Genealogy
 
-==== History of the Reformed Churches in Germany
+===== History of the Reformed Churches in Germany
 
 * Britanncia article on https://www.britannica.com/topic/Presbyterian-churches[Reformed and Presbyterian churches] discusses Reformed Churches in Germany.
 * FamilySearch wiki https://www.familysearch.org/en/wiki/German_Reformed_Church_in_the_United_States[German Reformed Churches in the United States]
@@ -253,12 +247,12 @@ https://www.familysearch.org/en/wiki/Hesse_(Hessen),_German_Empire_Genealogy
 * United Church of Christ page on https://www.ucc.org/about-us_short-course_the-german-reformed-church/[The German Reformed Church]
 * https://erhistoricalsociety.org/[Evaneglical and Reformed Historical Society]
 
-==== Map Gießen
+===== Map Gießen
 
 History of https://de.wikipedia.org/wiki/Landkreis_Gie%C3%9Fen[Gießen Landkreis] and
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hesse_GI.svg/1000px-Hesse_GI.svg.png[map] of LandKreise von Hessen ## Clues to Investigate
 
-=== Hessen Historical Information System
+==== Hessen Historical Information System
 
 Website for https://www.lagis-hessen.de/en[Hessen Historical Information System] .
 
@@ -266,7 +260,7 @@ The state of Hesse has a very extensive Hessen Historical Information
 System with has maps and a
 https://www.lagis-hessen.de/en/subjects/index/sn/ol[Historical Gazetteer]. And a lot of other things.
 
-=== Bender Leads
+==== Bender Leads
 
 Both Johann "John" Bender and his brother, Johann Friedrich, who
 emigrated in 1836 (and may have later moved from IN to NE later in
@@ -365,22 +359,22 @@ ____
 * Adams or Marion Twp Histories
 * Land Records
 
-=== German Ahnenforcher und Ahnenforchung Gruppe
+==== German Ahnenforcher und Ahnenforchung Gruppe
 
-==== Familienforschung im Hessischen Landesarchiv
+===== Familienforschung im Hessischen Landesarchiv
 
 State of Hessen page on
 https://landesarchiv.hessen.de/genealogie_einleitung[Familienforschung
 im Hessischen Landesarchiv]
 
-==== The Working Group of Family Studies Societies in Hesse
+===== The Working Group of Family Studies Societies in Hesse
 
 The Working Group of Family Studies Societies in Hesse
 https://wiki.genealogy.net/Arbeitsgemeinschaft_der_familienkundlichen_Gesellschaften_in_Hessen[Arbeitsgemeinschaft
 derfamilienkundlichen Gesellschaften in Hessen], publishes Hessische
 Familienkunde
 
-===== Hessische Familienkunde Publication Links
+====== Hessische Familienkunde Publication Links
 
 * https://wiki.genealogy.net/Hessische_Familienkunde
 * this list of https://wiki.genealogy.net/Hessische_Familienkunde[volumes] of the Hessische Familienkunde Zeichnung.
@@ -395,7 +389,7 @@ Volumes of the Hessicahe Familenkunde are available for purchase:
 * https://www.zvab.com/buch-suchen/titel/hessische-familienkunde-heft/zeitschrift-periodikum/[and
 here]
 
-===== Rodheim Researcher Ernst Schmidt’s Volumes
+====== Rodheim Researcher Ernst Schmidt’s Volumes
 
 * "Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber nach Nordamerika", Ernst Schmidt, September 1989, Hessische Familienkunde,
 Band 19 Heft 7, pages 317f
@@ -414,7 +408,7 @@ p. 12; no. 4 (15 Feb. 1986), p. 16.
 
 This is an Ancestry source.
 
-===== Hessische familiengeschichtliche Vereingung
+====== Hessische familiengeschichtliche Vereingung
 
 The https://www.hfv-ev.de[Hessische familiengeschichtliche Vereingung (HfV)],
 Hessian Family History Assocation, was founded in 1921 to (as
@@ -508,7 +502,7 @@ ____
 There is also a https://www.rodheimer-geschichtsverein.de/[Rodheimers
 Gesichichts- und Heimatverein webpage]
 
-===== Heimatsverein Rodheim-Bieber
+====== Heimatsverein Rodheim-Bieber
 
 There is also a
 
@@ -579,12 +573,12 @@ which are to be torn down. People who have time and interest to join us
 are always welcome.
 ____
 
-====== Die Veröffentlichungen des Vereins
+======= Die Veröffentlichungen des Vereins
 
 I found some of the Rodheim-Bieber Heimatverein’s pdf newsletters online
 at https://www.yumpu.com/user/heimatverein.rodheim.bieber.de.
 
-===== Hessen Church Records
+====== Hessen Church Records
 
 * https://helmut-hild-haus.de/index.html[Zentralarchiv der Evangelischen
 Kirche in Hessen und Nassau (EKHN)]
@@ -610,14 +604,14 @@ holding a more specifically regional:
 * http://www.archiv-ekkw.de/[Landeskirchliches Archiv der Evangelischen
 Kirche von Kurhessen-Waldeck]
 
-===== Zugehörigkeit zu Sankt Johannis Gemeinde
+====== Zugehörigkeit zu Sankt Johannis Gemeinde
 
 They were members of the Sankt Johannis Gemeinde, just north of Emmanuel
 (Soest), on the esat side of Wayne Trace just north day of I-469. They
 were a splinter congregation of Emmanuel according it
 http://www.emmanuelsoest.org/our-history/[history].
 
-===== Marriage of Ludwig "Louis" Peppler to daughter of the Benders from Fellinghausen
+====== Marriage of Ludwig "Louis" Peppler to daughter of the Benders from Fellinghausen
 
 Ludwig "Louis" married Mary Bender, who was born in Indiana, but whose
 parents were from Fellinghausen, Hessen-Darmstadt, very close to
@@ -627,7 +621,7 @@ come in chain-migration?
 todo: create a timeline and map of where they lived in old country and
 where they lived in Marion twp, allen, Indiana.
 
-===== FindAGrave Parentage Information for Joh. Jacob Pppler
+====== FindAGrave Parentage Information for Joh. Jacob Pppler
 
 The Find-A-Grave page for
 https://www.findagrave.com/memorial/78479111/pep[Johann Jacob Pppler]
@@ -665,11 +659,11 @@ Peppler was the joint-leader of the Verein’s
 https://www.heimatverein-rodheim-bieber.de/hv/arbeitskreise/dorf-und-familiengeschichte/[Village
 and family history] working group.
 
-===== FamilySearch Wiki Hesse
+====== FamilySearch Wiki Hesse
 
 https://www.familysearch.org/en/wiki/Hesse_(Hessen),_German_Empire_Genealogy
 
-===== History of the Reformed Churches in Germany
+====== History of the Reformed Churches in Germany
 
 * Britanncia article on https://www.britannica.com/topic/Presbyterian-churches[Reformed and Presbyterian churches] discusses Reformed Churches in Germany.
 * FamilySearch wiki https://www.familysearch.org/en/wiki/German_Reformed_Church_in_the_United_States[German Reformed Churches in the United States]
@@ -677,7 +671,7 @@ https://www.familysearch.org/en/wiki/Hesse_(Hessen),_German_Empire_Genealogy
 * United Church of Christ page on https://www.ucc.org/about-us_short-course_the-german-reformed-church/[The German Reformed Church]
 * https://erhistoricalsociety.org/[Evaneglical and Reformed Historical Society]
 
-===== Map Gießen
+====== Map Gießen
 
 History of https://de.wikipedia.org/wiki/Landkreis_Gie%C3%9Fen[Gießen Landkreis] and
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hesse_GI.svg/1000px-Hesse_GI.svg.png[map] of LandKreise von Hessen ### Clues to Investigate
@@ -692,7 +686,7 @@ Church register and other members, possibly from Rodheinm.
 mention his birth place?
 * What about the Peppler Bible?
 
-==== Record Sources
+===== Record Sources
 
 * Sankt Johannis Gemeinde
 * Land Records

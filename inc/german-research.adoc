@@ -1,11 +1,9 @@
-=== German Genealogical Research Resources
-
-==== FamilySearch wiki German Research Section
+=== FamilySearch wiki German Research Section
 
 https://www.familysearch.org/en/wiki/Germany_Genealogy[Germany Genealogy]
 
 
-==== German Verein Liste
+=== German Verein Liste
 
 GenWiki's link:https://wiki.genealogy.net/Portal:Vereine[Portal von Vereine]
 
@@ -29,6 +27,6 @@ Vereins of note:
 
 - Schaumburg TODO
 
-==== Hesse
+=== Hesse
 
-include::hesse.a[]
+include::./hesse.adoc[]

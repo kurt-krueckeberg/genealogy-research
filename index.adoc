@@ -3,9 +3,9 @@
 :stylesheet: dark.css
 :stylesdir: skins 
 
-include::inc/nara.a[]
+include::inc/nara.adoc[]
 
-include::inc/gen-center.a[]
+include::inc/gen-center.adoc[]
 
 == Guides
 
@@ -44,4 +44,4 @@ https://www.acgsi.org/records.php[ACGSI web page]
 
 == German 
 
-include::inc/german-research.a[]
+include::inc/german-research.adoc[]
