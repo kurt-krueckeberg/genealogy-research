@@ -7,7 +7,8 @@ include::inc/nara.adoc[]
 
 == Guides
 * https://www.familysearch.org/en/wiki/\[FamilySearch wiki]
-  - Germany Genealogy https://www.familysearch.org/en/wiki/Germany_Genealogy[Section] 
+  - Germany Genealogy https://www.familysearch.org/en/wiki/Germany_Genealogy[section] 
+  - https://www.familysearch.org/en/wiki/index.php?title=Allen_County,_Indiana_Genealogy[Allen County, Indiana] section.
 
 * Genealogy Center guide to https://acpl.lib.in.us/images/Documents/Gendocs/allencountyincongregations.pdf[Allen County, Indiana, Congregational Records, Histories and Directories]
 
