@@ -1,17 +1,4 @@
-=== Note Land Ownership from Censuses
-
-Note the fact that certain census years show *land ownership*. Onwership implies a land purchase with resultant real property purchase record(s)--deeds,
-perhaps mortgages.
-
-Before s.o. moved, they usually sold their land. when they arrive, they purcahsed land. The purcahse may have happned before they moved.
-
-* Note census land owernship for all ancestors, and add this this fact in my Ancestry tree. 
-* Note also those from the same areas--like Beners and Pepplers--who residede next to or near one another.
-* Find those ancestors and fans who had such land ownership noted on cenesuses., and the look for the land record(s)
-* look for *dower release*s, appluing what you can learn from it to my ancestors.
-* Look for...(whatever my reading says to note and record).
-
-=== Lectures, Recordings, Books
+== Lectures, Recordings, Books
 
 View Amy Crow lecture on land records.
 
@@ -20,23 +7,3 @@ View bbookmarked lectureson land records.:wq
 Later...
 
 * Find probate records, too. ...
-
-
-=== Note Others
-
-- A Henry Lepper age 65 lives near the Bender brothers according to the 1850 census. Is he from Hesse, from Rodheim?
-
-
-Many more Benders, like 15, lived in Rodheim an der Bieber. All of them emigrated. Did they also go to Allen county? Were they brothers? These Ancestry family trees might have clues:
-
-* https://www.ancestry.com/family-tree/tree/87046752/family?cfpid=302128729037[Bender Family Tree] lists the siblings of the Bender brothersa. It has birth records for the parent's chiuldren.
-* https://www.ancestry.com/family-tree/tree/160190972/family?cfpid=162100203115[Douglas Bender's Bender Family Tree]
-* https://www.ancestry.com/family-tree/tree/77194369/family?cfpid=48359162578[Bender-Sqnk Tree]
-
-* Benders are mentioned:
-  - in a 700-gate history and genalogy of the Slonaker Family. See
-  https://www.ancestry.com/imageviewer/collections/14355/images/dvm_GenMono000509-00037-0?treeid=68081704&personid=38179910726&usePUB=true&_phsrc=KtD909&_phstart=successSource&pId=71&rcstate=dvm_GenMono000509-00037-0%3A881%2C464%2C1003%2C492%3B563%2C589%2C685%2C617%3B444%2C672%2C547%2C700%3B549%2C711%2C665%2C738%3B564%2C872%2C680%2C900%3B442%2C1198%2C568%2C1232%3B669%2C1194%2C796%2C1223%3B399%2C1728%2C489%2C1762%3B1109%2C1837%2C1200%2C1871%3B397%2C1890%2C470%2C1925%3B423%2C430%2C575%2C464%3B575%2C428%2C700%2C456%3B729%2C465%2C881%2C500[page 71] for example
-  - as sponsors in the Early Mohawk Valley Families https://www.ancestry.com/imageviewer/collections/49040/images/FLHG_CompendiumEarlyMohawkFamilies1-0099?treeid=68081704&personid=38179910726&usePUB=true&_phsrc=KtD912&_phstart=successSource&pId=20768&rcstate=FLHG_CompendiumEarlyMohawkFamilies1-0099%3A308%2C624%2C443%2C658%3B1086%2C966%2C1176%2C1000%3B1500%2C1365%2C1590%2C1397%3B271%2C1531%2C444%2C1566%3B1306%2C1591%2C1394%2C1625%3B580%2C2610%2C670%2C2642%3B579%2C568%2C759%2C602%3B795%2C568%2C932%2C603[here]
-  - in the Brenneeman History found 
-  https://www.ancestry.com/imageviewer/collections/17366/images/dvm_GenMono003467-00439-0?treeid=68081704&personid=38179910726&usePUB=true&_phsrc=KtD912&_phstart=successSource&pId=867&rcstate=dvm_GenMono003467-00439-0%3A1815%2C1242%2C2059%2C1297%3B577%2C1399%2C815%2C1452%3B2231%2C1452%2C2514%2C1510%3B2150%2C1740%2C2432%2C1794%3B383%2C3049%2C705%2C3116%3B625%2C3691%2C972%2C3757%3B2091%2C3752%2C2395%2C3817%3B1055%2C3832%2C1332%2C3885%3B1630%2C743%2C1929%2C809%3B1617%2C1030%2C1912%2C1093%3B1911%2C1026%2C2155%2C1083%3B2073%2C1166%2C2304%2C1226%3B2303%2C1163%2C2508%2C1225%3B1515%2C1246%2C1815%2C1311o[on Ancestry]
-  - in this Ancestry source https://www.ancestry.com/imageviewer/collections/6692/images/GenRef-Annals-Swiss-German-Pioneer-PA-000273?treeid=68081704&personid=38179910726&usePUB=true&_phsrc=KtD912&_phstart=successSource&pId=273&rcstate=GenRef-Annals-Swiss-German-Pioneer-PA-000273%3A524%2C1501%2C673%2C1532%3B886%2C1761%2C986%2C1793%3B1797%2C1877%2C1899%2C1911%3B281%2C2074%2C408%2C2107%3B860%2C2387%2C960%2C2419%3B488%2C2439%2C612%2C2472%3B941%2C2438%2C1138%2C2472%3B1062%2C402%2C1139%2C434%3B808%2C611%2C981%2C642%3B513%2C1083%2C711%2C1114%3B279%2C1396%2C406%2C1430%3B844%2C1395%2C969%2C1427%3B276%2C1500%2C479%2C1534[Pennsylvannia Naturationzations--Povery of Immigrants]
