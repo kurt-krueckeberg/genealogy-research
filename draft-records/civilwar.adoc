@@ -11,21 +11,33 @@ See also thses links:
 
 * FamilySearch https://www.familysearch.org/en/wiki/Indiana_in_the_Civil_War[Indiana in the Civil War]
 
+* This is excellent https://www.in.gov/iara/divisions/state-archives/collections/military-records/[Military Records] at Indiana Archives and Records Administration
+
 * The FS wiki page for https://www.familysearch.org/en/wiki/Allen_County,_Indiana_Genealogy[Allen county] has a Civil War section that lists regiments in which Allen county residents participated--but the 90th is not listed.
 
 * http://www.civilwararchive.com/unionin.htm[Union Regimental Index Indiana] includes regiments for Cavalry, Artillery and Infantry.
 
 * https://www.loc.gov/rr/main/uscivilwar/[U.S. Civil War Regimental Histories in the Library of Congress]
 
-* US Park Service Civil War soldiers searable data https://www.nps.gov/civilwar/search-soldiers.htm#sort=First_Name+asc,Last_Name+asc&q=Bender[page]. I found out that the
-96th Indiana Infantry was merged in the 99th Regiment, Indiana Infantry, in which Henry Bender served.
+* US Park Service Civil War soldiers searchable solders database https://www.nps.gov/civilwar/search-soldiers.htm#sort=First_Name+asc,Last_Name+asc&q=Bender[page] returns hits for four Benders with firstname of Henry
+from Indiana.
 
 This page mentions how many soldiers and officiers died, and it has a link to a list of the unit's soldiers.
+
+Hits for "Bender, Henry":
 
 * https://www.familysearch.org/search/collection/1910717[United States Civil War Soldiers Index, 1861-1865] a project by US Parks Service, Federation of Gen. Societies, etc
   *Henry Bender* is found when searching for *Bender* with birth year of *1842*.
 * https://www.familysearch.org/ark:/61903/1:1:FSWT-K46[Henry Bender]
 * "Bender, Henry" from Indiana https://www.nps.gov/civilwar/search-soldiers.htm#sort=score+desc&q=Bender,+Henry&fq%5B%5D=State%3A%22Indiana%22[four search results] from Park Service database.
+
+* Indiana Archives and Records Administration, https://www.in.gov/iara/services-for-public/search-archives-holdings/indiana-archives-digital-index-records/[Search Indiana Indexes] returns hits for Bender that
+  - It includes at leat four Henry Benders, which matches the number of hits on Park Service website for Civil War soldiers from Indiana named "Bender, Henry": 
+    - https://researchindiana.iara.in.gov/DigitalRecords/Detail.html?WORK_FILENAME=NDX00114&WORK_RECORD_ID=12266[details]
+    - https://researchindiana.iara.in.gov/DigitalRecords/Detail.html?WORK_FILENAME=NDX00114&WORK_RECORD_ID=12250[Enrolled in Fort Wayne 8 August 1862]. The notes mentions he is "Disabled. Sergt.;Reduced to Pvt.". The
+      age given is 30.
+    - https://researchindiana.iara.in.gov/DigitalRecords/Detail.html?WORK_FILENAME=NDX00114&WORK_RECORD_ID=12249[Henry J Bender]
+    - https://researchindiana.iara.in.gov/DigitalRecords/Detail.html?WORK_FILENAME=NDX00114&WORK_RECORD_ID=12236[Henry Bender] enrolled in Evansville IN. 
 
 Collections:
 
