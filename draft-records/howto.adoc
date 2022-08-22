@@ -23,8 +23,8 @@ See also thses links:
 
 * https://www.loc.gov/rr/main/uscivilwar/[U.S. Civil War Regimental Histories in the Library of Congress]
 
-* US Park Service Civil War page on the https://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=UIN0099RI[99th Regiment, Indiana Infarntry] explains
-that the 96th Indiana Infantry was merged in the 99th Regiment, Indiana Infantry, in which Henry Bender served.
+* US Park Service Civil War soldiers searable data https://www.nps.gov/civilwar/search-soldiers.htm#sort=First_Name+asc,Last_Name+asc&q=Bender[page]. I found out that the
+96th Indiana Infantry was merged in the 99th Regiment, Indiana Infantry, in which Henry Bender served.
 
 This page mentions how many soldiers and officiers died, and it has a link to a list of the unit's soldiers.
 
