@@ -1,22 +1,25 @@
 == Understanding Draft Records
 
-The https://www.ancestry.com/imageviewer/collections/1666/images/32178_1220705228_0023-00087?pId=552670[June 1863 Civil War Draft Registration class II consolidate list] shows
+The https://www.ancestry.com/imageviewer/collections/1666/images/32178_1220705228_0023-00087?pId=552670[June 1863 Civil War Draft Registration class II, Cconsolidated lLst] shows
 Henry Bender had "former Military Servicein in the 90th or 96th Indiana Infantry.
 
 Links:
 
-- FamilySearch wiki on https://www.familysearch.org/en/wiki/Union_Draft_Records[Union Draft Records]
-  It doesn't give lots of detail.
-- Ancestry https://bit.ly/3AFCkta[About US, Civil Draft Registration Reoords, 1863-1865] is a search page.
+- FamilySearch's https://www.familysearch.org/en/wiki/Union_Draft_Records[Union Draft Records] isn't helpful.
+- Ancestry's https://bit.ly/3AFCkta[About US, Civil Draft Registration Reoords, 1863-1865] is merely a search form. 
 
+See also thses links:
 
 - Indiana state Library Manuscripts Catalog https://archives.isl.lib.in.us/subjects/399[Indiana--History--Civil War, 1861-1865]
-- In.gov page on https://www.in.gov/history/about-indiana-history-and-trivia/annual-commemorations/civil-war-150th/hoosier-voices-now/hoosier-soldiers-in-the-civil-war/[Hoosier Soldiers in the Civil War]
+- In.gov's helpful page on https://www.in.gov/history/about-indiana-history-and-trivia/annual-commemorations/civil-war-150th/hoosier-voices-now/hoosier-soldiers-in-the-civil-war/[Hoosier Soldiers in the Civil War]
 - FamilySearch https://www.familysearch.org/en/wiki/Indiana_Civil_War_Infantry_Union_Units[Indiana Civil War Infantry Union Units]
+
+- https://www.familysearch.org/en/wiki/Indiana_Civil_War_Infantry_Union_Units[Indiana Civil War Infantry Union Units]
+  *Note:* This list continues at the bottom of the page.
 - List of US Civil War https://civilwarindex.com/indiana-regiments.html[Indiana Regiments]
 - https://www.loc.gov/rr/main/uscivilwar/[U.S. Civil War Regimental Histories in the Library of Congress]
 
-Helpful http://civilwar.gratzpa.org/2011/05/civil-war-draft-registration-records-1863-1865/[article] that explains Ancestry Result.
+Article that explains Ancestry's http://civilwar.gratzpa.org/2011/05/civil-war-draft-registration-records-1863-1865/[database]. 
 
 This US Park Service Civil War page on the https://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=UIN0099RI[99th Regiment, Indiana Infarntry] explains
 that the 96th Indiana Infantry was merged in the 99th Regiment, Indiana Infantry, in which Henry Bender served.
