@@ -4,7 +4,7 @@
 
 === On Censuses
 
-Note the fact that certain census years show *land ownership*. Onwership implies a land purchase with resultant real property purchase record(s)--deeds,
+*TODO:* Note the fact that certain census years show *land ownership*. Onwership implies a land purchase with resultant real property purchase record(s)--deeds,
 perhaps mortgages.
 
 Before s.o. moved, they usually sold their land. when they arrive, they purcahsed land. The purcahse may have happned before they moved.
@@ -17,9 +17,9 @@ Before s.o. moved, they usually sold their land. when they arrive, they purcahse
 
 === List in "Die Auswanderer von Rodheim a. d. Bieber", von Ernst Schmidt
 
-Other Rühls and Platts asugewandert.
+Andere Rühls and Platts sind von Rodheim and der Bieber asugewandert.
 
-- A Henry Lepper age 65 lives near the Bender brothers according to the 1850 census. Is he from Hesse, from Rodheim?
+- Henry Lepper Alter 65 lebt nebenan die Bender Brüder, according to the 1850 census, aber er ist nicht aus Rodheim.
 
 - Many more Benders, like 15, lived in Rodheim an der Bieber. The Bender women who married are listed with their husbands (not separately). All of those mentioned by
   Ernst Schmidt emigrated. 
@@ -28,7 +28,7 @@ Other Rühls and Platts asugewandert.
 
 How many others from Rodheim or Fellinghausen went to Allen County, Indiana? 
 
-=== These Family Tress on Acnestry
+=== These Family Tress on Ancestry
 
 * Thomas Bender's https://www.ancestry.com/family-tree/tree/87046752/family?cfpid=302128729037[Bender Family Tree] lists the siblings of the Bender brothersa. It has birth records for the parent's chiuldren.
 * Douglas Bender's https://www.ancestry.com/family-tree/tree/160190972/family?cfpid=162100203115[Bender Family Tree]
@@ -36,8 +36,8 @@ How many others from Rodheim or Fellinghausen went to Allen County, Indiana?
 
 === FindAGrave Memorials
 
-- https://www.findagrave.com/memorial/19337588/john-h-bender/photo[John H Bender (1835 - 1878)] of Monroeville In. Born in PA
-- https://www.findagrave.com/memorial/71836544/johannes-bender[Johannes Bender (1839-1845)]]. Cemetery: Saint Paul Evangelical Lutheran Cemetery, Hessen Cassel, Allen County, Indiana
+- https://www.findagrave.com/memorial/19337588/john-h-bender/photo[John H Bender (1835 - 1878)] of Monroeville In. Born in PA?
+- https://www.findagrave.com/memorial/71836544/johannes-bender[Johannes Bender (1839-1845)]. Cemetery: Saint Paul Evangelical Lutheran Cemetery, Hessen Cassel, Allen County, Indiana
 
 Find details on acgsi.org/genweb/cemeteries???. This is the comment from FindAGrave about Saint Paul Evangelical Lutheran Cemetery, Hessen Cassel, Allen County, Indiana:
 
@@ -57,7 +57,7 @@ ____
 
 == Get Obituaries
 
-* Get the obituaries for Johannes and Katherine Elisabeth Rühl, and for Friedrich Bender and Elonore Christine RühlÖ two brother who married two sisters.
+* Get the obituaries for Johannes and Katherine Elisabeth Rühl, and for Friedrich Bender and Eleonore Christine RühlÖ two brother who married two sisters.
 * Get the obituaries for Johann Bender's children, esp those born in German and for those.
 * Get the obituaries for Friedrich Bender's children, esp those born in German and for those, like his son Frederick, who moved to Seward NE.
 
