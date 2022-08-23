@@ -17,6 +17,8 @@ include::inc/nara.adoc[]
   - https://acpl.lib.in.us/pathfinders/snapshots/states[State Snapshots] are State research guides.
   - https://acpl.lib.in.us/images/Documents/Gendocs/States/allen-county-fort-wayne-sg.pdf[Allen Co. & Ft. Wayne IN] is a separate guide with the State sanpshot guides.
 
+* The InGenWeb site for Allen County has this info on https://www.acgsi.org/genweb/county/records/land-records-allen-county-indiana.html[Land Records] for Allen County.
+
 * https://irenehansen11.files.wordpress.com/2015/04/pre-1850-in-research.pdf[Pre-1850 Indiana Resources for Family History Research] by Irene Hansen, Reference Librarian Indiana State Library
 
 * https://www.familysearch.org/en/help/helpcenter/lessons/old-german-script-part-1[Old German Script] 3-part video series by FamilySearch

@@ -1,105 +1,261 @@
-= Further Bender Peppler Research Leads
- 
-Johann Friedrich Bender (1804-??)'s first child, Anna Marie Bender (1835-1903), was born in Fellinghausen, Gießen, Oberhessen, Großherzogtum Hesse. In 1840 Johann Friedrich's brother Johannes Bender (18?? to 18??) would
-also emigrated from Fellinhausen. By 1850 both families are recorded in the 1850 census where they were farmers. JFWhile examining the entry for Johann Friedrich Bender in the FS tree, I cam across a user's collaboration note attached to the
-Jihann Friedrich Bender (provide URL here) explaining the family orignially settle in Saratoga county, New York. It reads:
+*Key to abbreviations:*
 
-____
+* a = age at death
+* abt = about
+* ad = additional
+* adm = administrator
+* app = appointed
+* b = born
+* br = brother
+* cem = cemetery
+* ch = [context sensitive] children or church
+* City = Fort Wayne, IN
+* d = [context sensitive] death or day(s)
+* dau = daughter
+* Ex = executor
+* f = funeral
+* fa = father
+* g = grand
+* gg = great grand
+* h = husband
+* inf = [context sensitive] infant or infirmary
+* int = interred
+* m = [context sensitive] month(s) or married
+* mo = mother
+* nat = native
 
-____
+* PD = paper date
+* Pres = Presbyterian
+* pro = probate or probated
+* rd = road
+* res = resides
+* s = son
+* S = south
+* ser = service
+* sis = sister
+* sur = survive
+* t = township
+* unm = unmarried
+* w = [context sensitive] wife or week(s)
+* wid = widow
+* y = year
+* ~~ = separates the data elements
 
+*Newspapers*
 
-She later married Johann Christoph Heckeler (1824-1900) in Allen County, Indiana, when she was 17. By 1870 they are living in Saratoga County NY, the area where Chritoph Heckeler was born (??). His parent had immigrated to
-this are from Württemberg in ????. and where his parent immigrated to. The Heckeler family is discussed, on p 892, of History from(or of) Hudosn Mohawk.., vol II, where 
-Try to find out if other Benders also may have settle in Sratoga County NY, or what realtionship the Benders had with ths area.
-after all one of the daughters of ??? Bender married a Heckeler and after a few years living in Allen county, they tmoved back to Saratoga county NY.
-Re-read the FamilySearch story I found and add it ot the Peppler-Bender story, arraingin it as chronological narrative.
+* FWDD = Fort Wayne Daily Democrat
+* FWDG = Fort Wayne Daily Gazette
+* FWDJ = Fort Wayne Daily Journal
+* FWDN = Fort Wayne Daily News
+* FWDS = Fort Wayne Daily Sentinel
+* FWDT = Fort Wayne Daily Times
+* FWJ = Fort Wayne Journal
+* FWMG = Fort Wayne Morning Gazette
+* FWMJ = Fort Wayne Morning Journal
+* FWS = Fort Wayne Sentinel
+* FTSt = Fort Wayne Standard
+* FWT = Fort Wayne Times
 
-== Note Others
+* FWTP = Fort Wayne Times & Peoples Press
+* FWWD = Fort Wayne Weekly Democrat
+* FWWS = Fort Wayne Weekly Sentinel
+* JEFF = Jeffersonian
 
-=== On Censuses
+Researchers can find microfilm of all of the Fort Wayne newspapers in
+the Allen County Public Library's Genealogy Center. Copies of specific
+obituaries may be ordered by emailing
+mailto:genealogy@acpl.info?subject=Obituary%20Request[Genealogy@ACPL.Info]
+with the complete citation as found in the index. Cost is $2.50 per
+obituary, billed at the time of mailing. Response time is typically 4-6
+weeks. Your complete name and mailing address must be included with your
+request.
 
-*TODO:* Note the fact that certain census years show *land ownership*. Onwership implies a land purchase with resultant real property purchase record(s)--deeds,
-perhaps mortgages.
+This index was taken from Fort Wayne and Allen County, IN Area Obituary
+Index, 1841-1899, and *not taken from the microfilm copies found in the
+Allen County Public Library's Genealogy Center*. Meant to abstract
+information found in the obituary, the specific newspaper title, page
+number, and meaning of the date (death, obituary, probate, etc.) often
+are not indicated. Reasonable efforts will be made to locate and copy
+these obituaries, but the volunteers and staff of the Genealogy Center
+cannot guarantee that the original obituaries will be found.
 
-Before s.o. moved, they usually sold their land. when they arrive, they purcahsed land. The purcahse may have happned before they moved.
+[#anchor]####****
 
-* Note census land owernship for all ancestors, and add this this fact in my Ancestry tree. 
-* Note also those from the same areas--like Beners and Pepplers--who residede next to or near one another.
-* Find those ancestors and fans who had such land ownership noted on cenesuses., and the look for the land record(s)
-* look for *dower release*s, appluing what you can learn from it to my ancestors.
-* Look for...(whatever my reading says to note and record).
+.Benders 
+[cols=",,,",]
+|===
+|Surname |First Name |Obituary Date |Notes
 
-=== List in "Die Auswanderer von Rodheim a. d. Bieber", von Ernst Schmidt
+|BENDER |14 D/o Child Of Samuel |02/05/1895 |FWDN p. 4
 
-Andere Rühls and Platts sind von Rodheim and der Bieber ausgewandert.
+|BENDER |18 M/o Child Of William |07/22/1899 |FWDS p. 4
 
-- Henry Lepper Alter 65 lebt nebenan die Bender Brüder, according to the 1850 census, aber er ist nicht aus Rodheim.
+|BENDER |2 W/o Child Of Samuel |02/05/1895 |FWDS p. 1
 
-- Many more Benders, like 15, lived in Rodheim an der Bieber. The Bender women who married are listed with their husbands (not separately). All of those mentioned by
-  Ernst Schmidt emigrated. 
+|BENDER |4 M/o Child Of Christopher |01/15/1890 |FWS p. 4
 
- - Several other Platts emigrated from Rodheim! 
+|BENDER |Adam |06/07/1872 |FWDS p. 4
 
-How many others from Rodheim or Fellinghausen went to Allen County, Indiana? 
+|BENDER |Adam |06/07/1872 |FWS p. 4
 
-=== These Family Tress on Ancestry
+|BENDER |Child Of W.c. |03/08/1893 |FWWS p. 7
 
-* Thomas Bender's https://www.ancestry.com/family-tree/tree/87046752/family?cfpid=302128729037[Bender Family Tree] lists the siblings of the Bender brothersa. It has birth records for the parent's chiuldren.
-* Douglas Bender's https://www.ancestry.com/family-tree/tree/160190972/family?cfpid=162100203115[Bender Family Tree]
-* https://www.ancestry.com/family-tree/tree/77194369/family?cfpid=48359162578[Bender-Swank Tree]
+|BENDER |Christopher (Dau Of) |01/15/1890 |d~~Creighton Ave
 
-=== FindAGrave Memorials
+|BENDER |Dennis |08/06/1895 |FWDN p. 1
 
-- https://www.findagrave.com/memorial/19337588/john-h-bender/photo[John H Bender (1835 - 1878)] of Monroeville In. Born in PA?
-- https://www.findagrave.com/memorial/71836544/johannes-bender[Johannes Bender (1839-1845)]. Cemetery: Saint Paul Evangelical Lutheran Cemetery, Hessen Cassel, Allen County, Indiana
+|BENDER |Dennis |08/06/1895 |FWDS p. 1
 
-Find details on acgsi.org/genweb/cemeteries???. This is the comment from FindAGrave about Saint Paul Evangelical Lutheran Cemetery, Hessen Cassel, Allen County, Indiana:
+|BENDER |Edith |07/22/1889 |FWDN, p. 1; d~~216 Francis St, inf dau of
+John
 
-____
-Located on Thompson Road, south of I-469 and west of Marion Center Road.
-Congregation moved church to 9909 Wayne Trace and changed name to Emmanuel Evangelical Lutheran Church. Mary Penrose Chapter of the DAR has a more complete listing of this cemetery, which can be accessed through the Allen County USGenWeb site.
-Someone came in and poured a new foundation and placed six stones upon it. Beyond these stones, are another six or so laying flush to the ground, mostly covered with turf along their edges. According to a 1932 reading by the local DAR, there were eighteen at the time. Looking at the size of the ground covered by this cemetery, there were probably more burials than this total.
-____
+|BENDER |Elizabeth |01/27/1892 |d~~a 47y~~w of Peter...native of Pa.,
+O...m 3 times...1st h, Higgins..ch of; Mrs. Netterfield, Wells Co.
+(Emma); James Higgins, Greenfield, Ind & Melissa Higgins, City...2nd h
+Mr. Bowers
 
-=== Mentioned In Other Sources
+|BENDER |Elizabeth |02/03/1892 |FWWS p. 3
 
-* Benders are mentioned:
-  - in a 700-gate history and genalogy of the Slonaker Family. See https://shorturl.at/npqsT[page 71] for example
-  - as sponsors in the Early Mohawk Valley Families https://shorturl.at/hkqy0[here]
-  - in the Brenneeman History found https://shorturl.at/aisWY[on Ancestry]
-  - in this Ancestry source https://shorturl.at/fknt3[Pennsylvannia Naturationzations--Povery of Immigrants]
+|BENDER |Elizabeth |02/03/1892 |FWWS, p 1,
 
-== Get Obituaries
+|BENDER |Frances |05/15/1887 |d~~a 19y~~w of Levi, 169 Clinton
 
-* Get the obituaries for Johannes and Katherine Elisabeth Rühl, and for Friedrich Bender and Eleonore Christine RühlÖ two brother who married two sisters.
-* Get the obituaries for Johann Bender's children, esp those born in German and for those.
-* Get the obituaries for Friedrich Bender's children, esp those born in German and for those, like his son Frederick, who moved to Seward NE.
+|BENDER |George |02/03/1894 |FWDS p. 1
 
-For Johann, his wife and chilfre, check the Obituary Index and local newspaper collection. They nay have been St Paul Lutheran members initially beefore Soest got u and going.
+|BENDER |George |02/04/1894 |FWDG, p. 8; d~~a 50y~~205 Francis St...w &
+3 ch sur
 
-For Friedrich , his wife and sone Frederick (and any other children who settled in NE), check for the names in newspaper databases that Genealogy Center may have.
+|BENDER |George |02/10/1894 |FWDS p. 1
 
-== Family Histories
+|BENDER |Howard |06/27/1887 |FWDS, p. 4; age 5, son of Levi
 
-Are there family histories of the Benders in the Genalogy Center already. The Pepplers?
+|BENDER |Jackson |07/03/1871 |FWDS p. 2
 
-== Local Histories and Church Histories
+|BENDER |Jackson |07/03/1871 |FWS p. 2
 
-Check into Seward Co NE histories and any genealogical societies
+|BENDER |John |04/21/1886 |FWDS, p. 1; F Friday
 
-== Land Records
+|BENDER |Katherina |03/13/1897 |FWDS p. 4
 
-* Genealogy Center resources
+|BENDER |Katherina |03/15/1897 |FWDS p. 1
 
-The Genealogy Center has Allen County Deed/Land records. These are just one part of its https://www.genealogycenter.info/search_microtext.php[Microtext Catalog]
+|BENDER |Katherine, Mrs. |03/14/1897 |FWDG, p. 8; d~~a 88y~~s, Louis
+Bender, Adams T
 
-** Allen Co Recorder's Office
+|BENDER |Louis (Ch Of) |12/00/1876 |d~~
 
-* Its older deed book indexes (like prior to 1970 or so) can be searched online, but there is a fee since you have to use 3rd party vendor's site.
+|BENDER |Louis (Ch Of) |05/22/1881 |d~~E Washington St
 
-===  Church Records
+|BENDER |Magdeline |04/26/1886 |DWDN, p. 1
 
-* See Genealogy Center
+|BENDER |Mary E. |01/20/1890 |FWS p. 2
 
+|BENDER |Mrs. Peter [elizabeth] |02/03/1892 |FWWS p. 1
 
+|BENDER |Philip |04/24/1890 |FWDG, p. 4; d~~Richmond Road (9 miles)...w
+& 4 ch sur...s-in-law, Fred Brabse, W. Jefferson St
+
+|BENDER |Philip T. |04/24/1890 |FWS p. 4
+
+|BENDER |Reuben |09/06/1894 |FWDS p. 1
+
+|BENDER |Reuben |09/10/1894 |f~~77 Grand St...Berry St. M. E. Church
+
+|BENDER |Ruben |09/06/1894 |FWDN p. 1
+
+|BENDER |Samuel (Ch Of) |02/04/1895 |d~~a 14d~~69 Gay St
+
+|BENDER |Samuel, Mrs. |02/05/1895 |FWDS, p. 1
+
+|BENDER |Susie, Mrs. |08/11/1878 |d~~dau of Mrs. Flynn, W. Wayne St...d
+in Pa...int; Lindenwood
+
+|BENDER |W. C. (Ch Of) |03/04/1893 |d~~a 3d~~143 Griffith St...int;
+Zanesville, Ind
+
+|BENDER |William |07/20/1892 |FWWS p. 4
+
+|BENDER |William |07/21/1892 |d~~a 4y~~63 E Main St
+
+|BENDER |Willie |07/27/1892 |FWWS p. 4
+
+|BENDER |Wm. (Young Ch Of) |11/30/1888 |f~~173 W Washington St...int;
+Sheldon
+
+|BUTTONBENDER |Henry |12/17/1882 |d~~a 66y~~187 W Washington
+|===
+
+TODO: Using the death date of those below, look up the obituary, if any,
+in * from the microfilm copies found in the Allen County Public
+Library's Genealogy Center..*
+
+**
+
+== *Allen County, Indiana Church Burial Records*
+
+Databse includes these churches:
+
+* Cath =
+https://www.genealogycenter.info/data_churchburialscath.php[Catholic
+Cemetery Burial Records before 1873]
+* Cathedral =
+https://www.genealogycenter.info/data_churchburialscathedral.php[Cathedral
+of the Immaculate Conception, Fort Wayne]
+* EmmLuth =
+https://www.genealogycenter.info/data_churchburialsemmluth.php[Emmanuel
+Lutheran, Marion Township]
+* MartLuth =
+https://www.genealogycenter.info/data_churchburialsmartluth.php[Martini
+Lutheran, Fort Wayne (now New Haven)]
+* SJUCC =
+https://www.genealogycenter.info/data_churchburialssjucc.php[St. John's
+United Church of Christ, Fort Wayne]
+* SMC = https://www.genealogycenter.info/data_churchburialssmc.php[St.
+Mary's Catholic Church, Fort Wayne]
+* SPatC =
+https://www.genealogycenter.info/data_churchburialsspatc.php[St.
+Patrick's Catholic Church, Arcola]
+* SPaulC =
+https://www.genealogycenter.info/data_churchburialsspaulc.php[St. Paul's
+Catholic Church, Fort Wayne]
+* SPaulL =
+https://www.genealogycenter.info/data_churchburialsstpaullutheran.php[St.
+Paul's Evangelical Lutheran Church, Fort Wayne]
+
+* StMarkLuth =
+https://www.genealogycenter.info/data_churchburialsstmarkluth.php[St.
+Mark's Evangelical Lutheran Church, Pleasant Township]
+* StPeterLth =
+https://www.genealogycenter.info/data_churchburialsstpeterlth.php[St.
+Peter's Evangelical Lutheran Church, St. Joseph Township]
+* StJosC =
+https://www.genealogycenter.info/data_churchburialsstjosc.php[St. Joseph
+Hessen Cassel Catholic, Marion Township]
+* StLBC =
+https://www.genealogycenter.info/data_churchburialsstlbc.php[St. Louis
+Besancon Catholic, New Haven]
+* TEEL =
+https://www.genealogycenter.info/data_churchburialsteel.php[Trinity
+English Evangelical Lutheran Church, Fort Wayne]
+* TrinE =
+https://www.genealogycenter.info/data_churchburialstrine.php[Trinity
+Episcopal, Fort Wayne]
+* TrinSbLuth =
+https://www.genealogycenter.info/data_churchburialstrinsbluth.php[Trinity
+Suburban Evangelical Lutheran Church, Fort Wayne]
+
+[#anchor-1]##
+
+[cols=",,,,",]
+|===
+|Surname |First Name |Date of Burial |Other Information |Church
+
+|Hekeler |Barbara |18 Sep 1881 |nee Rauch, w/o Thomas Hekeler, b. 24 Jul
+1787 in Enzweihingen, Vaihingen, Wurttemberg, d. 15 Sep 1881.
+|StMarkLuth
+
+|Hisler |Mary Catherine |00 Aug 1843 |d/o Bernard Hisler and Christine
+Bashorn. |Cathedral
+|===
+
+**
