@@ -1,0 +1,64 @@
+== *Allen County, Indiana Church Burial Records*
+
+Databse includes these churches:
+
+* Cath =
+https://www.genealogycenter.info/data_churchburialscath.php[Catholic
+Cemetery Burial Records before 1873]
+* Cathedral =
+https://www.genealogycenter.info/data_churchburialscathedral.php[Cathedral
+of the Immaculate Conception, Fort Wayne]
+* EmmLuth =
+https://www.genealogycenter.info/data_churchburialsemmluth.php[Emmanuel
+Lutheran, Marion Township]
+* MartLuth =
+https://www.genealogycenter.info/data_churchburialsmartluth.php[Martini
+Lutheran, Fort Wayne (now New Haven)]
+* SJUCC =
+https://www.genealogycenter.info/data_churchburialssjucc.php[St. John's
+United Church of Christ, Fort Wayne]
+* SMC = https://www.genealogycenter.info/data_churchburialssmc.php[St.
+Mary's Catholic Church, Fort Wayne]
+* SPatC =
+https://www.genealogycenter.info/data_churchburialsspatc.php[St.
+Patrick's Catholic Church, Arcola]
+* SPaulC =
+https://www.genealogycenter.info/data_churchburialsspaulc.php[St. Paul's
+Catholic Church, Fort Wayne]
+* SPaulL =
+https://www.genealogycenter.info/data_churchburialsstpaullutheran.php[St.
+Paul's Evangelical Lutheran Church, Fort Wayne]
+
+* StMarkLuth =
+https://www.genealogycenter.info/data_churchburialsstmarkluth.php[St.
+Mark's Evangelical Lutheran Church, Pleasant Township]
+* StPeterLth =
+https://www.genealogycenter.info/data_churchburialsstpeterlth.php[St.
+Peter's Evangelical Lutheran Church, St. Joseph Township]
+* StJosC =
+https://www.genealogycenter.info/data_churchburialsstjosc.php[St. Joseph
+Hessen Cassel Catholic, Marion Township]
+* StLBC =
+https://www.genealogycenter.info/data_churchburialsstlbc.php[St. Louis
+Besancon Catholic, New Haven]
+* TEEL =
+https://www.genealogycenter.info/data_churchburialsteel.php[Trinity
+English Evangelical Lutheran Church, Fort Wayne]
+* TrinE =
+https://www.genealogycenter.info/data_churchburialstrine.php[Trinity
+Episcopal, Fort Wayne]
+* TrinSbLuth =
+https://www.genealogycenter.info/data_churchburialstrinsbluth.php[Trinity
+Suburban Evangelical Lutheran Church, Fort Wayne]
+
+[]
+|===
+|Surname |First Name |Date of Burial |Other Information |Church
+
+|Hekeler |Barbara |18 Sep 1881 |nee Rauch, w/o Thomas Hekeler, b. 24 Jul
+1787 in Enzweihingen, Vaihingen, Wurttemberg, d. 15 Sep 1881.
+|StMarkLuth
+
+|Hisler |Mary Catherine |00 Aug 1843 |d/o Bernard Hisler and Christine
+Bashorn. |Cathedral
+|===
