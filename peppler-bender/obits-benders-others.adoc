@@ -1,11 +1,14 @@
-*Key to abbreviations:*
+[[header]][[content]]
+From http://friendsofallencounty.org/search_obits1900.php[Allen County
+Obituary Index, 1837-2022]
 
 todo: Add Elizabeth Hoffman
 
+.Table 1. Key to abbreviations
+[width="100%",cols="30%,70%",options="header",]
 |===
-|Abbrev.|Meaning
-
-|a |age at death 
+|Abbrev. |Meaning
+|a |age at death
 |abt |about
 |ad |additional
 |adm |administrator
@@ -15,7 +18,7 @@ todo: Add Elizabeth Hoffman
 |cem |cemetery
 |ch |[context sensitive] children or church
 |City |Fort Wayne, IN
-|d |[context sensitive] death  or day(s)
+|d |[context sensitive] death or day(s)
 |dau |daughter
 |Ex |executor
 |f |funeral
@@ -43,65 +46,34 @@ todo: Add Elizabeth Hoffman
 |w |[context sensitive] wife or week(s)
 |wid |widow
 |y |year
-|~~| separates the data elements
+|~~ |separates the data elements
 |===
 
 *Newspapers*
 
+[width="100%",cols="30%,70%",options="header",]
 |===
-|Abbrev.|Newspaper
-
-|FWDD
-|Fort Wayne Daily Democrat
-
-|FWDG
-|Fort Wayne Daily Gazette
-
-|FWDJ
-|Fort Wayne Daily Journal
-
-|FWDN
-|Fort Wayne Daily News
-
-|FWDS
-|Fort Wayne Daily Sentinel
-
-|FWDT
-|Fort Wayne Daily Times
-
-|FWJ
-|Fort Wayne Journal
-
-|FWMG
-|Fort Wayne Morning Gazette
-
-|FWMJ
-|Fort Wayne Morning Journal
-
-|FWS
-|Fort Wayne Sentinel
-
-|FTSt
-|Fort Wayne Standard
-
-|FWT
-|Fort Wayne Times
-
-|FWTP
-|Fort Wayne Times & Peoples Press
-
-|FWWD
-|Fort Wayne Weekly Democrat
-
-|FWWS
-|Fort Wayne Weekly Sentinel
-
-|JEFF
-|Jeffersonian
+|Abbrev. |Newspaper
+|DWWD |Fort Wayne Daily Democrat
+|FWDG |Fort Wayne Daily Gazette
+|FWDJ |Fort Wayne Daily Journal
+|FWDN |Fort Wayne Daily News
+|FWDS |Fort Wayne Daily Sentinel
+|FWDT |Fort Wayne Daily Times
+|FWJ |Fort Wayne Journal
+|FWMG |Fort Wayne Morning Gazette
+|FWMJ |Fort Wayne Morning Journal
+|FWS |Fort Wayne Sentinel
+|FTSt |Fort Wayne Standard
+|FWT |Fort Wayne Times
+|FWTP |Fort Wayne Times & Peoples Press
+|FWWD |Fort Wayne Weekly Democrat
+|FWWS |Fort Wayne Weekly Sentinel
+|JEFF |Jeffersonian
 |===
 
 Researchers can find microfilm of all of the Fort Wayne newspapers in
-the Allen County Public Library's Genealogy Center. Copies of specific
+the Allen County Public Library’s Genealogy Center. Copies of specific
 obituaries may be ordered by emailing
 mailto:genealogy@acpl.info?subject=Obituary%20Request[Genealogy@ACPL.Info]
 with the complete citation as found in the index. Cost is $2.50 per
@@ -111,18 +83,17 @@ request.
 
 This index was taken from Fort Wayne and Allen County, IN Area Obituary
 Index, 1841-1899, and *not taken from the microfilm copies found in the
-Allen County Public Library's Genealogy Center*. Meant to abstract
+Allen County Public Library’s Genealogy Center*. Meant to abstract
 information found in the obituary, the specific newspaper title, page
 number, and meaning of the date (death , obituary, probate, etc.) often
 are not indicated. Reasonable efforts will be made to locate and copy
 these obituaries, but the volunteers and staff of the Genealogy Center
 cannot guarantee that the original obituaries will be found.
 
-.Bender Obituaries 
-[cols="1,2,1,3"]
+.Table 2. Bender Obituaries
+[width="100%",cols="10%,10%,10%,70%",options="header",]
 |===
 |Surname |First Name |Obituary Date |Notes
-
 |Bender |14 D/o Child of Samuel |02/05/1895 |FWDN p. 4
 
 |Bender |18 M/o Child of William |07/22/1899 |FWDS p. 4
@@ -143,23 +114,25 @@ cannot guarantee that the original obituaries will be found.
 
 |Bender |Dennis |08/06/1895 |FWDS p. 1
 
-|Bender |Edith |07/22/1889 |FWDN, p. 1; death 216 Francis St, inf dau of John
+|Bender |Edith |07/22/1889 |FWDN, p. 1; death 216 Francis St, inf dau of
+John
 
-|Bender |Elizabeth |01/27/1892 |death  age 47years wife of Peter...native of Pa.,
-O...m 3 times...1st h, Higgins..ch of; Mrs. Netterfield, Wells Co.
-(Emma); James Higgins, Greenfield, Ind & Melissa Higgins, City...2nd h
+|Bender |Elizabeth |01/27/1892 |death age 47years wife of Peter…native
+of Pa., O…m 3 times…1st h, Higgins..ch of; Mrs. Netterfield, Wells Co.
+(Emma); James Higgins, Greenfield, Ind & Melissa Higgins, City…2nd h
 Mr. Bowers
 
 |Bender |Elizabeth |02/03/1892 |FWWS p. 3
 
 |Bender |Elizabeth |02/03/1892 |FWWS, p 1,
 
-|Bender |Frances |05/15/1887 |death  age 19years wife of Levi, 169 Clinterredn
+|Bender |Frances |05/15/1887 |death age 19years wife of Levi, 169
+Clinterredn
 
 |Bender |George |02/03/1894 |FWDS p. 1
 
-|Bender |George |02/04/1894 |FWDG, p. 8; death  age 50years205 Francis St...w &
-3 ch sur
+|Bender |George |02/04/1894 |FWDG, p. 8; death age 50years205 Francis
+St…w & 3 ch sur
 
 |Bender |George |02/10/1894 |FWDS p. 1
 
@@ -175,10 +148,10 @@ Mr. Bowers
 
 |Bender |Katherina |03/15/1897 |FWDS p. 1
 
-|Bender |Katherine, Mrs. |03/14/1897 |FWDG, p. 8; death  age 88 years son, Louis
-Bender, Adams T
+|Bender |Katherine, Mrs. |03/14/1897 |FWDG, p. 8; death age 88 years
+son, Louis Bender, Adams T
 
-|Bender |Louis (Ch Of) |12/00/1876 |death 
+|Bender |Louis (Ch Of) |12/00/1876 |death
 
 |Bender |Louis (Ch Of) |05/22/1881 |death E Washington St
 
@@ -188,39 +161,43 @@ Bender, Adams T
 
 |Bender |Mrs. Peter [elizabeth] |02/03/1892 |FWWS p. 1
 
-|Bender |Philip |04/24/1890 |FWDG, p. 4; death Richmond Road (9 miles)...w
-& 4 ch sur...s-in-law, Fred Brabse, W. Jefferson St
+|Bender |Philip |04/24/1890 |FWDG, p. 4; death Richmond Road (9
+miles)…w & 4 ch sur…s-in-law, Fred Brabse, W. Jefferson St
 
 |Bender |Philip T. |04/24/1890 |FWS p. 4
 
 |Bender |Reuben |09/06/1894 |FWDS p. 1
 
-|Bender |Reuben |09/10/1894 |funeral77 Grand St...Berry St. M. E. Church
+|Bender |Reuben |09/10/1894 |funeral77 Grand St…Berry St. M. E. Church
 
 |Bender |Ruben |09/06/1894 |FWDN p. 1
 
-|Bender |Samuel (Ch Of) |02/04/1895 |death  age 14days 69 Gay St
+|Bender |Samuel (Ch Of) |02/04/1895 |death age 14days 69 Gay St
 
 |Bender |Samuel, Mrs. |02/05/1895 |FWDS, p. 1
 
-|Bender |Susie, Mrs. |08/11/1878 |death dau of Mrs. Flynn, W. Wayne St...death 
-in Pa...int; Lindenwood
+|Bender |Susie, Mrs. |08/11/1878 |death dau of Mrs. Flynn, W. Wayne
+St…death in Pa…int; Lindenwood
 
-|Bender |W. C. (Ch Of) |03/04/1893 |death  age 3days 143 Griffith St...int;
-Zanesville, Ind
+|Bender |W. C. (Ch Of) |03/04/1893 |death age 3days 143 Griffith
+St…int; Zanesville, Ind
 
 |Bender |William |07/20/1892 |FWWS p. 4
 
-|Bender |William |07/21/1892 |death  age 4years63 E Main St
+|Bender |William |07/21/1892 |death age 4years63 E Main St
 
 |Bender |Willie |07/27/1892 |FWWS p. 4
 
-|Bender |Wm. (Young Ch Of) |11/30/1888 |funeral173 W Washington St...int;
+|Bender |Wm. (Young Ch Of) |11/30/1888 |funeral173 W Washington St…int;
 Sheldon
 
-|Bender |Henry |12/17/1882 |death  age 66years187 W Washington
+|Bender |Henry |12/17/1882 |death age 66years187 W Washington
 |===
 
-TODO: Using the death  date of those below, look up the obituary, if any,
+TODO: Using the death date of those below, look up the obituary, if any,
 in * from the microfilm copies found in the Allen County Public
-Library's Genealogy Center..*
+Library’s Genealogy Center..*
+
+[[footer]]
+[[footer-text]]
+Last updated 2022-08-25 09:31:59 -0400
