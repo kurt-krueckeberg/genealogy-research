@@ -3,6 +3,9 @@
 :stylesheet: dark.css
 :stylesdir: skins 
 
+
+TODO: Organize by topic not facility or location
+
 include::inc/nara.adoc[]
 
 == Guides
@@ -49,7 +52,9 @@ https://stevemorse.org[stevemorse.org]
 
 The Members-Only section has a wealth of resources for Allen County, Indiana.
 
-https://www.acgsi.org/records.php[ACGSI web page]
+* https://www.acgsi.org/records.php[ACGSI web page]
+
+* ACGSI https://www.acgsi.org/deed/index.asp[Deed Index (1870s-1890s)] 
 
 == German 
 
