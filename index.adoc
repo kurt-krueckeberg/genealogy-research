@@ -52,6 +52,8 @@ DeKalb, Delaware, Grant, Howard, Huntington, Jay, Kosciusko, Lagrange, Madison, 
 were attached to the Indianapolis Land Office#.
 ____
 
+See state archives https://www.in.gov/iara/divisions/state-archives/collections/land-records/major-land-record-collection-descriptions/[Major Land Record Collection Descriptions].
+
 - https://www.in.gov/iara/divisions/state-archives/collections/naturalization-records/[Naturlatizatoin Records]. 
 
 This section describes the naturalization records digitalization efforts and where nationarlization records can be found. It explains the naturalization process:
