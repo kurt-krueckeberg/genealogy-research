@@ -52,8 +52,9 @@ DeKalb, Delaware, Grant, Howard, Huntington, Jay, Kosciusko, Lagrange, Madison, 
 were attached to the Indianapolis Land Office#.
 ____
 
-- https://www.in.gov/iara/divisions/state-archives/collections/naturalization-records/[Naturlatizatoin Records], which explains the naturalization process:
+- https://www.in.gov/iara/divisions/state-archives/collections/naturalization-records/[Naturlatizatoin Records]. 
 
+This section describes the naturalization records digitalization efforts and where nationarlization records can be found. It explains the naturalization process:
 ____
 In the nineteenth century and most of the twentieth century, naturalization was a three step process. First, one declared intention to naturalize, then petitioned
 for naturalization, and lastly, received a certificate or a court order granting citizenship.
@@ -73,8 +74,6 @@ After 1907, the federal government required state/local courts to issue standard
 
 Many counties recorded the final process on the back of the petitions; therefore an additional “final paper” will not be available in the Archives.
 ____
-
-Theis section describe place to find nationuralzaion records, including the Indiana State Archives and other volumes and local record repositories.
 
 == Genealogy Center
 
