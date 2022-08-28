@@ -1,7 +1,7 @@
 = Genealogy Research
 :toc:
 :stylesheet: dark.css
-:stylesdir: skins 
+:stylesdir: /home/kurt/skins 
 
 
 TODO: Organize by topic not facility or location
@@ -39,6 +39,42 @@ include::inc/nara.adoc[]
 * https://www.familysearch.org/en/rootstech/session/certified-genealogist-and-accredited-genealogist-a-comparison[BCG vs ICAPGen] certification  
 
 * https://dagv.org/?Die_DAGV[Deutsche Arbeitsgemeinschaft genealogischer Verbände (DAGV)]
+
+== Indiana State Archives
+
+* The https://www.in.gov/iara/divisions/state-archives/collections/[Collections] of the https://www.in.gov/iara/divisions/state-archives/[Indians State Archives] includes subjects like: 
+
+- https://www.in.gov/iara/divisions/state-archives/collections/[Land Records in Indiana], which explains when the *Fort Wayne Federal Land Office* was opened:
+
+____
+As the tide of settlement (in Indiana) moved north, a new land office opened at Fort Wayne in 1823. It sold lands in all or part of the present day counties of [.underline]#Adams, Allen#, Blackford, Cass, Clinton,
+DeKalb, Delaware, Grant, Howard, Huntington, Jay, Kosciusko, Lagrange, Madison, Miami, Noble, Randolph, Steuben, Tipton, Wabash, Wells, and Whitley. [.underline]#The final sales were in 1852; all lands remaining unsold
+were attached to the Indianapolis Land Office#.
+____
+
+- https://www.in.gov/iara/divisions/state-archives/collections/naturalization-records/[Naturlatizatoin Records], which explains the naturalization process:
+
+____
+In the nineteenth century and most of the twentieth century, naturalization was a three step process. First, one declared intention to naturalize, then petitioned
+for naturalization, and lastly, received a certificate or a court order granting citizenship.
+
+*Declarations and Petitions*
+
+The first two steps involved the submission of specific documents -- declarations of intent and petitions -- that the Archives now holds for some counties.
+
+If the individual you are looking for is not listed in the database, it will be necessary to know the county or counties in which the naturalization process began.
+
+Please note that many immigrants never completed the full process. In the nineteenth century, many states allowed their residents to buy land and work without obtaining full citizenship.
+[.underline]#In Indiana, one could purchase land, own a business, and vote with a declaration of intention.#
+
+*Final Papers*
+
+After 1907, the federal government required state/local courts to issue standardized certificates of citizenship, to send duplicate copies of the certificates to the federal government, and to retain a certificate stub for their own court records. The Archives has certificate stubs for a few counties. These stubs are organized by date, not alphabetically; thus, a date of naturalization or a certificate number is imperative to locating any individual's certificate stub.
+
+Many counties recorded the final process on the back of the petitions; therefore an additional “final paper” will not be available in the Archives.
+____
+
+Theis section describe place to find nationuralzaion records, including the Indiana State Archives and other volumes and local record repositories.
 
 == Genealogy Center
 
