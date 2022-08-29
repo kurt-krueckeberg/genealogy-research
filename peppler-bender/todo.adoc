@@ -19,9 +19,9 @@ Find it again.
 ==== Genealoy Center Family Histories
 
 * https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story]
-  Call number: *929.2 B43171fi*
-  Published: 1971
-  Contents: Great grandfather -- America -- Eighteen thirty seven -- They came to Indiana -- Eigheteen forty -- Hessen Castle -- Eighteen fifty cenus -- Called home -- Phillip -- John Jacob dies -- Final words.
+  Call number: *929.2 B43171fi*. Published: 1971
+
+Contents: Great grandfather -- America -- Eighteen thirty seven -- They came to Indiana -- Eigheteen forty -- Hessen Castle -- Eighteen fifty cenus -- Called home -- Phillip -- John Jacob dies -- Final words.
 
 * https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/330333?offset=3&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[Bender-Bainter-Painter Smith and the allied families of Phillipson, Marino, Alioto]
 

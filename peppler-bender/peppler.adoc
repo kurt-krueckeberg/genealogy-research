@@ -64,7 +64,6 @@ have a long life.
 ** Johann Jakob Peppler (1845-1873)
 ** Georg Andreas Peppler (1851-1857)
 
-
 === Tracing the Clues
 
 We know they are our 3x greatgrandparents from several clues. On date???
@@ -105,6 +104,49 @@ today is called Rodheim-Bieber, and it is located over 150 miles south
 of the home towns of the Krueckebergs and the Behrmans, whose villages
 in northern Germany were relatively close.
 
+==== Marriage of Ludwig "Louis" Peppler to daughter of the Benders from Fellinghausen
+
+Ludwig "Louis" married Mary Bender, who was born in Indiana, but whose
+parents were from Fellinghausen, Hessen-Darmstadt, very close to
+Rodheim-Bieber. Who else was from Fellinghausen–the Felds? Did they all
+come in chain-migration?
+
+todo: create a timeline and map of where they lived in old country and
+where they lived in Marion twp, allen, Indiana.
+
+==== FindAGrave Parentage Information for Joh. Jacob Pppler
+
+The Find-A-Grave page for
+https://www.findagrave.com/memorial/78479111/pep[Johann Jacob Pppler]
+give his parentage:
+
+____
+Son of Johann Ludwig Peppler and Katharina Margarethe Meissner Peppler.
+Husband of Maria Magdalene Platt Peppler
+____
+
+____
+Gravesite Details
+____
+
+____
+Johan was born in Rodheim near Grodrigun, Germany.
+____
+
+but the source of thid information is not mentioned.
+
+Citation for Johann Jacob Peppler:
+
+____
+Find a Grave, database and images
+(https://www.findagrave.com/memorial/78479111/johan-jacob-peppler :
+accessed 06 July 2022), memorial page for Johan Jacob Peppler (21 Nov
+1810–25 Apr 1873), Find a Grave Memorial ID 78479111, citing Saint John
+Evangelical Lutheran Church Cemetery, Marion Township, Allen County,
+Indiana, USA ; Maintained by Annis Jean Hite Patee (contributor
+46907132).
+____
+
 === Evidence that Rodheim is the Pepplers Place of Origin
 
 Some of the evidence is from tombstone photos from the Sankt Johanis Gemeinde cemetery in Marion twp, Allen County, Indiana, whose history is now briefly sketched.
@@ -135,3 +177,4 @@ below) and one in Bayern:
 * https://www.meyersgaz.org/place/20610043[Rodheim-Bieber; Rodheim, Biedenkopf, Wiesbaden, Hessen-Nassau, Preussen]
 
 which one is the Peppler’s Rodheim?
+
