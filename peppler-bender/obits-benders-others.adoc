@@ -1,8 +1,6 @@
-[[header]][[content]]
-From http://friendsofallencounty.org/search_obits1900.php[Allen County
-Obituary Index, 1837-2022]
+The lists below were derived from search the http://friendsofallencounty.org/search_obits1900.php[Allen County Obituary Index, 1837-2022]
 
-todo: Add Elizabeth Hoffman
+*Todo:* Add Elizabeth Hoffman to this list.
 
 .Table 1. Key to abbreviations
 [width="55%",cols="30%,70%",options="header",]
@@ -54,7 +52,7 @@ todo: Add Elizabeth Hoffman
 [width="100%",cols="30%,70%",options="header",]
 |===
 |Abbrev. |Newspaper
-|DWWD |Fort Wayne Daily Democrat
+|FWDD |Fort Wayne Daily Democrat
 |FWDG |Fort Wayne Daily Gazette
 |FWDJ |Fort Wayne Daily Journal
 |FWDN |Fort Wayne Daily News
@@ -201,25 +199,25 @@ Sheldon
 |===
 |Surname |First Name |Obituary Date |Notes
 |Hoffman|Jacob|01/23/1884|death age 75years. 39 Lavina St
-|HOFFMAN|E Mrs|07/22/1890|death age 76y Marion T
-|HOFFMAN|Edward|11/00/1874|death
-|HOFFMAN|Edward|12/01/1874|Fort Wayne Daily News p. 1
-|HOFFMAN|Elizabeth Mrs|03/28/1883|death age 66years son, Peter Mahone...Reformed Church, Clinton St
-|HOFFMAN|Elsie|04/05/1888|death daughter of Urban
+|Hoffman|E Mrs|07/22/1890|death age 76y Marion T
+|Hoffman|Edward|11/00/1874|death
+|Hoffman|Edward|12/01/1874|Fort Wayne Daily News p. 1
+|Hoffman|Elizabeth Mrs|03/28/1883|death age 66years son, Peter Mahone...Reformed Church, Clinton St
+|Hoffman|Elsie|04/05/1888|death daughter of Urban
 |===
 
 .Hoffman Obituaries for years *1900-Jan 2022*
 [width="100%",cols="10%,10%,5%,60%,15%",options="header",]
 |===
 |Surname|First Name|Page|Paper|Date
-|HOFFMAN|Elizabeth|2|Fort Wayne Sentinel|12/30/1912
-|Hoffman|Elizabeth|2|JG|12/30/1912
-|Hoffman|Elizabeth|6|NS|04/09/1920
-|Hoffman|Elizabeth|1|JG|01/25/1932
-|Hoffman|Elizabeth|21|JG|08/17/1951
-|Hoffman|Elizabeth H.|3C|JG|06/29/1994
-|Hoffman|Elizabeth Morris| |JG|09/24/1973
-|Hoffman|William F,|6|JG|08/15/1937
+|Hoffman|Elizabeth|2|Fort Wayne Sentinel|12/30/1912
+|Hoffman|Elizabeth|2|Journal Gazette|12/30/1912
+|Hoffman|Elizabeth|6|News Sentinel|04/09/1920
+|Hoffman|Elizabeth|1|Journal Gazette|01/25/1932
+|Hoffman|Elizabeth|21|Journal Gazette|08/17/1951
+|Hoffman|Elizabeth H.|3C|Journal Gazette|06/29/1994
+|Hoffman|Elizabeth Morris| |Journal Gazette|09/24/1973
+|Hoffman|William F,|6|Journal Gazette|08/15/1937
 |===
 
 TODO: Using the death date of those below, look up the obituary, if any,

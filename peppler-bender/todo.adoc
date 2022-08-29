@@ -8,9 +8,11 @@
 
 Create a timeline for the Benders that includes their facts and events on FamilySearch and Ancestry, each accompanbied by a source citation. Using such a timeline will help clarify what questions need to be researched.
 
-There are other records yet to investigate like
+There are other records yet to investigate include those mention below.
 
-*Deeds, Plats, Tracks*
+=== Other Records to Explore Include
+
+==== Deeds, Plats, Tracks
 
 Finding all deeds for Johannes and Joahnn Freidrich Bender, who both own land they farmed according to the 1850 Census, in Marion Twp, Allen County.
 
@@ -19,11 +21,11 @@ Therefore, I should seek to find this land also from *Platts* -- orignal surveys
 
 Later probate records that describe anything of relevant to this land
 
-*Tax Lists*
+==== Tax Lists
 
 Are there any that might be available.
 
-*Probated Wills*
+==== Probated Wills
 
 Ancestry has probated will of Frederick Bender (1837 to 1918), the son of Johann Friedrich Bender's (1804 to 187?). Its link:./Frederick_Bender_1837-to-1918_Probated_will.png[image] is legible and mentions: 
 
@@ -31,7 +33,7 @@ Ancestry has probated will of Frederick Bender (1837 to 1918), the son of Johann
 * two of his sons that reside in Seward Co, Nebraska, and
 * it is winessed by two individuals whose surname is *Ahlschwede* and one whose surname is *Frank*.
 
-*Church Records*
+==== Church Records
 
 The Sankt Johannis Gemeinde church book will be helpful because https://www.ancestry.com/family-tree/person/tree/68081704/person/38213189248/facts[Eleonore Bender (1833 to 1861)],
 the daughter of Johanes Bender and Katharine Elisabeth Rühl(1809-1897), was recorded as buried in the Sankt Johanis Gemeinde Friedhof by the Mary Pensoe DAR chapter (I believe). This
@@ -39,12 +41,12 @@ suggests her parents were also members.
 
 And the Soest records will also be helpful.
 
-*NE Death Index*
+==== NE Death Index
 
 This https://www.ancestry.com/discoveryui-content/view/415557:62095?tid=68081704&pid=122395610254&hid=1007362676017[image] from the "Nebraska, U.S., Index to Deaths, 1904-1968", shows several Benders who died, including
 Frederick Bender (1837-1918).
 
-*Allen County Obituries*
+==== Allen County Obituries
 
 See these obituaries:
 
