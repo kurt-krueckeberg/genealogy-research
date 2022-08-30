@@ -1,0 +1,17 @@
+:toc:
+:stylesheet: dark.css
+:stylesdir: /home/kurt/skins 
+:docinfo: shared
+:docinfodir: /home/kurt/docinfo
+
+== Peppler Research
+
+=== TODO Next
+ 
+The Peppler were accompanied on the ship copernicus by other families from Rodheim. those listed as emigrating in April 1857. This included:
+
+* Dönges
+* J. Kirch
+* Dudenhöfer
+
+Phlip Schwalm, who married Christine Bender (1842 - 19150), daughter of Friedrich Bender (1804-??), was also on the coperniucus, at least someone his age and with his name. 
