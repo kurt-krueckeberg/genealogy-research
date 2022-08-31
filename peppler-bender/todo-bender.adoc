@@ -6,6 +6,15 @@
 
 == Bender Research
 
+There is a Bender family history in the Genealoy Center written by a late Allen County resident. It was published around 1972:
+
+* https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story]
+  Call number: *929.2 B43171fi*. Published: 1971
+
+Contents: Great grandfather -- America -- Eighteen thirty seven -- They came to Indiana -- Eigheteen forty -- Hessen Castle -- Eighteen fifty cenus -- Called home -- Phillip -- John Jacob dies -- Final words.
+
+* https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/330333?offset=3&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[Bender-Bainter-Painter Smith and the allied families of Phillipson, Marino, Alioto]
+
 Create a timeline for the Benders that includes their facts and events on FamilySearch and Ancestry, each accompanbied by a source citation. Using such a timeline will help clarify what questions need to be researched.
 
 There are other records yet to investigate include those mention below.
@@ -17,7 +26,8 @@ wd be the most likely src of this info. But theese articles do provide details t
 
 Read also the Bender Family Hitory mentioned below.
 
-Christine Bender (1842 - 1915), daughter of ?? Bender, married Philip Schwalm. A Philip Schwalm arrived on the same boat, the Copernicus, as the Johann Jokob Peppler family, according to its https://bit.ly/3Q0Fa0C[passenger list]. 
+Christine Bender (1842 - 1915), daughter of ?? Bender, married Philip Schwalm. A Philip Schwalm arrived on the same boat, the Copernicus, as the Johann Jokob Peppler family, according to its
+https://bit.ly/3Q0Fa0C[passenger list]. 
 
 === Bender-Felt Relationships
 
@@ -37,14 +47,6 @@ Dudenhöfer , Georg Philipp, geb. 14. 6. 1817, ausgewandert 1840
 Find it again.
 
 ==== Genealoy Center Family Histories
-
-* https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story]
-  Call number: *929.2 B43171fi*. Published: 1971
-
-Contents: Great grandfather -- America -- Eighteen thirty seven -- They came to Indiana -- Eigheteen forty -- Hessen Castle -- Eighteen fifty cenus -- Called home -- Phillip -- John Jacob dies -- Final words.
-
-* https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/330333?offset=3&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[Bender-Bainter-Painter Smith and the allied families of Phillipson, Marino, Alioto]
-
 ==== Deeds, Plats, Tracks
 
 Finding all deeds for Johannes and Joahnn Freidrich Bender, who both own land they farmed according to the 1850 Census, in Marion Twp, Allen County.
