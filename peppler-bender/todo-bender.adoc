@@ -6,21 +6,56 @@
 
 == Bender Research
 
-There is a Bender family history in the Genealoy Center written by a late Allen County resident. It was published around 1972:
+=== Bender Family History
 
-* https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story]
-  Call number: *929.2 B43171fi*. Published: 1971
+Volumne in the Genealoy Center written by a late Allen County resident, published around 1972:
 
-Contents: Great grandfather -- America -- Eighteen thirty seven -- They came to Indiana -- Eigheteen forty -- Hessen Castle -- Eighteen fifty cenus -- Called home -- Phillip -- John Jacob dies -- Final words.
+____
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story] +
+Call number: *929.2 B43171fi*. Published: 1971 +
+Its contents: Great grandfather -- America -- Eighteen thirty seven -- They came to Indiana -- Eigheteen forty -- Hessen Castle -- Eighteen fifty cenus -- Called home -- Phillip -- John Jacob dies -- Final words.
+____ 
 
-* https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/330333?offset=3&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[Bender-Bainter-Painter Smith and the allied families of Phillipson, Marino, Alioto]
+=== Timeline
 
-Create a timeline for the Benders that includes their facts and events on FamilySearch and Ancestry, each accompanbied by a source citation. Using such a timeline will help clarify what questions need to be researched.
-
-There are other records yet to investigate include those mention below.
+Create a timeline for the Bender brothers and their families. Include a source citation. Excerpt:
 
 
-=== Other Rodheim/Fellinhausen Emigrants in Marion Twp, Allen CO. Indiana
+The obituary for Louis Bender (1842-1922), son of Johannes Bender (1808-1886), says he (was born in? Marion twonship and) came to Admas township at age 12, or around 1852, where he lived for the 
+next 70 years. He died his life and died "on the old homestead", which was on "Hartzell Rd", in Adams township. From te ???? censuses, his parents live next door to him.
+
+I also know that Johannes Bender's brother Friedrich "Fred" Bender (1804-18??), also came to live nearby--I blieve--according to City Directories. Friedrich's son Fred Jr would later moved
+(around 1878?) to Seward CO NE (and I think Ahlscwedes, whose parents likely belonged to Sankt Johannis Gemeinde, also moved at this same time).
+
+Louis Bender Obituary
+
+___
+*ADAMS PIONEER SUCCUMBS* +
+Louis Bender Dies At Age of Eighty-Two Years +
+Louis Bender, aged 82, a pioneer resident of Adams township, died at the old Adams homestead, about four and one-half miles south
+of New Haven on the Hartzell road at 7 o’clock Friday evening. +
+
+Mr Bender came to Adams township when a boy 12 years of age and had lived on the same farm for the last 70 years.
+The wife died two years ago and a son and daughter also preceded him in death several years ago.
+Surviving are three daughters, Mrs Mary Fruechnicht (Fruechtenicht) of Toledo; Mrs Minnie Kaylor of Fort Wayne; and Mrs Anna Pierce,
+at home, and four sons, Philip at home, and George, Louis and William of Fort Wayne.
+Funeral services will be held from the home at 2 o’clock Monday afternoon and at 2:30 o’clock form the Soest Lutheran church.
+Burial in the Soest cemetery.
+___
+
+I know from an uncited FamilySearch narrative that Friedrich Bender first settled in the Albany NY area, where he worked as a teamsters on the Erie Canal. I believe this narrative also
+states that his brother joined hime, because they then both moved to Allen county.
+
+This is why a timeline will be helpful: you can see sources and get an overview of their lives.
+
+
+==== German Nespaper in Seward NE
+
+There was a weekly (not daily) German-language newspaper in Seward NE, the *Deutsches Journal*, written in German (Fraktur, with some articles in English). Frderick Bender (1837-1918) died 28 May 1918, so the 
+30 May 1918 edition will likely have his obituary. The *newspapers.com* has this edition online. The first page is https://www.newspapers.com/image/legacy/751503939/[here], but it requires a subscription. Howvever,
+*Chronicling America* may have it. Other sites might, too. Refer to the Melissa Tennant lecture on link:/home/kurt/d/g/lectures/newspaper-sites-for-family-historians.pdf/[Newpaper Sites for Family Historians].
+
+=== List of Other Rodheim/Fellinhausen Emigrants in Marion Twp, Allen CO. Indiana
 
 In 1857, when the Pepplers emigrated, they were accompanied on the ship Copernicus by other families from Rodheim. Those listed by link:./die-auswanderer-aus-kirchspiel-rodheim.pdf[Ernst Schmidt] as
 emigrating in April 1857 included:
@@ -62,6 +97,7 @@ Peppler, Louis
 Dudenhafers, two or three
 Dinges
 Ahlschwede, Frederick
+
 === TODO Next
 
 Add the newpaper article images (and transcribe them) for *Christine nee Bender Schwalm* since it mentions family members. There might be details about her parents. This is unlikely, as her obit would her obituary
@@ -72,6 +108,11 @@ Read also the Bender Family Hitory mentioned below.
 Christine Bender (1842 - 1915), daughter of ?? Bender, married Philip Schwalm. A Philip Schwalm arrived on the same boat, the Copernicus, as the Johann Jokob Peppler family, according to its
 https://bit.ly/3Q0Fa0C[passenger list]. 
 
+- When did the Johannes (1808-18?) come to Adams twp, Allen County?
+
+The obituary of his son Louis Bender (1840-1922) says that he came to Adams township when he was 12, and he lived there the rest of his life and died there. The obituary explains the "old 
+homestead" was on Hartzell Rd.  The Fort Wayne City Directories refer to old "New Haven Rd". I think this is present-day Hartzell Road.
+ 
 === Bender-Felt Relationships
 
 A 24 Aug 1922 Journal Gazette link:felt-bender-reunion-24-Aug-1922-JG.pdf[article] describes the Bender-Felt reunion. It mentions many individuals in attendence, and thus relationships between many
@@ -89,7 +130,7 @@ Dudenhöfer , Georg Philipp, geb. 14. 6. 1817, ausgewandert 1840
 
 Find it again.
 
-==== Genealoy Center Family Histories
+
 ==== Deeds, Plats, Tracks
 
 Finding all deeds for Johannes and Joahnn Freidrich Bender, who both own land they farmed according to the 1850 Census, in Marion Twp, Allen County.
