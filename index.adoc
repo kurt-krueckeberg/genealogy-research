@@ -26,6 +26,10 @@ include::inc/nara.adoc[]
 
 * https://www.familysearch.org/en/help/helpcenter/lessons/old-german-script-part-1[Old German Script] 3-part video series by FamilySearch
 
+=== Tools
+
+For mapping Township and Range Numbers to township names, see https://www.acres.co/plat-map[acres.co]
+
 == Genealogists and Other Research Assistance
 
 * https://ggsmn.org/cpage.php?pt=19[Translators list of Germanic Genealogical Society]
