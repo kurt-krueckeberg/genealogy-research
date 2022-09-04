@@ -29,6 +29,53 @@ include::inc/nara.adoc[]
 === Tools
 
 For mapping Township and Range Numbers to township names, see https://www.acres.co/plat-map[acres.co]
+List of Allen county, Indiana, townships by their township and range numbers:
+
+.Allen County Township Names by PLSS Designation
+[width="45%",rows="grid", frame="none"]
+|===
+|Township|Range|Name
+
+|29 North|11 East|Lafayette
+
+|29 North|12 East|Pleasant
+
+|29 North|13 East|Marion
+
+|29 North|14 East|Madison
+
+|29 North|15 East|Monroe
+
+|30 North|11 East|Aboite
+
+|30 North|12 East|Wayne
+
+|30 North|13 East|Adams
+
+|30 North|14 East|Jefferson
+
+|30 North|15 East|Jackson
+
+|31 North|11 East|Lake
+
+|31 North|12 East|Washington
+
+|31 North|13 East|St. Joseph
+
+|31 North|14 East|Milan
+
+|31 North|15 East|Maumee
+
+|32 North|11 East|Eel River
+
+|32 North|12 East|Perry
+
+|32 North|13 East|Cedar Creek
+
+|32 North|14 East|Springfield
+
+|32 North|15 East|Scipio
+|===
 
 == Genealogists and Other Research Assistance
 
