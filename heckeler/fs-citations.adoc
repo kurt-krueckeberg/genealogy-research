@@ -1,0 +1,17 @@
+
+data:
+Name	Thomas Haekeler
+Sex	Male
+Christening Date	31 Oct 1786
+Christening Place	Enzweihingen, Vaihingen, Neckarkreis, Württemberg, Deutschland
+Christening Place (Original)	Enzweihingen, Neckarkreis, Wuerttemberg
+Birth Date	31 Oct 1786
+Father's Name	Christian Haekeler
+Father's Sex	Male
+Mother's Name	Catharina Rapp
+Mother's Sex	Female
+Event Type	Christening
+
+citation:
+"Deutschland Geburten und Taufen, 1558-1898", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:NVZ4-C8G : 26 October 2021), Thomas Haekeler, 1786.
+
