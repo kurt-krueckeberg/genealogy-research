@@ -2,6 +2,7 @@
 :toc:
 :stylesheet: dark.css
 :stylesdir: /home/kurt/skins 
+:nofooter:
 
 
 TODO: Organize by topic not facility or location
@@ -28,10 +29,9 @@ include::inc/nara.adoc[]
 
 === Tools
 
-For mapping Township and Range Numbers to township names, see https://www.acres.co/plat-map[acres.co]
-List of Allen county, Indiana, townships by their township and range numbers:
+=== PLSS Tools
 
-.Allen County Township Names by PLSS Designation
+.Table of Allen County, Indiana, township names and their PLSS township and range designation.
 [width="45%",rows="grid", frame="none"]
 |===
 |Township|Range|Name
@@ -77,21 +77,22 @@ List of Allen county, Indiana, townships by their township and range numbers:
 |32 North|15 East|Scipio
 |===
 
+The https://www.acres.co/plat-map[www.acres.co/plat-map] site shows a map with townships and ranges and their township names.
+
 ==== Old German Typefaces and Handwriting
 
 - FamilySearch Old German Script https://familysearch.brightspotcdn.com/fc/1d/865daadf23b9270f0d67c643a099/old-german-script-handout.pdf[handout]
 - https://germangirlinamerica.com/old-german-cursive-alphabet-and-typefaces/[https://germangirlinamerica.com/old-german-cursive-alphabet-and-typefaces/]
 
+== Genealogists and Experts
 
-== Genealogists and Other Research Assistance
-
-* https://ggsmn.org/cpage.php?pt=19[Translators list of Germanic Genealogical Society]
+* Germanic Genealogical Society's https://ggsmn.org/cpage.php?pt=19[translators list].
  
-* https://www.berufsgenealogie.net/[Verband deutschsprachiger Berufsgenealogen e.V. (Association of German-speaking Professional Genealogists)]
+* https://www.berufsgenealogie.net/[Verband deutschsprachiger Berufsgenealogen e.V.] is the Association of German-speaking Professional Genealogists.
 
-* https://iggp.org/index.php[International German Genealogical Partnership] website's list of https://iggp.org/index.php[Professional Researchers]
+* https://iggp.org/index.php[International German Genealogical Partnership] has a list of https://iggp.org/index.php[Professional Researchers]
 
-* https://www.apgen.org[Association of Professional Genalogists]. It is not a certifying organization.
+* https://www.apgen.org[Association of Professional Genalogists]. Note: It is not a certifying organization.
 
 * https://www.familysearch.org/en/rootstech/session/certified-genealogist-and-accredited-genealogist-a-comparison[BCG vs ICAPGen] certification  
 

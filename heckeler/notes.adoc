@@ -3,16 +3,33 @@
 :stylesdir: /home/kurt/skins 
 :docinfo: shared
 :docinfodir: /home/kurt/docinfo
+:nofooter:
 
 == Heckeler Haeckler Fmaily
 
-Todo:
 
-- There is a source, hint, on Acnestry, for the arrival of the Heckelers. The origial supposedly contains (or mentions the collection of ship names) from which the dta was taken.
+*Thomas Heckeler* is found when search the Genealogy Center's online database for https://www.genealogycenter.info/search_naturalizations.php[Allen County, Indiana Applications for Naturalization, 1844-1906]
+for *Heckeler*. The details are:
 
-* The "facts" for Heckelers are inacurrate. They do not reflect the actual facts--village, city, district, etc--in the associated records.
+[width="30%",frame="none",grid="rows"]
+|===
+|Surname, Given|Heckeler, Thomas
+|Date of declaration|25 Apr. 1854
+|Native of|Württemberg
+|Age|33 yrs.
+|Place of embarkation|Havre
+|Arrival|New York, 2 May 1840
+|Book number|2, p. 60
+|===
 
-* The Heckeler Haeckler Family is extensively documented in the FamilySearch Tree, going back far into the 18th century in Württemburg. 
+* Are my "facts" for Heckelers are acurrate? Do they do not reflect the actual facts--village, city, district, etc--in the associated records.
+  I need to determine:
+  - Church or Parish name
+  - Landkreis
+  - Town or village name
+  - If they moved, as indicated in the Württemberg Familietabellen, from where to where did they move? 
+
+* The Heckeler Haeckler Family is extensively documented in the FamilySearch Tree, as far back as the early 18th century. 
   See, for example, the person-entry for 
   https://www.familysearch.org/tree/pedigree/landscape/LCX4-2C6[Christian Heckler(17370-1795)], the father of 
   - Johann Thomas Heckler/Haeckler/Hecheler, who
