@@ -7,6 +7,8 @@
 
 == Heckeler Haeckler Fmaily
 
+Add this Fact to Johann Thomas Heckeler (1820-188?):
+
 *Thomas Heckeler* is found when search the Genealogy Center's online database for https://www.genealogycenter.info/search_naturalizations.php[Allen County, Indiana Applications for Naturalization, 1844-1906]
 for *Heckeler*. The details are:
 
@@ -39,6 +41,17 @@ Here is a link:./heckeler-family-on-silvie-de-grasse.png[screen print].
   - Landkreis
   - Town or village name
   - If they moved, as indicated in the Württemberg Familietabellen, from where to where did they move? 
+  - Double check the church records for missing items not transcribed.
+
+* See "Nineteenth century emigrants from Baden-Wurttemberg", by Burkett, Brigitte. GenalogCenter call #: `929.13 B92E V.1`. This volume included information on emigrants from Illingen.
+  The Thomas Heckelers are mentioned on page 142. Much historical information is included in the volume.
+
+* I found a translation of the "Familienschein" for the Heckeler family and saved it to my gallery for https://bit.ly/3epGBIH[Thomas Heckeler Sr.] 
+
+* The youngest Heckeler child, Friederike Dorothee Heckeler married a Lahrman. She lived to be around 91. See this tree showing her https://www.ancestry.com/family-tree/person/tree/88572640/person/30570759641/facts[husband].
+
+* See also  "The Wuerttemburg Emigration Index. Volume 6. Salt Lake City, UT: Ancestry, 1992. 480p.", by SCHENK, TRUDY, and RUTH FROEKLE. 
+  See link:https://www.ancestry.com/discoveryui-content/view/2533906:7486?tid=68081704&pid=122401939145&hid=1007441200779[hit on Ancestry].
 
 * The Heckeler Haeckler Family is extensively documented in the FamilySearch Tree, as far back as the early 18th century. 
   See, for example, the person-entry for 
@@ -48,7 +61,5 @@ Here is a link:./heckeler-family-on-silvie-de-grasse.png[screen print].
   whose https://www.ancestry.com/imageviewer/collections/48324/images/HudsonMohawkII-002839-892?pId=292090[biography] appears in the Mohawk-Hudson Valley volume of biographies. 
 
 This biography says that Johann Thomas Haeckler emigrated in 1840, departing Bremen and arriving in NYC 90 days later, and he obtained a land patent to land in Pleasant township, 
-Allen County IN. 
+Allen County IN, but a search on the BLM site shows no "Heck*" in Allen Co, who was awarded a Land Patent.
 
-I don't believe I have the correct city of origin for the family. It should be based on the church records. I think I need to find them on FamilySearch, Württemburg Familie Regist????try
-and maybe Archion (or equivalent public site).
