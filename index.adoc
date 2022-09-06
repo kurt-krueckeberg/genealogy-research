@@ -79,6 +79,11 @@ include::inc/nara.adoc[]
 
 The https://www.acres.co/plat-map[www.acres.co/plat-map] site shows a map with townships and ranges and their township names.
 
+==== Browsing Ship Passenger Lists
+
+Ship arrival Passneger Lists can be browsed by date or by roll at this Ancestry page https://www.ancestry.com/search/collections/7488/[https://www.ancestry.com/search/collections/7488/]. 
+See the column on the right side.
+
 ==== Old German Typefaces and Handwriting
 
 - FamilySearch Old German Script https://familysearch.brightspotcdn.com/fc/1d/865daadf23b9270f0d67c643a099/old-german-script-handout.pdf[handout]

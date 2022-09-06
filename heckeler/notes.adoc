@@ -7,7 +7,6 @@
 
 == Heckeler Haeckler Fmaily
 
-
 *Thomas Heckeler* is found when search the Genealogy Center's online database for https://www.genealogycenter.info/search_naturalizations.php[Allen County, Indiana Applications for Naturalization, 1844-1906]
 for *Heckeler*. The details are:
 
@@ -22,9 +21,17 @@ for *Heckeler*. The details are:
 |Book number|2, p. 60
 |===
 
-Prospective ship passenger list with Heckeler-like surname:
+Ship arrival Passneger Lists can be browsed by date or by roll at this ancestry page https://www.ancestry.com/search/collections/7488/[https://www.ancestry.com/search/collections/7488/]. 
+See the column on the right side.
 
-:include:./passenger.adoc[]
+On 2 May 1840, just one ship from Le Havre arrived in New York City, the *Silvie de Grasse*. The Heckler family is almost cerytainly listed, although transcribed incorrectly, on the first page on . 
+https://www.ancestry.com/imageviewer/collections/7488/images/NYM237_41-0635?ssrc=&backlabel=Return&pId=1022618750[lines 16 through 21]. The family is from *Württ.g*, an obvious abbreviaton for
+Württemberg. 
+
+The Surname is transcribed as Lacketer, but this is incorrect. The first letter of the surname is almost certainly *H*. If you compare it to the first name on the list, Hauser, the "H" is written 
+identically. The name is easily understood as Ha [or 'ae' or 'e'] ckeler:
+
+Here is a link:./heckeler-family-on-silvie-de-grasse.png[screen print].
 
 * Are my "facts" for Heckelers are acurrate? Do they do not reflect the actual facts--village, city, district, etc--in the associated records.
   I need to determine:
