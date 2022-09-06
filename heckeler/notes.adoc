@@ -22,6 +22,10 @@ for *Heckeler*. The details are:
 |Book number|2, p. 60
 |===
 
+Prospective ship passenger list with Heckeler-like surname:
+
+:include:./passenger.adoc[]
+
 * Are my "facts" for Heckelers are acurrate? Do they do not reflect the actual facts--village, city, district, etc--in the associated records.
   I need to determine:
   - Church or Parish name

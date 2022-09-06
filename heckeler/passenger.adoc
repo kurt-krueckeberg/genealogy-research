@@ -1,0 +1,66 @@
+Prospective Heckelers that:
+
+* Arrived in *1840* in *New York*
+* Departed from *Le Havre*: 
+
+Date: 3 Nov 1840. Ship: Louis Philippe
+URL: https://www.ancestry.com/imageviewer/collections/7488/images/NYM237_44-0370?treeid=&personid=&hintid=&queryId=fdb5e1300cc8e7ed1f442ed96e14b664&usePUB=true&_phsrc=KtD1682&_phstart=successSource&usePUBJs=true&pId=1022664802
+
+.Passengers on Louis Philippe
+|===
+|Passenger List Line Number|Name|Gender|Age|Birth Date
+|26
+|Henry Hickler
+|Male
+|12
+|1828
+
+|27
+|Henriette Hickler
+|Female
+|29
+|1811
+
+|28
+|Magdelane Hickler
+|Male
+|23
+|1817
+
+|29
+|Dorothea Hickler
+|Male
+|20
+|1820
+
+|30
+|Michel Hickler
+|Male
+|18
+|1822
+
+|31
+|Barbara Hickler
+|Female
+|17
+|1823
+
+|32
+|Margueritte Hichler
+|Female
+|17
+|1823
+
+|33
+|Idam Hickler
+|Male
+|13
+|1827
+
+|34
+|Georger Hickler
+|Male
+|4
+|1836
+|===
+
