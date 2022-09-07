@@ -1,0 +1,16 @@
+The _Allen County, Indiana Applications for Naturalization, 1844-1906 database_ is a free online database
+(https://www.genealogycenter.info/search_naturalizations.php) of the Genealogy Center, Allen County Public
+Library, Fort Wayne, Indiana.
+
+A soundex search for the surname “Heckeler” returned these resuls.
+
+."Heckeler" Soundex Search Results
+[cols=",,,,,,,",rame="non".rows="grid",options="header",]
+|===
+|*Name* |*Date of Declaration* |*Native of* |*Age* |*Place of Embarkation* |*Port of Arrival* |*Arrival Date* |*Book, page*
+|HECKELER, THOMAS |25 Apr. 1854 |Wurtemberg |33 yrs. |Havre |N.Y. |2 May 1840 |2, p. 60
+
+|HECKLER, FRED |7 Nov. 1892 |Germany |46 yrs. |Bremen |N.Y. |16 July 1890 |9, p. 14
+
+|HEEKELER, CHRISTIAN |25 Apr. 1854 |Wurtemburg |30 yrs. |Havre |N.Y. |2 May 1840 |2, p. 59
+|===

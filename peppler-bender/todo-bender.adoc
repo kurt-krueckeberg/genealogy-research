@@ -6,27 +6,15 @@
 
 == Bender Research
 
-=== Bender Family History
+=== Background Essential Facts
 
-Volumne in the Genealoy Center written by a late Allen County resident, published around 1972:
+* Johannes Bender's brother Friedrich "Fred" Bender (1804-18??) also came to live in Adams township likely nearby. 
 
-____
-https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story] +
-Call number: *929.2 B43171fi*. Published: 1971 +
-Its contents: Great grandfather -- America -- Eighteen thirty seven -- They came to Indiana -- Eigheteen forty -- Hessen Castle -- Eighteen fifty cenus -- Called home -- Phillip -- John Jacob dies -- Final words.
-____ 
-
-=== Timeline
-
-Create a timeline for the Bender brothers and their families. Include a source citation. Excerpt:
-
+* Friedrich's son Fred Jr would around 1878? move to Seward CO NE. His widows mother accompanied his family.
+  - Ahlscwedes from Allen county also moved to Seward county, Nebraka. We know because Ahlschwedes would later be witnesses to his last Will and Testament.
 
 The obituary for Louis Bender (1842-1922), son of Johannes Bender (1808-1886), says he (was born in? Marion twonship and) came to Admas township at age 12, or around 1852, where he lived for the 
 next 70 years. He died his life and died "on the old homestead", which was on "Hartzell Rd", in Adams township. From te ???? censuses, his parents live next door to him.
-
-I also know that Johannes Bender's brother Friedrich "Fred" Bender (1804-18??), also came to live nearby--I blieve--according to City Directories. Friedrich's son Fred Jr would later moved
-(around 1878?) to Seward CO NE (and I think Ahlscwedes, whose parents likely belonged to Sankt Johannis Gemeinde, also moved at this same time).
-
 Louis Bender Obituary
 
 ___
@@ -47,6 +35,23 @@ I know from an uncited FamilySearch narrative that Friedrich Bender first settle
 states that his brother joined hime, because they then both moved to Allen county.
 
 This is why a timeline will be helpful: you can see sources and get an overview of their lives.
+
+=== Records and Srouces to Research and Find
+
+* Read and investigate this Bender family history in the Genealoy Center written by a late Allen County resident. It was published around 1972:
+____
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story] +
+Call number: *929.2 B43171fi*. Published: 1971 +
+Its contents: Great grandfather -- America -- Eighteen thirty seven -- They came to Indiana -- Eigheteen forty -- Hessen Castle -- Eighteen fifty cenus -- Called home -- Phillip -- John Jacob dies -- Final words.
+____ 
+
+* Find any remaining obituaries for the chiuldren of Johannes Bender
+  - Esespecially those children born in Fellinhausen, like that of Anna Margarethe Bender Thiele, who died in Cook county, Ill.
+
+* Others from Hesse or Rodheim an der Bieber, etc who are in the https://www.genealogycenter.info/results_naturalizations.php[Allen County Naturlaization Database] 
+  - *Use Soundex* searches!
+  - Like Theiel, Dudenhoefer, Ahlschwede, Doenges, etc
+* Create a timeline for the Bender brothers and their families. Include a source citation. Excerpt:
 
 
 ==== German Nespaper in Seward NE
