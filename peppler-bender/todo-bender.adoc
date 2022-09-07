@@ -13,6 +13,8 @@
 * Friedrich's son Fred Jr would around 1878? move to Seward CO NE. His widows mother accompanied his family.
   - Ahlscwedes from Allen county also moved to Seward county, Nebraka. We know because Ahlschwedes would later be witnesses to his last Will and Testament.
 
+==== Information from Obituries
+
 The obituary for Louis Bender (1842-1922), son of Johannes Bender (1808-1886), says he (was born in? Marion twonship and) came to Admas township at age 12, or around 1852, where he lived for the 
 next 70 years. He died his life and died "on the old homestead", which was on "Hartzell Rd", in Adams township. From te ???? censuses, his parents live next door to him.
 Louis Bender Obituary
@@ -31,12 +33,19 @@ Funeral services will be held from the home at 2 o’clock Monday afternoon and 
 Burial in the Soest cemetery.
 ___
 
-I know from an uncited FamilySearch narrative that Friedrich Bender first settled in the Albany NY area, where he worked as a teamsters on the Erie Canal. I believe this narrative also
+==== Obituaries Found and Yet of Find
+List of obituaries to read:
+
+include::./obits-benders-others.adoc[]
+
+==== FamlySearch Narrative
+
+An uncited FamilySearch narrative that Friedrich Bender first settled in the Albany NY area, where he worked as a teamsters on the Erie Canal. I believe this narrative also
 states that his brother joined hime, because they then both moved to Allen county.
 
 This is why a timeline will be helpful: you can see sources and get an overview of their lives.
 
-=== Records and Srouces to Research and Find
+=== Records to Find and Investigate 
 
 * Read and investigate this Bender family history in the Genealoy Center written by a late Allen County resident. It was published around 1972:
 ____
@@ -53,13 +62,13 @@ ____
   - Like Theiel, Dudenhoefer, Ahlschwede, Doenges, etc
 * Create a timeline for the Bender brothers and their families. Include a source citation. Excerpt:
 
+Othe 
 
 ==== German Nespaper in Seward NE
 
 There was a weekly (not daily) German-language newspaper in Seward NE, the *Deutsches Journal*, written in German (Fraktur, with some articles in English). Frderick Bender (1837-1918) died 28 May 1918, so the 
 30 May 1918 edition will likely have his obituary. The *newspapers.com* has this edition online. The first page is https://www.newspapers.com/image/legacy/751503939/[here], but it requires a subscription. Howvever,
 *Chronicling America* may have it. Other sites might, too. Refer to the Melissa Tennant lecture on link:/home/kurt/d/g/lectures/newspaper-sites-for-family-historians.pdf/[Newpaper Sites for Family Historians].
-
 
 The only German Language newspapers on Chronicling America for Indiana, Nebraska and New York are:
 
@@ -214,7 +223,3 @@ This https://www.ancestry.com/discoveryui-content/view/415557:62095?tid=68081704
 Frederick Bender (1837-1918).
 
 ==== Allen County Obituries
-
-See these obituaries:
-
-include::./obits-benders-others.adoc[]
