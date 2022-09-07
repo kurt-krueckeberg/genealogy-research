@@ -29,6 +29,8 @@ include::inc/nara.adoc[]
 
 === Tools
 
+https://glorecords.blm.gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=4[Indiana Tract Books at Bureau of Land Management, General Land Office Records]
+
 === PLSS Tools
 
 .Table of Allen County, Indiana, township names and their PLSS township and range designation.
@@ -78,6 +80,10 @@ include::inc/nara.adoc[]
 |===
 
 The https://www.acres.co/plat-map[www.acres.co/plat-map] site shows a map with townships and ranges and their township names.
+
+=== Allen County, Indiana, township Histories
+
+TODO:
 
 ==== Browsing Ship Passenger Lists
 
