@@ -1,0 +1,29 @@
+:toc:
+:stylesheet: dark.css
+:stylesdir: /home/kurt/skins 
+:docinfo: shared
+:docinfodir: /home/kurt/docinfo
+:nofooter:
+
+The Baades, Hartmans, Thieles--and maybe others-arrived on the same ship, on 1 August 1845. 
+The Pepplers arrived with Dudenhoefers and Doenges (I am less sure of the Doenges), but I am not sure if these Dudenhoefes settled in Allen Co IN, or of the precies relationship with 
+Dudenhoefers in Allen County that I already have in my tree.
+
+There was intermarriage between Baades, Pepplers, Weber, Dudenhoefer, etc:
+
+*todo:*
+
+* compile a table of the mrraiges (with names, dates, sources)
+* compile a list of jpoint same-ship arrivals
+* create a table correlating places of residence and who lived nearby, either siblings, parents, or future spouses.
+
+.Intermarriage Table
+|===
+|Baade|?? 
+|Bender|Thiele
+|Ludwig "Louis" Peppler|??? Bender
+|Philip Schwalm|??/ Bender
+|???|???
+|===
+
+
