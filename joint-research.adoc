@@ -19,11 +19,12 @@ There was intermarriage between Baades, Pepplers, Weber, Dudenhoefer, etc:
 
 .Intermarriage Table
 |===
+|https://www.ancestry.com/family-tree/person/tree/68081704/person/122216343361/facts[Wilhelm "William" Baade (1830-1904)]|https://www.ancestry.com/family-tree/person/tree/68081704/person/122216137806/facts[Christine Louise Bleeke (1827-1916)]
 |Baade|?? 
-|Bender|Thiele
-|Ludwig "Louis" Peppler|??? Bender
+|https://www.ancestry.com/family-tree/person/tree/68081704/person/38213189252/facts[Anna Margarethe Bender (1835-1915)]|https://www.ancestry.com/family-tree/person/tree/68081704/person/122394384615/facts[Heinrich "Henry" Thiele (1830-1895)]
+|Ludwig "Louis" Peppler|https://www.ancestry.com/family-tree/person/tree/68081704/person/38178541846/facts[Maria "Mary" Annie Bender(1846-1931)]
 |Philip Schwalm|??/ Bender
-|???|???
+|Fridericke Dorothee Heckeler (1826-1918)|https://www.ancestry.com/family-tree/person/tree/68081704/person/122402001130/facts[Johan Jokab Lahrman/Lehrman (1817-1893)]
 |===
 
 
