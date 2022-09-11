@@ -5,6 +5,60 @@
 :docinfodir: /home/kurt/docinfo
 :nofooter:
 
+
+== Lectures that Apply Now
+
+https://www.youtube.com/watch?v=NJLXnl-qTzk&list=PL8AE558B5D8661B31&index=166[City Directories lecture] by Melissa Tenant
+
+=== Obituaries
+
+include::./peppler-bender/obits-benders-others.adoc[]
+
+=== Family Histories, Biographies
+
+* Books in GenealogyCenter by *Kikuchi, Dolores*:
+
+Sankt Johannis Lutherische Kirche, schule, und friedhof : a comprehensive history, Marion Township, Allen County, Indiana, 1841-1907
+Kikuchi, Delores L.
+
+Partial plot map, Sankt Johannes Evangelishe Kirche Friedhof : Saint John's Lutheran Church cemetery, Wayne Trace, Fort Wayne, Indiana
+Kikuchi, Delores L.
+
+The Ahlschwede family, 1570-2009 : from Hajen to Indiana and Wisconsin, 1846-1866
+Kikuchi, Delores L.
+
+* Bade/Baade Family History
+
+*The immigrant sons of Gottfried Daniel Bade and their descendants in the United States of America*. Author: Baade, Lyle Edwin
+
+* Bender Fmaily History 
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story] 
+
+* Springer
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/463553?offset=3&qs=Thiele&search_in=onderwerp&state=search[The Springer Family Tree], by Gordon springer
+
+* Schaefer
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/1126959?offset=1&qs=1684998115&search_in=code&state=code[Schäfer], by Moellering, Carol Lee Wortman
+
+* Thiele
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/1788170?offset=0&qs=2015058543&search_in=code&state=code[Ahnen von Hermann August Theile]
+
+* *History of the Maumee River Basin*. https://www.familysearch.org/library/books/records/?navigation=&perpage=&page=1&sort=_score&search=Maumee+River+Basin&fulltext=1&bookmarks=0#title[Digital verison online] at FamilySearch This volume has biographies of:
+  
+  - Johann Christian Friedrich Baade
+  - Hartman?
+  - Foster?
+  - Beerman
+  - ?  
+
+* The *Pictorical History of Ft Wayne* has a 2nd volume with biogrphies? or a volume of township histories?
+
+== Family Kinship Relationships
+
 The Baades, Hartmans, Thieles--and maybe others-arrived on the same ship, on 1 August 1845. 
 The Pepplers arrived with Dudenhoefers and Doenges (I am less sure of the Doenges), but I am not sure if these Dudenhoefes settled in Allen Co IN, or of the precies relationship with 
 Dudenhoefers in Allen County that I already have in my tree.
@@ -16,6 +70,9 @@ There was intermarriage between Baades, Pepplers, Weber, Dudenhoefer, etc:
 * compile a table of the mrraiges (with names, dates, sources)
 * compile a list of jpoint same-ship arrivals
 * create a table correlating places of residence and who lived nearby, either siblings, parents, or future spouses.
+
+
+Using a rootsMagic DB query to get these relationsip
 
 .Intermarriage Table
 |===

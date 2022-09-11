@@ -27,9 +27,33 @@ include::inc/nara.adoc[]
 
 * https://www.familysearch.org/en/help/helpcenter/lessons/old-german-script-part-1[Old German Script] 3-part video series by FamilySearch
 
-=== Tools
+=== PERSI
+
+https://www.genealogycenter.info/persi/[persi]
+
+=== Land Tools
 
 https://glorecords.blm.gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=4[Indiana Tract Books at Bureau of Land Management, General Land Office Records]
+
+=== City Directories
+
+They can be used tin conjunction with other records to ananylze potential relationships  between individuals. The information from several years should be used and compared. Someone who is the 
+widow (dsingated `(wid)` ) of, say, A. Darah, in one year and later listed as the widow of Newton Darah a few years later may be the widow of 'Alvin Newton Darah', which a marriage record
+of their son or duaghter may confirm.
+
+Directories may also list businesses in the same line of work. In the case of Fort Wayne City Directories from the 1860s and later, the Wards of the city are described by their street boundaries.
+
+Search 'City Direcctories' or 'City Directory' on sites like: 
+
+* https://archive.org[Internet Archive]
+* https:///www.hathitrust.org[Hathi Trust]
+* https://dp.la/[Digital Public Library of America]
+* https://www.myheritage.com/research/collection-90100/compilation-of-published-sources[MyHeritage's compliaton of poublished sources.
+* PFW Mastadon Digital Object Network, which has digitized mpas, books, etc
+
+  - https://mdon.library.pfw.edu/digital/collection/cc_fw_hist/search[Fort Wayne Area HIstory Collection]
+  - https://mdon.library.pfw.edu/digital/collection/cc_acfwhs/search[History Center Digital Collections]
+* Ancestry's U.S. City Direcories https://www.ancestry.com/search/collections/2469/[search page]
 
 === PLSS Tools
 
