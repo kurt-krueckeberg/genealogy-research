@@ -69,7 +69,6 @@ There was intermarriage between Baades, Pepplers, Weber, Dudenhoefer, etc:
 * compile a list of jpoint same-ship arrivals
 * create a table correlating places of residence and who lived nearby, either siblings, parents, or future spouses.
 
-
 Using a rootsMagic DB query to get these relationsip
 
 .Intermarriage Table
