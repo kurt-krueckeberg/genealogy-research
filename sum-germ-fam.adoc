@@ -32,6 +32,26 @@ TODO:
 - Where they two Beerman families on the ship? And on different pages of the passenger list?
 - Add the other Beerman family next door in the 1860 censys
 
+Ideas:
+
+Dolores Kikuchi's https://www.ancestry.com/family-tree/tree/27940543/family?cfpid=13739676782[KochpStarke-etc tree] has the Beermans that include grandma Maeme's parents and grandparents.
+She has as a sources for the German birth records of Heinrich Behrman/Beerman (1830-1904):
+
+____
+Church Books of Liebfrauenkirche zu Ottenstein
+Author
+    Transcribed by Manfred Sorge
+Note
+    Information on the Beermann and Koch Families of Ottenstein, Germany, transcribed by Manfred Sorge upon request of Klaus Ahlschwede, sent to Dolly Kikuchi in PDF format. All information is from the original, hand-written church books in Ottenstein. Any translation by Delores Lorene KikuchiJackemeyerLepperAhlschwedeKochBeermannSchäper . . . 
+
+    I have a copy of the records.
+
+Address
+    Copy at 506 Ulukanu St., Kailua HI 96734
+Email
+    dlkikuchi@yahoo.com
+____
+
 TODO: 
 
 - Include the information in the surname subfolders here in a general summary.
