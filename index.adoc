@@ -1,5 +1,4 @@
-= Genealogy Research
-:toc:
+= Genealogy Research :toc:
 :stylesheet: dark.css
 :stylesdir: /home/kurt/skins 
 :nofooter:
@@ -9,17 +8,18 @@ TODO: Organize by topic not facility or location
 
 include::inc/nara.adoc[]
 
-== Guides
-* https://www.familysearch.org/en/wiki/\[FamilySearch wiki]
-  - Germany Genealogy https://www.familysearch.org/en/wiki/Germany_Genealogy[section] 
-  - https://www.familysearch.org/en/wiki/index.php?title=Allen_County,_Indiana_Genealogy[Allen County, Indiana] section.
+== Research Guides
+* https://www.familysearch.org/en/wiki/Main_Page[FamilySearch wiki] 
+  - https://www.familysearch.org/en/wiki/Germany_Genealogy[Germany Genealogy section] contains regional guides
+  - https://www.familysearch.org/en/wiki/Indiana,_United_States_Genealogy[Guide to Indiana research] contains guides to each county, for example:
+    - https://www.familysearch.org/en/wiki/index.php?title=Allen_County,_Indiana_Genealogy[Allen County, Indiana]
 
 * Genealogy Center guide to https://acpl.lib.in.us/images/Documents/Gendocs/allencountyincongregations.pdf[Allen County, Indiana, Congregational Records, Histories and Directories]
 
 * Genalogy Center Snapshots guides:
   - https://acpl.lib.in.us/pathfinders/snapshots/subjects[Subject Snapshots] includes a German guide.
   - https://acpl.lib.in.us/pathfinders/snapshots/states[State Snapshots] are State research guides.
-  - https://acpl.lib.in.us/images/Documents/Gendocs/States/allen-county-fort-wayne-sg.pdf[Allen Co. & Ft. Wayne IN] is a separate guide with the State sanpshot guides.
+  - https://acpl.lib.in.us/images/Documents/Gendocs/States/allen-county-fort-wayne-sg.pdf[Allen Co. & Ft. Wayne IN] is a separate guide with the State snapshot guides.
 
 * The InGenWeb site for Allen County has this info on https://www.acgsi.org/genweb/county/records/land-records-allen-county-indiana.html[Land Records] for Allen County.
 
@@ -27,9 +27,20 @@ include::inc/nara.adoc[]
 
 * https://www.familysearch.org/en/help/helpcenter/lessons/old-german-script-part-1[Old German Script] 3-part video series by FamilySearch
 
-=== PERSI
+* geneaolgy center https://www.genealogycenter.info/persi/[PERSI] page for searching periodically index of genealpogical publications.
 
-https://www.genealogycenter.info/persi/[persi]
+=== Indiana and Allen county Histories
+
+* link:/home/kurt/g/histories/history-of-allen-county-county-in-1880.pdf[History of Allen County with Illustrations and Biographical Sketches] has townships histories, but neither they nor the biographical sketches
+  ever mention German surnames like Harman, Baade or Thiele.
+
+* link:/home/kurt/g/histories/PioneerHistory-of-Indiana-by-William-Cockrum.pdf[Pioneer History of Indiana] does not have biographical sketches. 
+
+* The *History of the Maumee River Basin, by Slocum, Charles Elihu, 1841-1915; Robertson, R. Stoddart, 1839-* is in three volumes. The third is devoted exclusively to biographical sketeches.
+  The https://www.familysearch.org/library/books/[FamilySearch Digital Libaray] has all three volumes: 
+  - https://www.familysearch.org/library/books/records/item/440041-history-of-the-maumee-river-basin-from-the-earliest-account-to-its-organization-into-counties-v-1?offset=2[volume 1]
+  - https://www.familysearch.org/library/books/records/item/46624-redirection[volume 2]
+  - https://www.familysearch.org/library/books/records/item/142390-redirection[volume 3]
 
 === Land Tools
 
