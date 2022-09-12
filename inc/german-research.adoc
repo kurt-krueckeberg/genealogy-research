@@ -27,3 +27,9 @@ Vereins of note:
 === Hesse
 
 include::./hesse.adoc[]
+
+=== Niedersachsen/Schaumburg
+
+The Petzen, Schamburg, Lower Saxony, church records, are now available online (for a fee) at the Archion Church Portal. To navigagte to them, choose -> Brows -> 
+Niedersachsen: Niedersächsisches Landesarchiv -> Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe -> Petzen 
+
