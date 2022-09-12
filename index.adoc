@@ -28,16 +28,27 @@ include::inc/nara.adoc[]
 
 === Indiana and Allen county Histories
 
-* link:/home/kurt/g/histories/history-of-allen-county-county-in-1880.pdf[History of Allen County with Illustrations and Biographical Sketches] has townships histories, but neither they nor the biographical sketches
-  ever mention German surnames like Harman, Baade or Thiele.
+- link:/home/kurt/g/histories/history-of-allen-county-county-in-1880.pdf[History of Allen County with Illustrations and Biographical Sketches] has townships histories, but no biographical sketches
+  of individuals from Germany
 
-* link:/home/kurt/g/histories/PioneerHistory-of-Indiana-by-William-Cockrum.pdf[Pioneer History of Indiana] does not have biographical sketches. 
+- link:/home/kurt/g/histories/PioneerHistory-of-Indiana-by-William-Cockrum.pdf[Pioneer History of Indiana] does not have biographical sketches. 
 
-* The *History of the Maumee River Basin, by Slocum, Charles Elihu, 1841-1915; Robertson, R. Stoddart, 1839-* is in three volumes. The third is devoted exclusively to biographical sketeches.
+- https://www.familysearch.org/library/books/records/?navigation=&perpage=&page=1&sort=_score&search=History+of+the+Maumee+River+Basin&fulltext=1&bookmarks=0#title[History of the Maumee River Basin], by 
+  *Slocum, Charles Elihu, 1841-1915; Robertson, R. Stoddart, 1839-* is three volumes, and the third is devoted exclusively to biographical sketeches.
   The https://www.familysearch.org/library/books/[FamilySearch Digital Libaray] has all three volumes: 
-  - https://www.familysearch.org/library/books/records/item/440041-history-of-the-maumee-river-basin-from-the-earliest-account-to-its-organization-into-counties-v-1?offset=2[volume 1]
-  - https://www.familysearch.org/library/books/records/item/46624-redirection[volume 2]
-  - https://www.familysearch.org/library/books/records/item/142390-redirection[volume 3]
+  * http://www.familysearch.org/library/books/idurl/1/440041[volume 1]
+  * http://www.familysearch.org/library/books/idurl/1/46624[volume 2] discusses education, Luthereran churches, various organinzations, etc.
+  * http://www.familysearch.org/library/books/idurl/1/142390[volume 3] has biographical sketches that include:
+  ** Baade, Christian
+  ** Beerman, henry
+  ** Dunkelberg ?
+  ** Fahlsing, Frederick W, born in Minden, Germany. His parents emigrated in 1844, settled in Preble twp, AdaMs CO.
+  ** Getz
+  ** Hartzell
+  ** Klaehn
+  ** Niezer
+  ** Stellhorn
+  ** Thieme, Theodore F, Druggest
 
 === Land Tools
 

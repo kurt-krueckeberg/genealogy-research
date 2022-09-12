@@ -1,11 +1,3 @@
-:toc:
-:stylesheet: dark.css
-:stylesdir: /home/kurt/skins 
-:docinfo: shared
-:docinfodir: /home/kurt/docinfo
-:nofooter:
-
-
 == Lectures that Apply Now
 
 https://www.youtube.com/watch?v=NJLXnl-qTzk&list=PL8AE558B5D8661B31&index=166[City Directories lecture] by Melissa Tenant
@@ -47,17 +39,15 @@ https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/1126959?offset=1&qs=16
 
 https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/1788170?offset=0&qs=2015058543&search_in=code&state=code[Ahnen von Hermann August Theile]
 
-* *History of the Maumee River Basin*. https://www.familysearch.org/library/books/records/?navigation=&perpage=&page=1&sort=_score&search=Maumee+River+Basin&fulltext=1&bookmarks=0#title[Digital verison online] at FamilySearch This volume has biographies of:
+* *History of the Maumee River Basin*. https://www.familysearch.org/library/books/records/?navigation=&perpage=&page=1&sort=_score&search=Maumee+River+Basin&fulltext=1&bookmarks=0#title[Digital verison online]
+  at FamilySearch This volume has biographies of:
   
-  - Johann Christian Friedrich Baade
-  - Hartmann?
-  - Foster?
-  - Beerman
-  - Nieman 
-  - Thiele
-  - Franke
-  - Pipenbrink
-  - Wiebke 
+  - Baade, Johann Christian Friedrich
+  - Hoffman, William, p. 188
+  - Beerman, Henry
+  - Niezer, Charles M, p. 34 
+  - Thieme, Theodore F, p. 161
+  - Wiebke, Henry, p. 496 
 
 * The *Pictorical History of Ft Wayne* has a 2nd volume with biogrphies? or a volume of township histories?
 

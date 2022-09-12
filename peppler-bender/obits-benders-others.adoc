@@ -3,7 +3,7 @@ The lists below were derived from search the http://friendsofallencounty.org/sea
 *Todo:* Add Elizabeth Hoffman to this list.
 
 .Table 1. Key to abbreviations
-[width="55%",cols="30%,70%",options="header",]
+[width="35%",cols="1,4",options="header",frame="none",grid="rows"]
 |===
 |Abbrev. |Meaning
 |a |age at death
@@ -24,9 +24,9 @@ The lists below were derived from search the http://friendsofallencounty.org/sea
 |g |grand
 |gg |great grand
 |h |husband
-|inf |[context sensitive] infant or infirmary
-|int |interredrred
-|m |[context sensitive] month(s) or married
+|inf |infant or infirmary
+|int |interred
+|m |month(s) or married
 |mo |mother
 |nat |native
 |PD |paper date
@@ -41,7 +41,7 @@ The lists below were derived from search the http://friendsofallencounty.org/sea
 |sur |survive
 |t |township
 |unm |unmarried
-|w |[context sensitive] wife or week(s)
+|w |wife or week(s)
 |wid |widow
 |y |year
 |~~ |separates the data elements
@@ -49,7 +49,7 @@ The lists below were derived from search the http://friendsofallencounty.org/sea
 
 *Newspapers*
 
-[width="100%",cols="30%,70%",options="header",]
+[width="30%",cols="1,5",options="header",frame="none",grid="rows"]
 |===
 |Abbrev. |Newspaper
 |FWDD |Fort Wayne Daily Democrat
@@ -89,7 +89,7 @@ these obituaries, but the volunteers and staff of the Genealogy Center
 cannot guarantee that the original obituaries will be found.
 
 .Bender Obituaries for years *1837-1899*
-[width="100%",cols="10%,10%,10%,70%",options="header",]
+[width="100%",cols="10%,10%,10%,70%",options="header",frame=ends]
 |===
 |Surname |First Name |Obituary Date |Notes
 
@@ -167,7 +167,7 @@ miles)…w & 4 ch sur…s-in-law, Fred Brabse, W. Jefferson St
 
 |Bender |Reuben |09/06/1894 |Fort Wayne Daily Sentinel p. 1
 
-|Bender |Reuben |09/10/1894 |funeral77 Grand St…Berry St. M. E. Church
+|Bender |Reuben |09/10/1894 |funeral 77 Grand St…Berry St. M. E. Church
 
 |Bender |Ruben |09/06/1894 |Fort Wayne Daily News p. 1
 
@@ -176,10 +176,10 @@ miles)…w & 4 ch sur…s-in-law, Fred Brabse, W. Jefferson St
 |Bender |Samuel, Mrs. |02/05/1895 |Fort Wayne Daily Sentinel, p. 1
 
 |Bender |Susie, Mrs. |08/11/1878 |death dau of Mrs. Flynn, W. Wayne
-St…death in Pa…int; Lindenwood
+St…death in Pa… interred Lindenwood
 
 |Bender |W. C. (Ch Of) |03/04/1893 |death age 3days 143 Griffith
-St…int; Zanesville, Ind
+St… interred Zanesville, Ind
 
 |Bender |William |07/20/1892 |Fort Wayne Weekly Sentinel p. 4
 
@@ -187,10 +187,9 @@ St…int; Zanesville, Ind
 
 |Bender |Willie |07/27/1892 |Fort Wayne Weekly Sentinel p. 4
 
-|Bender |Wm. (Young Ch Of) |11/30/1888 |funeral173 W Washington St…int;
-Sheldon
+|Bender |Wm. (Young Ch Of) |11/30/1888 |funeral 173 W Washington St… interred Sheldon
 
-|Bender |Henry |12/17/1882 |death age 66years187 W Washington
+|Bender |Henry |12/17/1882 |death age 66years 187 W Washington
 |===
 
 
