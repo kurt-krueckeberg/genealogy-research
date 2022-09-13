@@ -3,7 +3,6 @@
 :stylesdir: /home/kurt/skins 
 :nofooter:
 
-
 TODO: Organize by topic not facility or location
 
 include::inc/nara.adoc[]

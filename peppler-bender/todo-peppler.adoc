@@ -3,6 +3,7 @@
 :stylesdir: /home/kurt/skins 
 :docinfo: shared
 :docinfodir: /home/kurt/docinfo
+:nofooter:
 
 == Peppler Research
 

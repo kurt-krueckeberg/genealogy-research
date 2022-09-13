@@ -1,0 +1,306 @@
+:toc:
+:stylesheet: dark.css
+:stylesdir: /home/kurt/skins 
+:docinfo: shared
+:docinfodir: /home/kurt/docinfo
+:nofooter:
+
+On 5 November 1849, the ship Orion arrived in New York City, New York, from Bremen, Germany. The Johann Heinrich Krueckeberg (1806-1879) family from Lippe, who are listed
+starting on line 71.
+
+The Weiland family is listed starting on line 82, although their place-of-origin is Bayern? 
+
+There are also three other individuals from Lippe. See below.
+
+.Orion Passenger Loist 5 November 1849
+[width="50%",cols="1,3,1,1,2",frame="ends"]
+|===
+|Line|Name|Age|Birth Date|Origin
+
+|1|Herrm Wesemann|22|1827|Preussen
+
+|2|Mad Schneider|34|1815|Sachsen
+
+|3|Carl Schneider|10|1839|Sachsen
+
+|4|Ernst Schneider|12|1837|Sachsen
+
+|5|Carl Wilh Haenichen|20|1829|Sachsen
+
+|6|Gotthell Kraemer|20|1829|Sachsen
+
+|7|Gustav Rosenberg|29|1820|Sachsen
+
+|8|Marie Rosenberg|25|1824|Sachsen
+
+|9|Aug Hackerott|23|1826|Hannover
+
+|10|Henr Hackerott|19|1830|Hannover
+
+|11|Friedr Koehne|25|1824|Hannover
+
+|12|Wilhelm Heyer|18|1831|Hannover
+
+|13|Sophie Damenbrink|19|1830|Hannover
+
+|14|Marie Scharnhorst|19|1830|Hannover
+
+|15|Wilh Warnsdorf|18|1831|Hannover
+
+|16|Marie Robe|19|1830|Hannover
+
+|17|Heinr Ohlendorf|29|1820|Hannover
+
+|18|Angel Ohlendorf|25|1824|Hannover
+
+|19|Wilhelm Ohlendorf|9|1840|Hannover
+
+|20|H Fortmueller|24|1825|Hannover
+
+|21|Wilhelm Fortmueller|19|1830|Hannover
+
+|22|Wilhelmine Knigge|19|1830|Hannover
+
+|23|Christ Kehr|32|1817|Sachsen
+
+|24|Chr Auerbach|39|1810|Sachsen
+
+|25|Fr Kirchner|18|1831|Sachsen
+
+|26|Anton Meinikel|25|1824|Sachsen
+
+|27|Gottfried Heidel|34|1815|Sachsen
+
+|28|Caroline Heidel|23|1826|Sachsen
+
+|29|Gotthelf Schloezer|26|1823|Baiern
+
+|30|Mich Wochlte|18|1831|Hannover
+
+|31|Joh Wochlte|18|1831|Hannover
+
+|32|Johann Weiss|28|1821|Austria
+
+|33|Carl Friedel|28|1821|Austria
+
+|34|Ernst Grill|23|1826|Austria
+
+|35|Sim Kuh|23|1826|Austria
+
+|36|Reed Schilling|24|1825|Austria
+
+|37|Carl Bergmann|35|1814|Austria
+
+|38|Carl Fischer|35|1814|Austria
+
+|39|Gotthelf Fasolt|31|1818|Sachsen
+
+|40|Aug Fasolt|28|1821|Sachsen
+
+|41|Marie Fasolt|5|1844|Sachsen
+
+|42|Ernst Fasolt|3|1846|Sachsen
+
+|43|Minna Fasolt|11/12|1848|Sachsen
+
+|44|Herm Lohrmann|17|1832|Sachsen
+
+|45|Gottlob Kindler|28|1821|Sachsen
+
+|46|Joh Thies|42|1807|Braunschweig
+
+|47|Jos Schnurr|26|1823|Preussen
+
+|48|J M Rauschert|31|1818|Sachsen
+
+|49|G H Fasold|20|1829|Sachsen
+
+|50|Carl Helms|31|1818|Sachsen
+
+|51|Joh Freger|22|1827|
+
+|52|R Gandsiedel|24|1825|Oldenburg
+
+|53|Cath Feljen|23|1826|Oldenburg
+
+|54|Fr Schierhorst|15|1834|Oldenburg
+
+|55|Joh Fehsenfeld|20|1829|Hannover
+
+|56|Claus Schriever|37|1812|Hannover
+
+|57|Anna Schriever|49|1800|Hannover
+
+|58|Friedr Schriever|18|1831|Hannover
+
+|59|Heinr Schriever|14|1835|Hannover
+
+|60|Selma Schriever|20|1829|Hannover
+
+|61|Trina Becker|24|1825|Hannover
+
+|62|Carsten Bold|18|1831|Hannover
+
+|63|Phil Kellberg|26|1823|Sachsen
+
+|64|Julie Liebenstein|22|1827|Sachsen
+
+|65|Adam Proper|32|1817|Austria
+
+|66|Gotthelf Walter|40|1809|Sachsen
+
+|67|Chr Walter|32|1817|Sachsen
+
+|68|Wilh Krummwiede|33|1816|Hannover
+
+|69|Sophie Krummwiede|25|1824|Hannover
+
+|70|Marie Krummwiede|11/12|1848|Hannover
+
+|71|*Joh Krickeberg*|43|1806|Lippe
+
+|72|*Sophie Krickeberg*|42|1807|Lippe
+
+|73|*Carol Krickeberg*|14|1835|Lippe
+
+|74|*Christ Krickeberg*|10|1839|Lippe
+
+|75|*Philipp Krickeberg*|12|1837|Lippe
+
+|76|*C Dieckmann*|40|1809|Lippe
+
+|77|*Chr Muelle*|27|1822|Lippe
+
+|78|Carl Knechtel|43|1806|Hannover
+
+|79|Chr Schloet??Bohm|18|1831|Hannover
+
+|80|Georg Kachtatter|32|1817|Baiern
+
+|81|Marie Kachtatter|36|1813|Baiern
+
+|82|*H Weiland*|33|1816|Baiern
+
+|83|*Wilhelmine Weiland*|36|1813|Baiern
+
+|84|*Wilhelmine Weiland*|4|1845|Baiern
+
+|85|*Wilhelm Weiland*|6|1843|Baiern
+
+|86|*Wilhelm Wiland*|70|1779|Baiern
+
+|87|Friedr Grasser|32|1817|Sachsen
+
+|88|Aug Grasser|28|1821|Sachsen
+
+|89|Pauline Grasser|11/12|1848|Sachsen
+
+|90|Adolf Grasser|7|1842|Sachsen
+
+|91|Theod Grasser|3|1846|Sachsen
+
+|92|Bernh Fischer|18|1831|Hannover
+
+|93|C Knichel|22|1827|Sachsen
+
+|94|J Wong??|26|1823|Sachsen
+
+|95|A Herrle|27|1822|Baiern
+
+|96|Lud Wagner|41|1808|Hesse
+
+|97|Chr Wagner|34|1815|Hesse
+
+|98|Cathar Wagner|12|1837|Hesse
+
+|99|Ludwig Wagner|11|1838|Hesse
+
+|100|Marie Wagner|8|1841|Hesse
+
+|101|Sophie Wagner|5|1844|Hesse
+
+|102|Georg Wagner|7|1842|Hesse
+
+|103|Emil Wagner|3|1846|Hesse
+
+|104|Friedr Wagner|10|1839|Hesse
+
+|105|Carl Weber|35|1814|Sachsen
+
+|106|Johanne Weber|38|1811|Sachsen
+
+|107|Friedr Weber|12|1837|Sachsen
+
+|108|Julius Weber|8|1841|Sachsen
+
+|109|Herrmann Weber|14|1835|Sachsen
+
+|110|Marie Weber|6|1843|Sachsen
+
+|111|Amalie Weber|3/12|1849|Sachsen
+
+|112|L Meyer|29|1820|Baiern
+
+|113|Math Meyer|29|1820|Baiern
+
+|114|Ferd Pflug|28|1821|Preussen
+
+|115|Friederike Meyer|24|1825|Preussen
+
+|116|Edward Pflug|25|1824|Preussen
+
+|117|Louis Pohlner|30|1819|Preussen
+
+|118|Joseph Goth|40|1809|Boehmen
+
+|119|Marie Goth|39|1810|Boehmen
+
+|120|Juliane Goth|12|1837|Boehmen
+
+|121|Wilh Flachmann|34|1815|Preussen
+
+|122|Fr Beiling|27|1822|Waldeck
+
+|123|Aug Beiling|23|1826|Waldeck
+
+|124|Carl Eschke|30|1819|Preussen
+
+|125|Wilhelmine Frevers|33|1816|Lippe
+
+|126|Heinr Frevers|10|1839|Lippe
+
+|127|Michael Albrecht|38|1811|Baiern
+
+|128|Henr Frevers|5|1844|Lippe
+
+|129|Johann Feiger|22|1827|Baiern
+
+|130|Anna Schramm|34|1815|Baiern
+
+|131|Cath Schwarz|11|1838|Baiern
+
+|132|Joh Schulze|30|1819|Preussen
+
+|133|Cath Muenster|29|1820|Preussen
+
+|134|J Fr Dommeyer|21|1828|Hannover
+
+|135|Cath Vorrath|14|1835|Hannover
+
+|136|Anna Schriever|24|1825|Hannover
+
+|137|Fr Wilhelm Brummwiede|0|1849|Hannover
+
+|138|Gustav Rosenberg|||
+
+|139|Marie Rosenberg|||
+
+|140|Fr C Finckenstaedt|||
+
+|141|Friedr Weger|||
+
+|142|Herrm Petzold|||
+
+|143|Adelh Melchers|||
+|===
+

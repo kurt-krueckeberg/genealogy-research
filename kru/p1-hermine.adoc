@@ -1,0 +1,38 @@
+1	C Miche	Female			50	1800				
+2	Sophia Miche	Female			18	1832			
+3	Julia Luning	Female			19	1831			
+4	J Wurttenberger	Male			23	1827			
+5	W De Groose	Female			38	1812			
+6	Mert De Groose	Male			6	1844			
+7	Julia De Groose	Female			4	1846			
+8	Bertha Mets	Female			30	1820			
+9	Hr Torstrick	Male			24	1826			
+10	M Tobias	Male			35	1815			
+11	Ad Suss	Male			18	1832				
+12	G Moses	Male			20	1830				
+13	Doris Fischer	Female			29	1821			
+14	Sur Nordmann	Male			45	1805			
+15	Fritz Kuschkae	Male			26	1824			
+16	Elise Rankow	Female			30	1820			
+17	Friederike Tonjes	Female			20	1830		
+18	Joseph Richter	Male			40	1810			
+19	D W Focke	Male			16	1834			
+20	Oscar Menger	Male			22	1828			
+21	Diede Durtmann	Male			20	1830			
+22	Sophia Behrens	Female			15	1835			
+23	Christ Duller	Male			35	1815			
+24	Conrd Faust	Male			32	1818			
+25	Pet Moller	Male			29	1821			
+26	Cathr Faust	Female			22	1828			
+27	Juliane Mullich	Female			42	1808			
+28	Fransiska Mullich	Female			8	1842		
+29	Anton Mullich	Male			5	1845			
+30	Carl S Sohn	Male			50	1800			
+31	Marie John	Female			31	1819			
+32	Carl S John	Male			9	1841			
+33	Mens Kortzelius	Male			28	1822			
+34	Elise Kortzelius	Female			32	1818		
+35	Pette Kortzelius	Female			9	1841		
+36	Johanne Kortzelius	Female			3	1847		
+37	Ludwig Kortzelius	Male			9	1841		
+38	Dorothea Orth	Female			20	1830			
