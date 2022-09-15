@@ -1,6 +1,6 @@
 == *Allen County, Indiana Church Burial Records*
 
-Databse includes these churches:
+Database includes these churches:
 
 * Cath =
 https://www.genealogycenter.info/data_churchburialscath.php[Catholic
