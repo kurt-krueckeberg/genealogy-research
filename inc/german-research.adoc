@@ -34,26 +34,43 @@ include::./hesse.adoc[]
 
 - Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe haben zur Verfügung gestellt. Das heiß, dass man die Kirchenbücher für die folgende Städte 
 
-Altenhagen-Hagenburg
-Bergkirchen
-Bückeburg
-Frille
-Heuerßen
-Lauenhagen
-Lindhorst
-Meerbeck
-Meinsen
-Petzen
-Probsthagen
-Stadthagen
-Steinbergen
-Steinhude
-Sülbeck
-Vehlen
+* Altenhagen-Hagenburg
+* Bergkirchen
+* Bückeburg
+* Frille
+* Heuerßen
+* Lauenhagen
+* Lindhorst
+* Meerbeck
+* Meinsen
+* Petzen
+* Probsthagen
+* Stadthagen
+* Steinbergen
+* Steinhude
+* Sülbeck
+* Vehlen
 
 im Internet sehen kann.
 
-The Petzen, Schamburg, Lower Saxony, church records, are now available online (for a fee) at Archion.de Church Portal. To navigagte to them, choose Browse -> 
-Niedersachsen: Niedersächsisches Landesarchiv -> Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe -> Petzen 
+The Petzen, Schamburg, Lower Saxony, church records are now available online (for a fee) at Archion.de Church Portal. To navigagte to them, choose Browse -> 
+Niedersachsen: Niedersächsisches Landesarchiv -> Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe -> Petzen. These church records are included: 
  
+* Altenhagen-Hagenburg
+* Bergkirchen
+* Bückeburg
+* Frille
+* Heuerßen
+* Lauenhagen
+* Lindhorst
+* Meerbeck
+* Meinsen
+* Petzen
+* Probsthagen
+* Stadthagen
+* Steinbergen
+* Steinhude
+* Sülbeck
+* Vehlen
+
 - Niedersachsen: Landeskirchliches Archiv Hannover -> Kirchenkreis Holzminden; you will see it is not in green, meaning it is not vailable (as of 09/12/2022)..
