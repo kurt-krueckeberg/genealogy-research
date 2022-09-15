@@ -16,7 +16,8 @@ List of https://acpl.lib.in.us/images/Documents/Gendocs/platmap.pdf[Allen County
 |The African American Gateway is a growing resource for African American research, and includes information from the United States, Canada, and the Caribbean, and well as a few other countries. The links to websites in this gateway are paired with a bibliography of resources for African American research in The Genealogy Center collection.
 
 |link:http://www.genealogycenter.info/fwacdb.php[Allen County, Indiana Resources]
-|The Allen County, Indiana Resources collection of databases includes, but is not limited to indexes of local obituaries, cemeteries, marriage, death and other courthouse records, as well as African-American material. Also featured are images from the Firefighter Collection and local wills.
+|The Allen County, Indiana Resources collection of databases includes, but is not limited to indexes of local obituaries, cemeteries, marriage, death and other courthouse records, as well as African-American material. 
+Also featured are images from the Firefighter Collection and local wills.
 
 |link:http://www.genealogycenter.info/bibles/[Family Bible Records]
 |The Family Bible Records section features transcriptions and images from family bibles donated to The Genealogy Center. Details include births, marriages, and deaths as well as information from items inserted in the Bibles, such as newspaper clippings, photographs, and funeral cards.
@@ -145,3 +146,15 @@ List of https://acpl.lib.in.us/images/Documents/Gendocs/platmap.pdf[Allen County
 
 |Allen|Mortgages 1846-1886|18|35mm Film|Indiana
 |===
+
+=== Allen County Resource Online
+
+==== Allen County City Directories
+
+The Genealogy Center's collection of Allen county, Indiana, Directories, which begins with the 1858-1859 edition up to and through 1923 edition, have been digitized by Archive.org and are avilable online.
+
+Links to each editions can be found:
+
+* in the card catalog entry for *Fort Wayne, Indiana, city directory* under the https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/541531[More info tab].
+
+* on the Allen County Genealogical Society's Fort Wayne https://www.acgsi.org/genweb/fort-wayne/city-directories.html[city directories] page.
