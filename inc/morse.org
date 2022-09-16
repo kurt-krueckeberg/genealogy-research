@@ -1,5 +1,0 @@
-=== Steve Morse
-
-Add some comments relate to what his site offers.
-
-https://stevemorse.org[stevemorse.org]

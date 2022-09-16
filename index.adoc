@@ -1,209 +1,56 @@
-= Genealogy Research :toc:
-:stylesheet: dark.css
-:stylesdir: /home/kurt/skins 
-:nofooter:
+== Summary of Immigrants from Rodehim-Bieber, Grand Duchy of Hessen, and nearby Fellinghausen in Marion twp, Allen CO, Indiana
 
-TODO: Organize by topic not facility or location
+Fellinghausen is a small village a short distance from the larger village of Rodhein an der Bierber (Rodheinm on the Bieber river), which today is called
+Rodheim-Bieber. 
 
-include::inc/nara.adoc[]
+Two Bender families from Fellinghausen, in the Grand Duchy of Hessen, most certainly brothers--although their common
+parentage still needs to be confirmed beyon doubt--married two Rühl sisters (whose parentage likewise needs to be confirmed). 
+Both Bender families eventually settled in Marion twp, Allen CO, around 18XX. 
 
-== Research Guides
-- https://www.familysearch.org/en/wiki/Main_Page[FamilySearch wiki] 
-  * https://www.familysearch.org/en/wiki/Germany_Genealogy[Germany Genealogy section] contains regional guides
-  * https://www.familysearch.org/en/wiki/Indiana,_United_States_Genealogy[Guide to Indiana research] contains guides to each county, for example:
-  ** https://www.familysearch.org/en/wiki/index.php?title=Allen_County,_Indiana_Genealogy[Allen County, Indiana]
+Later the Joahnn Jakob Peppler family, from Rodheim an der Bieber, would emigrated and also settle in Marion township, Allen couty, Indiana. On 11 June 1863, the Peppler's oldest
+son Ludig "louis" Peppler (1843-1914) married the 4th daughter of Johannes Bender, Marie Anna Bender (1846-1931).
 
-- Genealogy Center guide to https://acpl.lib.in.us/images/Documents/Gendocs/allencountyincongregations.pdf[Allen County, Indiana, Congregational Records, Histories and Directories]
+When the Johann Jokab Peppler family emigrated from Rodheiom-Bieber, who was about the same age as the Benders, emigrate, in April 1857, other individuals from
+Rodheim were on the same ship  left Brmen??? and arrived in NYC. This included Dudenhöfers and possibly Dönges. It is unclear if these Dudenhöfers settled
+in Allen CO. There are Dudenhöfers who did, but it is unclear how and if they are relatived to those on the ship, in 1857, with the Pepplers.
 
-- Genalogy Center Snapshots guides:
-  * https://acpl.lib.in.us/pathfinders/snapshots/subjects[Subject Snapshots] includes a German guide.
-  * https://acpl.lib.in.us/pathfinders/snapshots/states[State Snapshots] are State research guides.
-  * https://acpl.lib.in.us/images/Documents/Gendocs/States/allen-county-fort-wayne-sg.pdf[Allen Co. & Ft. Wayne IN] is a separate guide with the State snapshot guides.
+Emigrants from Rodheim-Bieber, Heseen, and nearby Fellinghausen settled in Allen County, Indiana. 
 
-- The InGenWeb site for Allen County has this info on https://www.acgsi.org/genweb/county/records/land-records-allen-county-indiana.html[Land Records] for Allen County.
-- https://irenehansen11.files.wordpress.com/2015/04/pre-1850-in-research.pdf[Pre-1850 Indiana Resources for Family History Research] by Irene Hansen, a reference librarian at Indiana State Library
-- https://www.familysearch.org/en/help/helpcenter/lessons/old-german-script-part-1[Old German Script] 3-part video series by FamilySearch
-- geneaolgy center https://www.genealogycenter.info/persi/[PERSI] page for searching periodically index of genealpogical publications.
+* peppler-bender
 
-=== Indiana and Allen county Histories
+The daughter of Johannes Bender, Mary XXX Bender ( ), married the oldest son of Johann Jocab Peppler and XXX Magdalene Plat, Ludwig "Louis"
+Peppler (  )twho came from Fellinghausen and Rodheim-Bieber. 
 
-- link:/home/kurt/g/histories/history-of-allen-county-county-in-1880.pdf[History of Allen County with Illustrations and Biographical Sketches] has townships histories, but no biographical sketches
-  of individuals from Germany
+T
+The Pepplers emigrate April 1857, along with others from Rodhiem-Bieber
 
-- link:/home/kurt/g/histories/PioneerHistory-of-Indiana-by-William-Cockrum.pdf[Pioneer History of Indiana] does not have biographical sketches. 
+* The Joahnn Heinrich Krueckberg family arrived in NYC from Bremen, on 5 Nov 1849. They Weiland family and other families who came on the Orion, on 5 Nv 1849, from Bremen to NYC,
+  
+  - I belive Johann Heinrich Krueckeberg was a cousin to my 3x great grandfather
 
-- https://www.familysearch.org/library/books/records/?navigation=&perpage=&page=1&sort=_score&search=History+of+the+Maumee+River+Basin&fulltext=1&bookmarks=0#title[History of the Maumee River Basin], by 
-  *Slocum, Charles Elihu, 1841-1915; Robertson, R. Stoddart, 1839-* is three volumes, and the third is devoted exclusively to biographical sketeches.
-  The https://www.familysearch.org/library/books/[FamilySearch Digital Libaray] has all three volumes: 
-  * http://www.familysearch.org/library/books/idurl/1/440041[volume 1]
-  * http://www.familysearch.org/library/books/idurl/1/46624[volume 2] discusses education, Luthereran churches, various organinzations, etc.
-  * http://www.familysearch.org/library/books/idurl/1/142390[volume 3] has biographical sketches that include:
-  ** Baade, Christian
-  ** Beerman, henry
-  ** Dunkelberg ?
-  ** Fahlsing, Frederick W, born in Minden, Germany. His parents emigrated in 1844, settled in Preble twp, AdaMs CO.
-  ** Getz
-  ** Hartzell
-  ** Klaehn
-  ** Niezer
-  ** Stellhorn
-  ** Thieme, Theodore F, Druggest
+  - The Bleekes, of course, came first. And they came from the same general aread around Minden as
+    the Weilands. Valhsing.
 
-=== Land Tools
+But other families also came on the same ship together. Wit the Pepplers came Dudenhoefers and Doesnges (and maybe others?), who may have settled in Allen County.
+In 1849, the Weiland family and the Johann Heinrich Krueckeberg came together. And<M-F4> others?
+In 1850, others came with the the Krueckebergs.
 
-https://glorecords.blm.gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=4[Indiana Tract Books at Bureau of Land Management, General Land Office Records]
+When did the Baade, Wiebke, Harman, etc familes come together?
 
-=== City Directories
+So there was prior relationships of either marriage, friendship or church fellowship that led several families to travel on the same ship. Later on
 
-They can be used tin conjunction with other records to ananylze potential relationships  between individuals. The information from several years should be used and compared. Someone who is the 
-widow (dsingated `(wid)` ) of, say, A. Darah, in one year and later listed as the widow of Newton Darah a few years later may be the widow of 'Alvin Newton Darah', which a marriage record
-of their son or duaghter may confirm.
 
-Directories may also list businesses in the same line of work. In the case of Fort Wayne City Directories from the 1860s and later, the Wards of the city are described by their street boundaries.
+* Some of their children mrried on another.
 
-Search 'City Direcctories' or 'City Directory' on sites like: 
+* These familiies settled in the sections of townships and found Lutheran churches together.
 
-* https://archive.org[Internet Archive]
-* https:///www.hathitrust.org[Hathi Trust]
-* https://dp.la/[Digital Public Library of America]
-* https://www.myheritage.com/research/collection-90100/compilation-of-published-sources[MyHeritage's compliaton of poublished sources.
-* PFW Mastadon Digital Object Network, which has digitized mpas, books, etc
+* They lived near one another.
+  - This was especially true when children married. they often settle next to parents, who may have help:w
+ed them obtain land.
 
-  - https://mdon.library.pfw.edu/digital/collection/cc_fw_hist/search[Fort Wayne Area HIstory Collection]
-  - https://mdon.library.pfw.edu/digital/collection/cc_acfwhs/search[History Center Digital Collections]
-* Ancestry's U.S. City Direcories https://www.ancestry.com/search/collections/2469/[search page]
+* Later were witnesses to Wills or Land Deeds, of one another.
 
-=== PLSS Tools
+The effort is to notice, document and trace these relationships. Thus discovering a joint family narrative.
 
-.Table of Allen County, Indiana, township names and their PLSS township and range designation.
-[width="45%",rows="grid", frame="none"]
-|===
-|Township|Range|Name
 
-|29 North|11 East|Lafayette
 
-|29 North|12 East|Pleasant
-
-|29 North|13 East|Marion
-
-|29 North|14 East|Madison
-
-|29 North|15 East|Monroe
-
-|30 North|11 East|Aboite
-
-|30 North|12 East|Wayne
-
-|30 North|13 East|Adams
-
-|30 North|14 East|Jefferson
-
-|30 North|15 East|Jackson
-
-|31 North|11 East|Lake
-
-|31 North|12 East|Washington
-
-|31 North|13 East|St. Joseph
-
-|31 North|14 East|Milan
-
-|31 North|15 East|Maumee
-
-|32 North|11 East|Eel River
-
-|32 North|12 East|Perry
-
-|32 North|13 East|Cedar Creek
-
-|32 North|14 East|Springfield
-
-|32 North|15 East|Scipio
-|===
-
-The https://www.acres.co/plat-map[www.acres.co/plat-map] site shows a map with townships and ranges and their township names.
-
-=== Allen County, Indiana, township Histories
-
-TODO:
-
-==== Browsing Ship Passenger Lists
-
-Ship arrival Passneger Lists can be browsed by date or by roll at this Ancestry page https://www.ancestry.com/search/collections/7488/[https://www.ancestry.com/search/collections/7488/]. 
-See the column on the right side.
-
-==== Old German Typefaces and Handwriting
-
-- FamilySearch Old German Script https://familysearch.brightspotcdn.com/fc/1d/865daadf23b9270f0d67c643a099/old-german-script-handout.pdf[handout]
-- https://germangirlinamerica.com/old-german-cursive-alphabet-and-typefaces/[https://germangirlinamerica.com/old-german-cursive-alphabet-and-typefaces/]
-
-== Genealogists and Experts
-
-* Germanic Genealogical Society's https://ggsmn.org/cpage.php?pt=19[translators list].
- 
-* https://www.berufsgenealogie.net/[Verband deutschsprachiger Berufsgenealogen e.V.] is the Association of German-speaking Professional Genealogists.
-
-* https://iggp.org/index.php[International German Genealogical Partnership] has a list of https://iggp.org/index.php[Professional Researchers]
-
-* https://www.apgen.org[Association of Professional Genalogists]. Note: It is not a certifying organization.
-
-* https://www.familysearch.org/en/rootstech/session/certified-genealogist-and-accredited-genealogist-a-comparison[BCG vs ICAPGen] certification  
-
-* https://dagv.org/?Die_DAGV[Deutsche Arbeitsgemeinschaft genealogischer Verbände (DAGV)]
-
-== Indiana State Archives
-
-* The https://www.in.gov/iara/divisions/state-archives/collections/[Collections] of the https://www.in.gov/iara/divisions/state-archives/[Indians State Archives] includes subjects like: 
-
-- https://www.in.gov/iara/divisions/state-archives/collections/[Land Records in Indiana], which explains when the *Fort Wayne Federal Land Office* was opened:
-
-____
-As the tide of settlement (in Indiana) moved north, a new land office opened at Fort Wayne in 1823. It sold lands in all or part of the present day counties of [.underline]#Adams, Allen#, Blackford, Cass, Clinton,
-DeKalb, Delaware, Grant, Howard, Huntington, Jay, Kosciusko, Lagrange, Madison, Miami, Noble, Randolph, Steuben, Tipton, Wabash, Wells, and Whitley. [.underline]#The final sales were in 1852; all lands remaining unsold
-were attached to the Indianapolis Land Office#.
-____
-
-See state archives https://www.in.gov/iara/divisions/state-archives/collections/land-records/major-land-record-collection-descriptions/[Major Land Record Collection Descriptions].
-
-- https://www.in.gov/iara/divisions/state-archives/collections/naturalization-records/[Naturlatizatoin Records]. 
-
-This section describes the naturalization records digitalization efforts and where nationarlization records can be found. It explains the naturalization process:
-____
-In the nineteenth century and most of the twentieth century, naturalization was a three step process. First, one declared intention to naturalize, then petitioned
-for naturalization, and lastly, received a certificate or a court order granting citizenship.
-
-*Declarations and Petitions*
-
-The first two steps involved the submission of specific documents -- declarations of intent and petitions -- that the Archives now holds for some counties.
-
-If the individual you are looking for is not listed in the database, it will be necessary to know the county or counties in which the naturalization process began.
-
-Please note that many immigrants never completed the full process. In the nineteenth century, many states allowed their residents to buy land and work without obtaining full citizenship.
-[.underline]#In Indiana, one could purchase land, own a business, and vote with a declaration of intention.#
-
-*Final Papers*
-
-After 1907, the federal government required state/local courts to issue standardized certificates of citizenship, to send duplicate copies of the certificates to the federal government, and to retain a certificate stub for their own court records. The Archives has certificate stubs for a few counties. These stubs are organized by date, not alphabetically; thus, a date of naturalization or a certificate number is imperative to locating any individual's certificate stub.
-
-Many counties recorded the final process on the back of the petitions; therefore an additional “final paper” will not be available in the Archives.
-____
-
-== Genealogy Center
-
-include::inc/gen-center.adoc[]
-
-=== Steve Morse
-
-https://stevemorse.org[stevemorse.org]
-
-=== Allen County Genealogical Society of Indiana(ACGSI)
-
-The Members-Only section has a wealth of resources for Allen County, Indiana.
-
-* https://www.acgsi.org/records.php[ACGSI web page]
-
-* ACGSI https://www.acgsi.org/deed/index.asp[Deed Index (1870s-1890s)] 
-
-== German 
-
-include::inc/german-research.adoc[]
