@@ -60,6 +60,7 @@ The effort is to notice, document and trace these relationships. Thus discoverin
 
 == Adams County, Kryueckeberg Research
 
+
 todo: 
 
 Immanuel bios:
@@ -86,6 +87,13 @@ translated the penciled-in word "Taufregister" as "baptismal register". She did 
 correct translation, it obscures what the word "Tauf" seems to be telling us: Immanuel Lutheran maintained original baptismal registers going back to the beginning of the church, or at least to 1865, when Carl Dietrich Wilhelm Schamerloh's only son, Heinrich Wilhelm Schamleroh (as his name was written in the original document before the penciled-in correction), was born and baptized.
 
 Immanuel likely still has related birth and marriage records, which would answer many questions and open many other doors. They might tell us when Carl Friedrich Krückeberg (1807 to 185??) died?
+
+
+=== Bleeke, Fells, Kodeway Relation Hint
+
+Christian Fells, aged 24, born in Prussia and thus an emigrant and and Louis Koldeway, age 24, born in Hannover and thus an emigrant, live with the https://www.ancestry.com/imageviewer/collections/7667/images/4215009_00102?pId=1396[Christain Friedrich Bleeke (1821-1899) household].
+
+todo: Do I have the correct wives for the JHP bleeke sons? Who married Mary Bevelheimer?
 
 === Weiland
 
