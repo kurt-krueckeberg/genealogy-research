@@ -27,6 +27,10 @@ Kikuchi, Delores L.
 
 https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/60281?offset=0&qs=1685077942&search_in=code&state=code[Rimmonim bells, ten generations of the Behrman, Drucker, Hahn, Stockler, and Sztynberg families plus ten related lines] 
 
+* Bevelheimer
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/91078?offset=0&qs=Bevelheimer&search_in=onderwerp&state=search[From whence we came : the descendants of Conrad Bevelheimer, 1764-1984]
+
 * Bender Fmaily History 
 
 https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story] 
