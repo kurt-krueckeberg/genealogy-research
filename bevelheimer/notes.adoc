@@ -6,10 +6,37 @@ were also born in PA. The next XX chilren were born in Ohio, apparently in Media
 
 Summary:
 
+* Conrad Bientelheimer birth records is in a FamilySearch-derived DB of FHL film summarized. The FHL filem number is https://www.ancestry.com/discoveryui-content/view/46401935:9866?tid=68081704&pid=122416176651[1336519],
+  and a search of the FS catalog for this FHL number shows it has these records for:
+
+  - Items 1-4: Kirchenbuch, 1730-1876, Author: Evangelische Kirche Nieder Saulheim (Kr. Oppenheim)
+  - Items 5-7, Item 8: Kirchenbuch, 1664-1875, Author: Evangelische Kirche Ober Saulheim (Kr. Oppenheim)
+
+They were filmed from Mikrofilme aufgenommen von Manuskripten im Zentralarchiv der Ev. Kirche in Hessen und Nassau, Darmstadt.
+Q: Is it now on archion.de?
+
+* *Conrad Fried. Bientelheimer* is found on page 292 of
+
+___
+A collection of thirty thousand names German, Swiss, Dutch, French, Portuguese and other immigrants in Pennsylvania : chronologically arranged from 1727 to 1776 ...
+Author:	Rupp, I. Daniel (Israel Daniel), 1803-1878
+Note:	Harrisburg : T.F. Schiffer, 1856
+___
+
+It is https://catalog.hathitrust.org/Record/011262503[available on Hathi Trust]. Concordia Theological Seminary has a copy per Worldcat.
+
+* Three Shelhamer brothers found in the first-ever 1790 census. Citation: National Archivs Record Administration, 1790 US census PDF for Pennsylvannie, (https://www2.census.gov/library/publications/decennial/1790/heads_of_families/pennsylvania/1790i-05.pdf : 22 Sep 2022),
+  Penn township, Nothampton county, Pennsylvannia, page 178 
+
+See this https://www.archives.gov/research/census/1790[explanation about the 1790 census].
+
 * A one-sentence notice of the dath of David Daniel Bevelheimer (with this spelling) appeared there Allen county, Indiana papers:
 
  - The Fort Wayne Sentinel, PAGE 2, Fort Wayne, Indiana,Tuesday, April 19, 1881
  - Fort Wayne Weekly Sentinel, PAGE 4, Fort Wayne, Indiana, Wednesday, April 20, 1881
+
+
+Mennonite Research Resource Online (fee based). See https://mennonitelife.org/documents/[their available documents].
 
 * According to the 1850 census for  https://www.ancestry.com/imageviewer/collections/8054/images/4193367-00117?pId=1673022[Union twp, Adams county, Indiana] the older children named
   Mary and Daniel were born in PA. The other children were born in OH? 
