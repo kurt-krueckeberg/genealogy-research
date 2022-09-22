@@ -23,7 +23,13 @@ Author:	Rupp, I. Daniel (Israel Daniel), 1803-1878
 Note:	Harrisburg : T.F. Schiffer, 1856
 ___
 
-It is https://catalog.hathitrust.org/Record/011262503[available on Hathi Trust]. Concordia Theological Seminary has a copy per Worldcat.
+The volume is online at https://catalog.hathitrust.org/Record/011262503[Hathi Trust]. Concordia Theological Seminary has a copy per Worldcat.
+The details of actual ship name, departure port, etc is found on page 291u at URL: https://babel.hathitrust.org/cgi/pt?id=wu.89066126525&view=2up&seq=322&skin=2021&q1=bientelheimer
+
+____
+Ship Boston, Matthew Carr. master, from Rotterdam, last from Cowes-203 passengers
+____
+
 
 * Three Shelhamer brothers found in the first-ever 1790 census. Citation: National Archivs Record Administration, 1790 US census PDF for Pennsylvannie, (https://www2.census.gov/library/publications/decennial/1790/heads_of_families/pennsylvania/1790i-05.pdf : 22 Sep 2022),
   Penn township, Nothampton county, Pennsylvannia, page 178 
