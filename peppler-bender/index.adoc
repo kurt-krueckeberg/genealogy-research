@@ -1,0 +1,49 @@
+:toc:
+:stylesheet: dark.css
+:stylesdir: /home/kurt/skins 
+:docinfo: shared
+:docinfodir: /home/kurt/docinfo
+:nofooter:
+
+== Peppler Research
+
+In 1857, when the Pepplers emigrated, they were accompanied on the ship Copernicus by other families from Rodheim. Those listed by link:./die-auswanderer-aus-kirchspiel-rodheim.pdf[Ernst Schmidt] as
+emigrating in April 1857 included:
+
+* Dönges
+* J. Kirch
+* Dudenhöfer
+
+Philip Schwalm, who married Christine Bender (1842 - 19150), daughter of Friedrich Bender (1804-??), was also listed on the passenger list of the Copernicus
+(or at least someone his age and with his name).
+
+Those from Rodheim who emigrated in April 1857 were:
+
+Dudenhöfer , Luise Magdalene, geb. 16. 11. 1799, ausgewandert April 1857
+Dudenhöfer , Katharine Elisabeth, geb. 30. 7. 1815, ausgewandert 1846
+Dudenhöfer , Georg Philipp, geb. 14. 6. 1817, ausgewandert 1840 <-- Was he on the ship with Johannes Bender???
+Dudenhöfer , Konrad, geb. 16. 5. 1858, ausgewandert 1882
+
+Dönges ?????
+
+Dudenhöfer , Johann Georg, geb. 26. 9. 1835
+Weber, Anna Margaretha, geb. 22. 10. 1837, verh. 10. 8.  1862, ausgewandert im November 1863
+
+Dudenhöfer , Johann Georg, geb. 9. 3. 1834, ausgewandert April 1857
+Dudenhöfer , Andreas, geb. 4. 9. 1838, ausgewandert April 1857
+
+*Note:* Include also the Dönges from Rodhiem that may also have emigrated in April 1857 and been on the Copernicus.
+
+
+The 1867 Allen County Indiana, https://www.ancestry.com/discoveryui-content/view/1440232475:2469?tid=68081704&pid=38213189245&hid=1007410371314&_phsrc=KtD1474&_phstart=default[City Directory] lists individuals from
+Rodheim an der Bieber und Fellinghausen:
+
+Benders, three Fredericks
+Bender, George
+Bender, John
+Bender, Louis
+Peppler, Jacob
+Peppler, Louis
+Dudenhafers, two or three
+Dinges
+Ahlschwede, Frederick

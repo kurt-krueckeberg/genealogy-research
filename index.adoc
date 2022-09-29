@@ -1,9 +1,11 @@
-= Genealogy Research Status
 :toc:
-:stylesdir: /home/kurt/skins 
 :stylesheet: dark.css
-:docinfordir: /home/kurt/docinfo 
+:stylesdir: /home/kurt/skins 
+:docinfo: shared
+:docinfodir: /home/kurt/docinfo
 :nofooter:
+
+//= Genealogy Research Status
 
 == Summary of Emigration from Rodehim-Bieber and Fellinghausen, Grand Duchy of Hessen
 
@@ -120,8 +122,3 @@ It is obvious that Heinrich "Henry" Wilhelm Weiland and Caroline Sophie nee Weil
 
 It is quite likely that the 70-year passenger "Wilhelm Wiland", whose name appears on the Passenger List--of the ship Orion that arrived in NYC, on 5 November 1849--immediately after those of Heinrich Wilhelm Weiland,
 his wife Sophia Wilhelmine nee Piehl and their two children, Wilhelmine and Wilhelm--is the father of Heinrich Wilhelm Weiland: Fridrich Wilhelm Weiland (Abt. 1779 to ??).
-
-
-
-
-
