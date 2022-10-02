@@ -1,3 +1,7 @@
+#--This collation allows German umlauts to be equivalent to, equalt  to, their non-umlauted form 
+#--whee the vowel is followed by an 'e'.
+create database if not exits imman with collate='latin1_german2_ci';
+ 
 create table if not exits person (
    id int auto_increment,
    sex ENUM('m', 'f'), 
