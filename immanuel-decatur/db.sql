@@ -89,5 +89,4 @@ create table IF NOT EXISTS children (
 );
 
 #--Insert UNKONWN person into the person table.
-insert into person(sex, fname, lname, bdate, is_founder, bdorf , bkreis, bland) values ('u', 'unknown', 'unknown', todays-date, 'f', 'unknown', 'unknown', 'unknown');
- 
+insert into person(sex, fname, lname, bdate, is_founder, bdorf , bkreis, bland) values ('u', 'unknown', 'unknown', current_date(), false, 'unknown', 'unknown', 'unknown');
