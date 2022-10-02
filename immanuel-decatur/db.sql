@@ -11,7 +11,7 @@ use imman;
 
 create table IF NOT EXISTS person (
  id int(11) NOT NULL AUTO_INCREMENT,
- sex ENUM('m', 'f') not null, 
+ sex ENUM('m', 'f', 'u') not null, 
  fname varchar(45) not null,
  lname varchar(20) not null,
  bdate date not null,
@@ -87,3 +87,7 @@ create table IF NOT EXISTS children (
   foreign key (famlyid) references family(id),
   primary key(id)
 );
+
+#--Insert UNKONWN person into the person table.
+insert into person(sex, fname, lname, bdate, is_founder, bdorf , bkreis, bland) values ('u', 'unknown', 'unknown', todays-date, 'f', 'unknown', 'unknown', 'unknown');
+ 
