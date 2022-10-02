@@ -1,6 +1,9 @@
-#--This collation allows German umlauts to be equivalent to, equalt  to, their non-umlauted form 
-#--whee the vowel is followed by an 'e'.
-create database if not exits imman with collate='latin1_german2_ci';
+#--The specific problem with German umlauts is often described as 'dictionary order' or 'phone-book order'. 
+#--The Unicode default is okay for the former but if you want 'Ü' = 'UE', then you could consider 
+#--utf8mb4_de_pb_0900_ai_ci or utf8mb4_german2_ci, assuming character set is utf8mb4.
+create database if not exits imman 
+  collate ='utf8mb4_german2_ci'  
+  character set ='utf8mb4';
  
 create table if not exits person (
    id int auto_increment,
