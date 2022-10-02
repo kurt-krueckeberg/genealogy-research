@@ -39,16 +39,16 @@ create table if not exists family (
   emigdate date, 
   unique key (husbid, wifeid),
   foreign key (husbid) references person(id), 
-  foreign key (wifeid)  references  person(id), 
+  foreign key (wifeid) references person(id), 
   primary key(id)
 );
 
 #--List of Pathen or Taufpathen at baptism
 create table if not exist godparent (
   id int auto_increment,
-  bapid int,
-  foreign key (bapid) references ceremony(id),
-  foreign key (id) references parent(id),
+  baptismid int,
+  foreign key (baptismid) references ceremony(id),
+  foreign key (id) references person(id),
   primary key(id)
 );
 
