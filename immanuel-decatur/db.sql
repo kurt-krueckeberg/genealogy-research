@@ -14,6 +14,8 @@ create table IF NOT EXISTS person (
  sex ENUM('m', 'f', 'u') not null, 
  fname varchar(45) not null,
  lname varchar(20) not null,
+ fid int(11) not null,
+ mid int(11) not null,
  bdate date not null,
  is_founder boolean not null,
  bdorf varchar(15) not null,

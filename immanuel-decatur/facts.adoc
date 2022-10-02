@@ -1,36 +1,28 @@
-== Immanuel Facts
-
-Nam
-town:t
-father:f
-mother:m
-parish:p
-birth:geb
-baptism:get
-baptims pator:bp
-godparents:gp
-confirmtion:c
-wife:w
-marriage:m
-marriage place:mp
-children:c
-emigration:e
 
 == Johann Heinrich Philipp Bleeke
 
-t: Leteln, Kanton Windheim, Kreis Minden, Königreich Preussen
-f: Fridrich Bleeke
-m: Anna Margaretha Volkening
-geb: 3 November 1797
-get: November 1797
-bp: Peikman
-gp: Johann Fridrich Volkening
-c: Sunday after Easter 1810
-m: spring 1819
-mp: Frühling
+sex:m
+fname: Johann Heinrich Philipp
+lname: Bleeke 
+father: Fridrich Bleeke
+mother: Anna Margaretha Volkening
+bdate:3 November 1797
+is_founder:true
+bdorf: Leteln
+bdorfb:  Kanton Windheim
+bkreis:Kreis Minden
+bland:Königreich Preussen
 
-w: Christine Maria Schwier
-f: Christian Fridrich Schwier
+
+baptism: November 1797
+baptism pastor: Peikman
+gidparents: Johann Fridrich Volkening
+confirmed: Sunday after Easter 1810
+married: spring 1819
+marriage place: Frühling
+
+wife: Christine Maria Schwier
+father: Christian Fridrich Schwier
 m: Catharina Margareta Rösner
 geb: 13 May 1798
 getauft: May 1798
