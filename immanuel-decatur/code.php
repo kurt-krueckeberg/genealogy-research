@@ -2,8 +2,8 @@
 /*
 https://mariadb.com/resources/blog/developer-quickstart-php-data-objects-and-mariadb/
  */
-$dsn = 'mysql:dbname=demo;host=server;port=3306;charset=utf8';
-$dsn = "mysql:host=<insert_host_address_here>;dbname=rolodex;charset=utf8mb4";
+// $dsn = 'mysql:dbname=imman;host=localhost;port=3306;charset=utf8';
+$dsn = 'mysql:dbname=imman;host=localhost;port=3306';
 
 $options = [
   PDO::ATTR_EMULATE_PREPARES   => false, // Disable emulation mode for "real" prepared statements
@@ -12,7 +12,10 @@ $options = [
 ];
 
 try {
-  $pdo = new PDO($dsn, "<insert_user_here>", "<insert_password_here>", $options);
+
+  $pdo = new PDO($dsn, "kurt", "kk0457", $options);
+  echo "pdo successfully created.\n";
+
 } 
 catch (Exception $e) {
   error_log($e->getMessage());
