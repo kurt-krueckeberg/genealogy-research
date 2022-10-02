@@ -24,10 +24,11 @@ create table IF NOT EXISTS person (
 
 #--This tracks Church ceremonies performed on the date, by the pastorid,
 #--at the parish.
-#--MSince mrriage is a joint ceremony that involves two people, we have 
-#--we create another table participants to associated, to linbk, the partipants
-#--for whom the ceremony occurs. Otherwise, the other attributes--date,
-#--pastor and parish--would be duplicated for each couple in a marriage.
+#--Since mrriage is a joint ceremony that involves two people, we must 
+#--create another table participants to link the ceremony's partipants for
+#--whom the ceremony occurs to the ceremony. Otherwise, the attributes date,
+#--pastor and parish would be duplicated for each individual of the couple being
+#--married.
 create table IF NOT EXISTS ceremony (
   id int(11) NOT NULL AUTO_INCREMENT,
   cermdate date not null,
@@ -38,10 +39,11 @@ create table IF NOT EXISTS ceremony (
   primary key(id)
 );
 
-#--This table associates particpants in a  ceremony with the ceremony
-#--and gives their role in the ceremony. It is a 'link' table whose key
-#--are the two attributes that that reference 1. the person in the ceremony
-#--and the ceremony in which they participated.
+#--This table associates particpants in a ceremony with the ceremony
+#--and it gives their role in the ceremony. It is a 'link' table whose key
+#--is two attributes: 1.) the person in the ceremony and 2.) the ceremony
+#--in which he or she or they participated.
+#--This also includes godparents at a baptism.
 create table IF NOT EXISTS participants (
   id int(11) NOT NULL,
   cermid int(11) not null,
@@ -51,14 +53,11 @@ create table IF NOT EXISTS participants (
   primary key(id, cermid)
 );
 
-#--The married couple or 'family` consists of the husband husbid and wife
-#--wifeid. Their children, if any, are in the children table, whose familyid
-#--references family(id) its husbid and wifeid who are the father and mother,
-#--respectively, of the child.
+#--The married couple or 'family` consists of a husband husbid and a wife
+#--Their children, if any, are in the children table, whose familyid
+#--references family(id).
 #--Note:
-#-- Emgiration is not a church ceremony, but here a family event (all the amily emigrated or most). But
-#-- this database is only for capturing the details about the Immanuel founders and their families. It is not an all-purpose
-#-- design for German couplesE and their families who emigrated--although it could be futher generalized.
+#-- Emgiration is not a church ceremony, but rather an entire family event (all the family emigrated together in this model).
 create table IF NOT EXISTS family (
   id int(11) NOT NULL AUTO_INCREMENT,
   husbid int(11) not null,
