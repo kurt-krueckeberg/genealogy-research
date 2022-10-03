@@ -21,8 +21,13 @@ create table IF NOT EXISTS person (
  bdorf varchar(15) not null,
  bkreis varchar(20) not null,
  bland varchar(25) not null,
+ foreign key (fid) references person(id), 
+ foreign key (mid) references person(id), 
  primary key(id)
 );
+
+#--Insert UNKONWN person into the person table. The unknown person has person(id) of 1, the first auto_increment value, and the fid and mid are also 1, referring this same all-purpose unknown person.
+INSERT INTO person (id, fname, lname, sex, fid, mid, bdate, founder, bdorf, bkreis, bland) VALUES  (1, "unknown", "unknown", "u", 1, 1, "1000-01-01", false, "unknown", "unknown", "unknown");
 
 #--This tracks Church ceremonies performed on the date, by the pastorid,
 #--at the parish.
@@ -88,6 +93,3 @@ create table IF NOT EXISTS children (
   foreign key (famlyid) references family(id),
   primary key(id)
 );
-
-#--Insert UNKONWN person into the person table.
-INSERT INTO person (fname, lname, sex, fid, mid, bdate, founder, bdorf, bkreis, bland, ) VALUES  ('unknown', 'unknown', 'u', 1, 1, "1000-01-01", 'false', 'unknown', 'unknown', 'unknown');

@@ -19,36 +19,30 @@ try {
 
   echo "pdo successfully created.\n";
 
-$sql = "INSERT INTO person (
-fname,             
-lname,             
-sex,               
-fid,               
-mid,               
-bdate,            
-founder,
-bdorf,             
-bkreis,            
-bland             
-) VALUES (  
-:fname,  
-:lname,  
-:sex,    
-:fid,    
-:mid,    
-:bdate,
-:founder,
-:bdorf,  
-:bkreis, 
-:bland  
-)";
-
+$sql = "INSERT INTO person (fname, lname, sex, fid, mid, bdate, bdorf, bkreis, bland, founder) VALUES (:fname, :lname, :sex, :fid, :mid, :bdate, :bdorf, :bkreis, :bland, :founder)";
 
 //Prepare the statement.
 $stmt = $pdo->prepare($sql);
 
-$rc = $stmt->execute(array(serialize($p)));
+$input = [
+ 'fname' => 'first',
+ 'lname' =>  'last',
+ 'sex' =>  'm',
+ 'fid' =>  $fid,
+ 'mid' =>  $mid,
+ 'bdate' =>  ' ',
+ 'bdorf' =>  ' ',
+ 'bkreis' =>  ' ',
+ 'bland' =>  ' ',
+ 'founder' => true,
+    ];
 
+$rc = $stmt->execute($input);
+
+/*
+ * Insert all the persons listed in the biographies.
+ * Then insert ceremonies, families and children.
+ */
 echo "Insertion of Person::unknown(). \$rc  = $rc \n";
 
 } 

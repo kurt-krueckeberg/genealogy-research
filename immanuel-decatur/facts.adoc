@@ -1,3 +1,5 @@
+. Insert all the persons listed in the biographies.
+. Then insert ceremonies, families and children.
 
 == Johann Heinrich Philipp Bleeke
 
