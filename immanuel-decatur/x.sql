@@ -17,7 +17,7 @@ create table IF NOT EXISTS person (
  fid int(11) not null,
  mid int(11) not null,
  bdate date not null,
- founder boolean not null,
+ is_founder boolean not null,
  bdorf varchar(15) not null,
  bkreis varchar(20) not null,
  bland varchar(25) not null,
@@ -88,6 +88,3 @@ create table IF NOT EXISTS children (
   foreign key (famlyid) references family(id),
   primary key(id)
 );
-
-#--Insert UNKONWN person into the person table.
-INSERT INTO person (fname, lname, sex, fid, mid, bdate, founder, bdorf, bkreis, bland, ) VALUES  ('unknown', 'unknown', 'u', 1, 1, "1000-01-01", 'false', 'unknown', 'unknown', 'unknown');
