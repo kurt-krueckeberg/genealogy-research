@@ -1,10 +1,6 @@
 <?php
 declare(strict_types=1);
 
-include "Person.php";
-
-// https://mariadb.com/resources/blog/developer-quickstart-php-data-objects-and-mariadb/
-
 $dsn = 'mysql:dbname=imman;host=localhost;port=3306';
 
 $options = [
@@ -15,7 +11,7 @@ $options = [
 
 try {
 
-  $pdo = new PDO($dsn, "kurt", "kk0457", $options);
+  $pdo = new \PDO($dsn, "kurt", "kk0457", $options);
 
   echo "pdo successfully created.\n";
 
@@ -50,4 +46,3 @@ catch (Exception $e) {
   error_log($e->getMessage());
   exit('Something bad happened'); 
 }
-
