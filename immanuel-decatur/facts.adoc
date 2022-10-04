@@ -1,7 +1,4 @@
-. Insert all the persons listed in the biographies.
-. Then insert ceremonies, families and children.
-
-== Johann Heinrich Philipp Bleeke
+Johann Heinrich Philipp Bleeke
 
 sex:m
 fname: Johann Heinrich Philipp
@@ -9,7 +6,7 @@ lname: Bleeke
 father: Fridrich Bleeke
 mother: Anna Margaretha Volkening
 bdate:3 November 1797
-is_founder:true
+founder:true
 bdorf: Leteln
 bdorfb:  Kanton Windheim
 bkreis:Kreis Minden
@@ -26,13 +23,12 @@ marriage place: Frühling
 wife: Christine Maria Schwier
 father: Christian Fridrich Schwier
 m: Catharina Margareta Rösner
-geb: 13 May 1798
-getauft: May 1798
-getafut kirche: Frille 
+born: 13 May 1798
+baptized: May 1798
+baptized: kirche: Frille 
 pastor: Peikmann. 
 Taufpathen: Anna Sophie Rösner; Christine Müller
-confirmiert: Sonntage nach Ostern 1811.
-
+confirmiert: Sonntage nach Ostern 1811
 
 Auswandert: 1834. He first lived for a time in Wheeling Va und in Cincinati (Cincinnati)
 
@@ -41,40 +37,26 @@ Immanuel: helped found it in 1849
 
 children:
 
-1. Carl Heinrich, 
-born:  den 27 April u. get. den 30 April 1818.
-Taufpathe: Fridrich Schwier, confirmiert am Sonnt. n. Ostern 1832; gest.
-den 25 März 1839.
+Carl Heinrich, Bleeke | born:   27 April | baptized:  30 April 1818
+Taufpathe: Fridrich Schwier| confirmiert: am Sonnt. n. Ostern 1832; died 25 March 1839
 
-2. Christian Fridrich, 
-born:  den 7 Mai und get. den 13 Mai 1821.
-Taufpathe: Carl Fridrich Bleeke, confirmiert am Sonnt. Judica 1835.
+Christian Fridrich, Bleeke | born:   7 May | baptized:  13 Mai 1821
+Taufpathe: Carl Fridrich Bleeke| confirmiert: am Sonnt. Judica 1835
 
-3. Carl Fridrich, 
-born:  den 17 Juli u. get. den 20 Juli 1823.
-Taufpathe: Christian Fridrich Bleeke; gestorben den 11 Mai 1825.
+Carl Fridrich, Bleeke | born:   17 July | baptized:  20 Juli 1823
+Taufpathe: Christian Fridrich Bleeke; died:  11 Mai 1825
 
-4. Carl Fridrich Wilhelm, 
-born:  den 30 November u. getauft den 4
-December 1825. Taufpathen: Fridrich Meier und Christ. Bleeke;
-confirmiert um Ostern 1840 on Past. Möllmann in Cincinati.
+Carl Fridrich Wilhelm, Bleeke | born:   30 November | baptized:4 December 1825
+Taufpathen: Fridrich Meier und Christ. Bleeke;, Bleeke | confirmiert um Ostern 1840 on Pastor Möllmann in Cincinati
 
-5. Christine Maria, 
-born:  den 11 u. get. den 17 August 1828.
-Pathen: Anna Soph. Schwier und Maria Meier; conf. von Past. Sihler, Ft.
-Wayne ‚42
+Christine Maria, Bleeke | born:   11 August 1828 | baptized:  17 August 1828
+Taufpathen: Anna Soph. Schwier und Maria Meier; |confirmed von Pastor Sihler, Ft Wayne ‚42
 
-6. Christine Sophie Eleonore, 
-born:  den 13 August u. get. den 21
-August 1831. Pathen: Christine Bleeke, conf. 1845 von Past. Sihler, Ft.
-Wayne, Ind.
+Christine Sophie Eleonore, Bleeke | born:   13 August 1831 | baptized:  21 August 1831
+Taufpathen: Christine Bleeke, |confirmed 1845 von Pastor Sihler, Ft Wayne, Ind
 
-7. Marie Louise Eleonore, 
-born:  den 15 und get. den 24 November
-1833. Pathen: Louise Schwier und Marie Bleeke; conf. 1848 von Past.
-Jäbker in Adams Co., Ind.
+Marie Louise Eleonore, Bleeke | born:   15 November 1833| baptized:  24 November 1833
+Taufpathen: Louise Schwier und Marie Bleeke; |confirmed 1848 von Pastor Jäbker in Adams Co., Ind
 
-8. Emilie, 
-born:  den 11 März u. get. den [empty] 1837 in Cincinati
-(Cincinnati) O. Getauft von Past. Lauer. Pathen: Christine Bleeke,
-gestorben den 8 Sept. 1838, in ihrem Geburtsort Cincinati (Cincinnati).
+Emilie, Bleeke | born:   11 March 1837 | baptized:  [empty] 1837 in (Cincinnati) O.| baptized: von Pastor Lauer. Pathen: Christine Bleeke, Bleeke | 
+died:  8 Sept. 1838, Cincinnati
