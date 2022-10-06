@@ -1,0 +1,1394 @@
+= Immanuel Luterhan, Decatur, Indiana, Organizers
+:toc:
+:stylesheet: dark.css
+:stylesdir: /home/kurt/skins 
+:docinfo: /home/kurt/shared
+:docinfodir: /home/kurt/docinfo
+:nofooter:
+
+These biographies of the organizers of Immanuel Lutheran Church, Union twonship, Decatur, Indiana,
+are transcripts into German, followd by translations into English, done from the church's original
+biographpies that were hand-written in Old German script. The transcriptions and translations
+were done by Dr. Wilma Hoffmann, https://germanscripttranslations.com/[German Script Translations.],
+Buffalo, NY.
+
+*German Transcript*
+
+page 31
+
+[source,sql]
+----
+ fname varchar(45) not null,
+ lname varchar(20) not null,
+ sex ENUM('m', 'f', 'u') not null, 
+ fid int(11),
+ mid int(11),
+ bdate date not null,
+ founder boolean not null,
+ bdorf varchar(15) not null,
+ bkreis varchar(20) not null,
+ bland varchar(25) not null,
+ foreign key (fid) references person(id), 
+ foreign key (mid) references person(id), 
+ ----
+
+== Johann Heinrich P. Bleeke
+person:
+fname:Johann Heinrich Philip 
+lname:Bleeke
+f:
+fname:Fridrich
+lname:Bleeke;
+m:
+fname:Anna Margaretha
+lname:Volkening
+bdorf: Leteln, bkreis Kanton Windheim, Kreis Minden, Königr. Preussen, den 3
+November und get. im selben Monat 1797 von Past. Peikmann. Sein
+Taufpathe war Johann Fridrich Volkening; confirmiert am Sonntage nach
+Ostern 1810.
+
+Er verheiratete sich im Frühling 1819 mit Christine Maria Schwier, eine
+Tochter von Christian Fridrich Schwier und Catharina Margareta geb.
+Rösner, geb. den 13 Mai und getauft im selben Monat 1798 in der ev.
+luth. Kirche zu Frülle (Frille) von Past. Peikmann. Pathen: Anna Sophie
+Rösner und Christine Müller; confirmiert am Sonntage nach Ostern 1811.
+
+Im Jahre 1834 wanderte genannter Johann Heinrich Philipp Bleeke aus nach
+den Vereinigten Staaten von N.-A., wohin ihn in den beiden
+darauffolgenden Jahren seine Familie nachfolgte. Und nachdem er eine
+Zeitlang bei Wheeling Va und in Cincinati (Cincinnati) O. gewohnt, zog
+er in hiesige Gegend 1840, woselbst auf seinen Betrieb im Jahre 1849 die
+jetzige ev. luth. Imanuels Gemeinde sich bildete, unter Gottes Beistand.
+
+Seine Kinder sind:
+
+1. Carl Heinrich, geb. den 27 April u. get. den 30 April 1818.
+Taufpathe: Fridrich Schwier, confirmiert am Sonnt. n. Ostern 1832; gest.
+den 25 März 1839.
+
+2. Christian Fridrich, geb. den 7 Mai und get. den 13 Mai 1821.
+Taufpathe: Carl Fridrich Bleeke, confirmiert am Sonnt. Judica 1835.
+
+3. Carl Fridrich, geb. den 17 Juli u. get. den 20 Juli 1823.
+Taufpathe: Christian Fridrich Bleeke; gestorben den 11 Mai 1825.
+
+4. Carl Fridrich Wilhelm, geb. den 30 November u. getauft den 4
+December 1825. Taufpathen: Fridrich Meier und Christ. Bleeke;
+confirmiert um Ostern 1840 on Past. Möllmann in Cincinati.
+
+5. Christine Maria, geb. den 11 u. get. den 17 August 1828.
+Pathen: Anna Soph. Schwier und Maria Meier; conf. von Past. Sihler, Ft.
+Wayne ‚42
+
+6. Christine Sophie Eleonore, geb. den 13 August u. get. den 21
+August 1831. Pathen: Christine Bleeke, conf. 1845 von Past. Sihler, Ft.
+Wayne, Ind.
+
+7. Marie Louise Eleonore, geb. den 15 und get. den 24 November
+1833. Pathen: Louise Schwier und Marie Bleeke; conf. 1848 von Past.
+Jäbker in Adams Co., Ind.
+
+8. Emilie, geb. den 11 März u. get. den [empty] 1837 in Cincinati
+(Cincinnati) O. Getauft von Past. Lauer. Pathen: Christine Bleeke,
+gestorben den 8 Sept. 1838, in ihrem Geburtsort Cincinati (Cincinnati).
+
+*English Translation*
+
+page 32 (or 31)
+
+No. 1
+
+Johann Heinrich P. Bleeke
+
+Son of Fridrich Bleeke and Anna Margaretha neé Volkening. He was born in
+Leeteln (Leteln), parish of Windheim, county of Minden, Kingdom of
+Prussia, on 3 November 1797. He was baptized in the same month by Pastor
+Peikmann. His godfather was Johann Fridrich Volkening. He was confirmed
+on Sunday after Easter, 1810.
+
+He was married in spring of 1819 to Christine Maria Schwier, a daughter
+of Christian Fridrich Schwier and Catharina Margareta neé Rösner. She
+was born on 13 May 1798, and baptized in the same month in the
+Protestant Lutheran Church in Frülle (Frille) by Pastor Peikmann. Her
+godparents are: Anna Sophie Rösner and Christine Müller. She was
+confirmed on Sunday after Easter, 1811.
+
+The above mentioned Johann Heinrich Philipp Bleeke emigrated in 1834 to
+the United States of North America. His family followed him there within
+the following 2 years. After he lived for some time in Wheeling, VA, and
+in Cincinati (Cincinnati), Ohio, he moved to this area in 1840. It was
+through his efforts and with the help of God that the local Protestant
+Lutheran Imanuel Church community formed in 1849.
+
+His children are:
+
+1. Carl Heinrich, born on 27 April, and baptized on 30 April
+1818. Godfather: Fridrich Schwier; confirmed on Sunday after Easter,
+1832; died on 25 March 1839.
+
+2. Christian Fridrich, born on the 7^th^ of May, and baptized on
+13 May 1821. Godfather: Carl Fridrich Bleeke, confirmed on Judica
+Sunday, 1835.
+
+3. Carl Fridrich, born on 17 July, and baptized on 20 July 1823.
+Godfather: Christian Fridrich Bleeke; died on 11 May 1825.
+
+4. Carl Fridrich Wilhelm, born on 30 November, and baptized on 4
+December 1825. Godparents: Fridrich Meier and Christ. Bleeke; confirmed
+on Easter 1840 by Pastor Möllmann in Cincinnati.
+
+5. Christine Maria, born on the 11^th^, and baptized on 17 August
+1828. Godparents: Anna Soph. Schwier and Maria Meier; confirmed 1842 by
+Pastor Sihler in Ft. Wayne.
+
+6. Christine Sophie Eleonore, born on 13 August, and baptized on
+21 August 1831. Godmother: Christine Bleeke; confirmed 1845 by Pastor
+Sihler, Ft. Wayne, Ind.
+
+7. Marie Louise Eleonore, born on the 15^th^, and baptized on 24
+November 1833. Godparents: Louise Schwier and Marie Bleeke; confirmed
+1848 by Pastor Jäbker in Adams Co., Ind.
+
+8. Emilie, born on 11 March, and baptized on [empty] 1837 in
+Cincinati (Cincinnati), Ohion. Baptized by Pastor Lauer. Godmother:
+Christine Bleeke; died 8 Sept. 1838, in her birth town of Cincinati
+(Cincinnati).
+*German Transcript*
+
+No. 2
+
+== Johann Heinrich Krückeberg
+
+geboren den 12ten August 1806 in Behrenbusch Fürstenthum Schaumburg Lippe|; getauft in der ev. luth. Kirche zu Petzen von Pastor Stille.
+Seine Taufpathen waren Gottlieb Krückeberg und Christian Tägtmeier und
+seine Eltern Jobst Krückeberg und Christine Eleonore geborene Tägtmeier.
+Er wurde confirmiert um Ostern 1820 von Pastor Stille, verheirathete
+sich den 26ten Januar 1833 mit Jungfrau Caroline Sophie Weÿland (ÿ will
+morph in later years either into Weiland [most common] or Weyland),
+geboren den 23ten Januar 1808, getauft den 29ten Januar 1808,
+confirmiert um Ostern 1822. Ihre Eltern: Fridrich Wilhelm Weÿland und
+Catharina geborene Hahn in Evesen Fürstenthum Schaumburg-Lippe, getauft,
+confirmiert und copuliert von dem schon genannten Pastor Stille.
+
+Kinder hatte er mit seiner genannten Ehefrau drei welche alle in
+Deutschland geboren sind, diese sind:
+
+1. Caroline Philippine Dorathee geboren den 27 Februar und
+getauft den 9. März desselben Jahres 1834, ihre Taufpathen ware: Doratha
+Weÿland, Philippine Watermann, und Caroline Krückeberg.
+
+2. † Christine Sophie Eleonore geboren den 22 August und getauft
+den 28 d. s. M. 1835, ihr Taufpate ist Christine Bleeke.
+
+3. Philippine Christine geboren den 18 June, getauft den 24 d. s.
+M. 1837, ihre Taufpate ist Caroline Most.
+
+Alle drei Kinder sind getauft und confirmiert in der ev. luth. Kirche zu
+Petzen, das Jüngste aber von Herrn Past. Fritze confirmiert.
+
+Genannter Johann Heinrich Krückeberg wanderte aus mit seiner Familie
+nach den Vereinigten Staaten von Nord Amerika den 13 September 1849, und
+ließ sich in hießiger Gemeinde den 21 November desselben Jahres nieder,
+der er sich auch sogleich anschloß.
+
+*English Translation*
+
+No. 2
+
+Johann Heinrich Krückeberg
+
+He was born on August 12, 1806 in Behrenbusch (Berenbusch), Principality
+Schaumburg-Lippe, and he was baptized in the evangelical Lutheran church
+in Petzen by Pastor Stille. His godparents were Gottlieb Krückeberg and
+Christian Tägtmeier, and his parents were Jobst Krückeberg and Christine
+Eleonore neé Tägtmeier. He was confirmed around Easter 1820 by Pastor
+Stille.
+
+He married the maiden Caroline Sophie Weÿland (ÿ will morph in later
+years either into Weiland [most common] or Weyland), who was born on
+January 23^rd^ 1808, baptized January 29^th^ 1808, and confirmed around
+Easter 1822. Her parents are: Fridrich Wilhelm Weÿland and Catharina neé
+Hahn. She was born in Evesen, Principality Schaumburg-Lippe. She was
+baptized, confirmed, and married by the already mentioned Pastor Stille.
+
+He and his wife had three children which were all born in Germany. Those
+are:
+
+1. Caroline Philippine Dorathee, born on February 27, 1834, and
+baptized on March 9 of the same year. Her Godparents were: Doratha
+Weÿland, Philippine Watermann, and Caroline Krückeberg.
+
+2. † Christine Sophie Eleonore, born on August 22 and baptized on
+the 28^th^ of the same month 1835. Her godmother is: Christine Bleeke.
+
+3. Philippine Christine, born on June 18, 1837, and baptized on
+the 24^th^ of the same month. Her godmother is: Caroline Most.
+
+All three children were baptized and confirmed in the evangelical
+Lutheran church in Petzen, but the youngest was confirmed by Pastor
+Fritze.
+
+The above named Johann Heinrich Krückeberg emigrated with his family to
+the United States of North America on September 13, 1849, and then
+settled in the parish here on November 21^st^ of the same year. He also
+immediately joined the church community.
+*German Transcript*
+
+page 33
+
+No. 3
+
+== Johann Heinrich Wilhelm Carl Grote
+
+Sohn von Heinrich Grote und Sophie geborene Barnekamp, geb. den 4
+November 1823 in Jenhorst, Amt Stolzen (Stolzenau), Königreich Hannover,
+get. den 9 November 1823 in der ev. luth. Kirche zu Nenndorf
+(Samtgemeinde Nenndorf) von Pastor Müller, confirmiert um Ostern 1837
+von Pastor Lindemann, ausgewandert nach den Ver. St. v. N.A. den 8 Sept.
+1849, gelandet in New York den 20 Nov. s.J., und nachdem er dort wie
+auch in Fort Wayne und in Preeple (Preble) Tow. Adams Co. Ind. eine
+Zeitlang gearbeitet hatte, verheirathete er sich den 11 Juni 1852 mit
+Jungfrau Caroline Philippine Dorathea Krückeberg dahier (siehe die
+vorige Seite, Kind 1) und ließ sich zu derselben Zeit in dieser Gemeinde
+nieder, der er sich auch alsbald anschloß.
+
+Kinder dieser Ehe sind:
+
+1. Carl Heinrich Christian, geb. den 26 Febr. u. getauft den 12
+März d. s. Jahres 1853. Taufpathen: Heinrich Krückeberg und Christian
+Bleeke
+
+2. Caroline Christine Sophie, geb. den 9 April u. getauft den 29
+April 1855. Taufpathen: Caroline Grote, Philippine Krückeberg, Leonore
+Bleeke.
+
+3. Caroline Christini, geb. den 11 Sept. u. get. den 4 October
+1857. Taufpathen: Christine Krückeberg und Philippine Schamerloh.
+
+4. Carl Wilhelm Christian, geb. den 15 Sept. u. get. den 6
+October 1860. Taufpathen: Carl Nürge und Christian Schamerloh. Gestorben
+den 2 Januar 1862.
+
+5. Wilhelmine Louise, geb. den 23 Sept und get. den 12 October
+1862. Taufpathen: Wilhelmine Nürge und Wilhelmine Weiland.
+
+6. Wilhelmine Christine, geb. den 12 März und getauft den 20
+März. 1865. Taufpathen: Wilhelmine Weiland und Caroline Schamerloh.
+
+*English Translation*
+
+page 33
+
+No. 3
+
+Johann Heinrich Wilhelm Carl Grote
+
+Son of Heinrich Grote and Sophie neé Barnekamp. He was born on 4
+November 1823 in Jenhorst, parish district of Stolzen (Stolzenau),
+Kingdom of Hannover, baptized on 9 November 1823 in the Protestant
+Lutheran Church in Nenndorf (Samtgemeinde Nenndorf) by Pastor Müller,
+and confirmed around Easter 1837 by Pastor Lindemann.
+
+He emigrated to the United States of North America on 8 Sept. 1849, and
+arrive in New York on 20 Nov. of the same year. After he worked for a
+while there as well as in Fort Wayne and in Preeple (Preble) Township,
+Adams County, Ind., he married here on 11 June 1852 the maiden Caroline
+Philippine Dorathea Krückeberg (see previous page, child No. 1). He also
+settled here at the same time and soon after joined the parish
+community.
+
+Children of this marriage are:
+
+1. Carl Heinrich Christian, born on 26 February 1853, and
+baptized on 12 March of the same year. Godparents: Heinrich Krückeberg
+and Christian Bleeke.
+
+2. Caroline Christine Sophie, born on 9 April, and baptized on 29
+April 1855. Godparents: Caroline Grote, Philippine Krückeberg, Leonore
+Bleeke.
+
+3. Caroline Christini, born on 11 September, and baptized on 4
+October 1857. Godparents: Christine Krückeberg and Philippine
+Schamerloh.
+
+4. Carl Wilhelm Christian, born on 15 September and baptized on 6
+October 1860. Godparents: Carl Nürge and Christian Schamerloh. Died on 2
+January 1862.
+
+5. Wilhelmine Louise, born on 23 Sept, and baptized on 12 October
+1862. Godparents: Wilhelmine Nürge and Wilhelmine Weiland.
+
+6. Wilhelmine Christine, born on 12 March, and baptized on 20
+March 1865. Godparents: Wilhelmine Weiland and Caroline Schamerloh.
+*German Transcript*
+
+No. 4
+
+== Conrad Dietrich Ferdinand Reinking 
+
+Sohn von Georg Wilhelm Reinking und Maria Lousie Trachtmann (could be,
+but it was written over, letters in blue are confirmed), geboren in
+Hävern, Gemeinde Windheim, Amt Petershagen, Kreis Minden, Königreich
+Preussen, den 8. Januar und getauft den 14. Januar 1827; confirmiert um
+Ostern 1841 von Pastor Köhn. Seine Taufpaten sind Conrad Reinking und
+Dietrich Bloome.
+
+Den 5.April 1844 wanderte er mit seine Eltern aus nach den Vereinigten
+Staaten von Nord-Amerika, wo selbst die den 18. Mai in New Orleag (New
+Orleans?) ankamen. Von da ging er mit ihnen nach Illinois und nachdem er
+dort und in St.Louis Mo 4 Jahre lang gewohnt, zog er nach Preeple Tow.
+Adams Co. Ind.. Im Jahre 1853 ließ er sich in hiesiger Gemeinde nieder,
+der er sich alsbald anschloß, und verheirathete sich den 26. Dezember
+1853 mit Jungfrau Maria Luise Eleonore Bleeke, siebentes Kind von Johann
+Heinrich Bleeke und Anna Margaretha geb. Volkening (siehe Seite 31, Kind
+No. 7)
+
+Kinder dieser Ehe sind:
+
+1. Mathilde Christine Louise, geb. den 5. Oktober, getauft den 3.
+November 1854. Taufpathen: Christine Bleeke und Louise Reinking.
+
+2. Heinrich Christian Wilhelm, geboren den 18. Februar und
+getauft den 2. März 1856. Pathen: Wilhelm Reinking, Johann Heinrich
+Bleeke und Christian Bleeke.
+
+3. Christine Emilie, geboren den 7. März und getauft den 28. März
+1858; gestorben den 14. April deselben Jahres.
+
+4. Christine Maria, geboren den 5. Mai und getauft den 24. Mai
+1859. Pathen: Maria Bleeke, Christine Herkmann.
+
+5. Wilhelmine Christine, geboren den 20. April und getauft den 5.
+Mai 1861. Pathen: Wilhelmine Reinking, Sophie Herkmann und Maria Bleeke.
+
+6. Caroline Christine Elisabeth, geb. den 13. Januar, und get.
+den 25. Januar 1863. Pathen: Caroline Strote und Elisabeth Bibelheimer.
+
+7. Maria Sophia Helena, geb. den 12. September und getauft den
+25. September 1864. Pathen: Bernhardine Koldeweÿ (will become Koldewei
+or Koldewey), und Maria Carolina Bleeke.
+
+*English Translation*
+
+No. 4
+
+Conrad Dietrich Ferdinand Reinking
+
+Son of Georg Wilhelm Reinking and Maria Lousie Trachtmann (could be, but
+it was written over, letters in blue are confirmed), born in Hävern,
+parish of Windheim, district of Petershagen, county of Minden, Kingdom
+of Prussia, on 8 January and baptized on 14 January 1827; confirmed
+around Easter 1841 by Pastor Köhn. His godparents are Conrad Reinking
+and Dietrich Bloome.
+
+He emigrated with his parents to the Unites States of North America on 5
+April 1844, and arrived on the 18^th^ of May in New Orleag (New
+Orleans?). From there he moved with them to Illinois, and after he lived
+there and in St. Louis, MO, for 4 years, he moved to Preeple (Preble)
+Township, Adams County, Indiana. In 1853 he settled here and, soon
+after, joined the parish community, and married on 26 December 1853 the
+maiden Maria Luise Eleonore Bleeke, 7^th^ child of Johann Heinrich
+Bleeke and Anna Margaretha neé Volkening (see page 31, child No.7)
+
+Children from this marriage are:
+
+1. Mathilde Christine Louise, born 5 October, and baptized 3
+November 1854. Godparents: Christine Bleeke and Louise Reinking.
+
+2. Heinrich Christian Wilhelm, born 18. February, and baptized 2
+March 1856. Godparents: Wilhelm Reinking, Johann Heinrich Bleeke, and
+Christian Bleeke.
+
+3. Christine Emilie, born 7 March, and baptized 28 March 1858;
+died on April 14^th^ of the same year.
+
+4. Christine Maria, born 5 May, and baptized 24 May 1859.
+Godparents: Maria Bleeke, and Christine Heckmann.
+
+5. Wilhelmine Christine, born 20. April, and baptized 5 May 1861.
+Godparents: Wilhelmine Reinking, Sophie Heckmann and Maria Bleeke.
+
+6. Caroline Christine Elisabeth, born 13 January, and baptized 25
+January 1863. Godparents: Caroline Grote and Elisabeth Bibelheimer.
+
+7. Maria Sophia Helena, born 12 September, and baptized 25
+September 1864. Godparents: Bernhardine Koldeweÿ (will become Koldewei
+or Koldewey), and Maria Carolina Bleeke.
+*German Transcript*
+
+Page 35
+
+No. 5
+
+== Heinrich Wilhelm Weÿland (in modern German, the name exists almost exclusively as Weiland)
+
+Sohn von Fridrich Wilhelm Weÿland und seiner Ehefrau Catharina eine
+geborene Hahn, geboren den 14 December 1814 in Evesen, Fürstenthum
+Schaumburg-Lippe, getauft den 19 December 1814 in der ev. luth. Kirche
+zu Petzen von Pastor Stille. Sein Taufpathe war Heinrich Sickmann. Er
+wurde confirmiert den Ostern 1828, und verheirathete sich den 15 Januar
+1840 mit Jungfrau Sophia Wilhelmine Piehl, geboren den 11 Juni 1811,
+getauft den 14 Juni 1811 in der ev. luth. Kirche zu Klein Bremen. Ihre
+Eltern waren: Wilhelm Daniel Piehl und Christine Sophie geb. Piehl.
+Confirmiert wurde sie um Ostern 1825.
+
+Kinder hatte er mit seiner genannten Ehefrau sechs, davon schon bereits
+drei in Deutschland gestorben sind. Die drei noch lebenden Kinder:
+
+1. Carl Heinrich Wilhelm, geboren den 30 Juli und getauft den 6
+August 1843. Seine Taufpathen waren: Johann Heinrich Krückeberg und Carl
+Piehl.
+
+2. Wilhelmine Christine, geboren den 5 November und getauft den
+15 November 1845. Ihre Taufpathe war Louise Dorathea Krückeberg.
+
+3. Christian Fridrich, geboren den 12ten Januar und getauft den
+16ten Februar 1851. Seine Taufpathen sind Fridrich Bleeke und Christian
+Bleeke.
+
+Oben genannter Heinrich Wilhelm Weÿland wanderte aus mit seiner Familie
+nach den Vereinigten Staaten von Nord-Amerika den 13ten September 1849,
+und ließ sich in hießiger Gemeinde den 21ten November desselben Jahres
+nieder, der er sich auch sogleich anschloß.
+
+*English Translation*
+
+Page 35
+
+No. 5
+
+Heinrich Wilhelm Weÿland (in modern German, the name exists almost
+exclusively as Weiland)
+
+Son of Fridrich Wilhelm Weÿland and his wife Catharina neé Hahn. He was
+born on 14 December 1814 in Evesen, Principality of Schaumburg-Lippe,
+and baptized on 19 December 1814 in the Protestant Lutheran Church in
+Petzen by Pastor Stille. His godfather was Heinrich Sickmann. He was
+confirmed Easter 1828. He married on 15 January 1840 the maiden Sophia
+Wilhelmine Piehl, who was born on 11 June 1811, and baptized on 14 June
+1811 in the Protestant Lutheran Church in Klein Bremen. Her parents
+were: Wilhelm Daniel Piehl and Christine Sophie neé Piehl. She was
+confirmed Easter 1825.
+
+He and his wife had 6 children, 3 of which already died in Germany. The
+other 3 children that are still alive are:
+
+1. Carl Heinrich Wilhelm, born on 30 July, and baptized on 6
+August 1843. His Godparents were: Johann Heinrich Krückeberg and Carl
+Piehl.
+
+2. Wilhelmine Christine, born on 5 November and baptized on 15
+November 1845. Her Godmother was Louise Dorathea Krückeberg.
+
+3. Christian Fridrich, born on the 12^th^ of January, and
+baptized on the 16^th^ of February 1851. His Godparents are Fridrich
+Bleeke and Christian Bleeke.
+
+The above named Heinrich Wilhelm Weÿland emigrated with his family to
+the Unites States of North America on 13 September 18496. He settled in
+the local parish on November 21^st^ of the same year and immediately
+joined the parish community.
+*German Transcript*
+
+page 36
+
+No. 6
+
+== Johann Andreas Thieme
+
+Sohn von Johann Andreas Thieme und Johanne Rosine geb. Haugk, geboren
+den 2 Januar und getauft im selben Monat 1833 zu Niederfranken
+(Niederfrankenhain) bei Gaitham (Geithain), Königreich Sachsen. Getauft
+in der ev. luth. Kirche zu Niederfranken (Niederfrankenhein),
+desgleichen auch confirmiert in derselben Kirche von Pastor Voigt um
+Michaelis 1846. Seine Taufpathen waren Gotthelf Hammer und Fridrich
+August Haugk.
+
+Er wanderte aus nach den Vereinigten Staaten von Nord-Amerika im August
+1855, und kam am 28 September desselben Jahres in Fort Wayne Ind. an.
+Nachdem er daselbst etwa 4 Wochen gearbeitet, kam er hierher in hiesige
+Gemeinde der er sich auch alsobald anschloß.
+
+Am 31 Mai 1856 verheirathete er sich hieselbst mit Jungfrau Christine
+Sophie Eleonore Krückeberg, der 2ten Tochter von Johann Heinrich
+Krückeberg und Caroline Sophie neé Weÿland, (siehe Seite 32, Kind No. 2)
+
+Kinder dieser Ehe sind:
+
+(insert in pencil on the side: Carl Wilhelm Christian, see baptismal
+register No. 17)
+
+1. Johann Fridrich, geboren den 1 Okober und getauft den 10
+Oktober 1858. SeineTaufpathen sind: Johann Gottlieb Thieme und Heinrich
+Krückeberg
+
+2. Fridrich Wilhelm, geboren den 16 Juli und getauft den 29 Juli
+1860. Seine Taufpathen sind: Wilhelm Weiland und Carl Krückeberg.
+
+3. Caroline Sophie Louise, geboren den 18 Februar und getauft den
+2 März 1862. Ihre Taufpathen sind: Caroline Grote und Sophie Thieme
+
+4. Christine Marie, geboren den 23 Januar und getauft den 7
+Februar 1864. 1863. Ihre Taufpathen sind: Philippine Caroline Schamerloh
+und Maria Bleeke.
+
+5. Caroline Philippine, geboren den 20 Oktober und getauft den 29
+Oktober 1865. Ihre Taufpathen sind: Philippine Weÿland und Philippine
+Christine Koldewey.
+
+*English Translation*
+
+page 36
+
+No. 6
+
+Johann Andreas Thieme
+
+Son of Johann Andreas Thieme and Johanne Rosine neé. Haugk, born in
+Niederfranken (Niederfrankenhain) near Gaitham (Geithain), Kingdom of
+Saxonia, on 2 January 1833. He was baptized in the same month at the
+Protestant Lutheran Church in Niederfranken (Niederfrankenhein). He was
+confirmed in the same church by Pastor Voigt at Michaelmas 1846. His
+godparents were Gotthelf Hammer and Fridrich August Haugk.
+
+He emigrated to the United States of North America in August 1855, and
+arrived on September 28^th^ of the same year in Fort Wayne, IN. After he
+worked there for 4 weeks, he arrived here and, soon after, joined the
+parish community.
+
+On 31 Mai 1856, he married the maiden Christine Sophie Eleonore
+Krückeberg, the 2^nd^ daughter of Johann Heinrich Krückeberg and
+Caroline Sophie neé Weÿland (see page 32, child No. 2).
+
+Children from this marriage are:
+
+1. Johann Fridrich, born on 1 October, and baptized on 10 October
+1858. His godparents are: Johann Gottlieb Thieme and Heinrich
+Krückeberg.
+
+2. Fridrich Wilhelm, born on 16 July and baptized on 29 July
+1860. His godparents are: Wilhelm Weiland and Carl Krückeberg.
+
+3. Caroline Sophie Louise, born on 18 February, and baptized on 2
+March 1862. Her godparents are: Caroline Grote and Sophie Thieme.
+
+4. Christine Marie, born on 23 January, and baptized on 7
+February 1864. 1863. Her godparents are: Philippine Caroline Schamerloh
+and Maria Bleeke.
+
+5. Caroline Philippine, born on 20 October, and baptized on 29
+October 1865. Her godparents are: Philippine Weÿland and Philippine
+Christine Koldewey.
+*German Transcript*
+
+No. 7
+
+== Carl Fridrich Wilhelm Bleeke
+
+dritter Sohn von Johann Heinrich Philipp Bleeke und Christine Marie geb.
+Schwier, geb. den 30. November und getauft den 4. Dezember 1825 (siehe
+Seite 31, Kind No.4). Er verheiratete sich hierselbst mit Maria
+Bibelheimer, eine Tochter von David Daniel Bibelheimer und Maria geb.
+Zähner, geboren in Wespen Tow. (West Penn?) Shulkil (Schuylkill) Co. Pa.
+den 12. Dezember 1833, getauft den 1. January 1834. Taufpathen: David
+Werdmann und dessen Frau Catharina. Confirmiert von Pastor Fritze den 28
+Juli 1852, copuliert von demselben den 26. Dezember 1853.
+
+Kinder dieser Ehe sind:
+
+1. Friedrich Wilhelm, geb. den 13. April u. get. den 29. April
+1855. Pathen: Johann Heinrich Bleeke, Christian Fridrich Bleeke und
+Wilhelm Heckmann.
+
+2. Maria Christine Caroline, geb. den 4. Dezember u. get. den 7.
+Dezember 1856. Pathen: Maria Louise Eleoenore Reinking und Caroline
+Scheumann. gest. den 18. Oktober 1857.
+
+3. Maria Louise, geb. den 4. März u. get. den 28. März 1858.
+Pathen: Maria Bibelheimer und Sophie Heckmann.
+
+4. Caroline Elisabeth, geb. den 1. November u. get. den 20.
+November 1859. Pathen: Elisabeth Bibelheimer und Maria Bleeke
+
+5. Christine Emilie, geb. den 8. September u. get. den 29
+September 1861. Pathen: Christine Maria Heckmann und Caroline Scheumann.
+
+6. Christian Eduard, geb. den 5. November und get. den 29. Nov.
+1863. Pathen: Chr. Fridrich Bleeke, David Daniel Bibelheimer und Carl
+Heckmann.
+
+7. Henriette Helene, geb. den 29. Oktober und getauft den 12.
+November 1865. Pathen: Louise Maria Eleonore Reinking und Henriette
+Schnellenberger.
+
+*English Translation*
+
+No. 7
+
+Carl Fridrich Wilhelm Bleeke
+
+Third son of Johann Heinrich Philipp Bleeke and Christine Marie neé
+Schwier. He was born on the 30^th^ of November and baptized on December
+4^th^ 1825 (see page 31, child No.4). He married here Maria Bibelheimer,
+a daughter of David Daniel Bibelheimer and Maria neé Zähner. She was
+born in Wespen Township (West Penn?) Shulkil (Schuylkill) County, PA, on
+December 12^th^ 1833, and baptized on January 1^st^ 1834. Godparents:
+David Werdmann and his wife Catharina. She was confirmed by Pastor
+Fritze on July 28^th^ 1852, and married by the same on December 26^th^
+1853.
+
+Children from this marriage are:
+
+1. Friedrich Wilhelm, born on 13 April, and baptized on 29 April
+1855. Godparents: Johann Heinrich Bleeke, Christian Fridrich Bleeke, and
+Wilhelm Heckmann.
+
+2. Maria Christine Caroline, born on 4 December, and baptized on
+7 December 1856. Godparents: Maria Louise Eleoenore Reinking and
+Caroline Scheumann. She died on 18 October 1857.
+
+3. Maria Louise, born on 4 March, and baptized on 28 March 1858.
+Godparents: Maria Bibelheimer and Sophie Heckmann.
+
+4. Caroline Elisabeth, born on 1 November, and baptized on 20
+November 1859. Godparents: Elisabeth Bibelheimer and Maria Bleeke
+
+5. Christine Emilie, born on 8 September, and baptized on 29
+September 1861. Godparents: Christine Maria Heckmann and Caroline
+Scheumann.
+
+6. Christian Eduard, born on 5 November, and baptized on 29 Nov.
+1863. Godparents: Chr. Fridrich Bleeke, David Daniel Bibelheimer, and
+Carl Heckmann.
+
+7. Henriette Helene, born on 29 October, and baptized on 12
+November 1865. Godparents: Louise Maria Eleonore Reinking and Henriette
+Schnellenberger.
+*German Transcript*
+
+No. ?
+
+== Carl Heinrich Wilhelm Krückeberg
+
+Sohn von Carl Gottlieb Krückeberg und Dorathea geb. Weiland geboren in
+Bernbursch (Berenbusch) Amt Bückeburg Fürstenthum Schaumburg-Lippe den 1
+Februar und getauft im selben Monat 1835, confirmiert am Sonntage
+Palmarum 1849 von Pastor Schwertmann.
+
+Er wanderte mit seinen Eltern aus nach den Vereinigten Staaten von N.A.
+den 1 Oktober 1850, und kam an in Fort Wayne Ind. den 26 November
+desselben Jahres *. Verheirathete sich mit Jungfrau Caroline Wilhelmine
+Kleinschmidt den 28 Januar 1860, eine Tochter von Christian Kleinschmidt
+und Sophie, geb. den 13 Sept 1834 in Groten-Hirse (now: Großenheerse)
+Amt Petershagen, Kreis Minden, Königr. Preusen und getauft in der evang.
+Kirche Buchholz von Past. Köhn; confirmiert am Sonntage Palmarum
+18(blank) von Pastor Jäbker in Preeble Tow. Adams Co. Ind.
+
+Kinder dieser Ehe sind:
+
+1. Friedrich Christian Wilhelm, geb. den 30 Sept. und get. den 6
+October 1860. Taufpaten: Wilhelm Schamerloh und Christian Kleinschmidt
+
+2. Sophie Louise, geb. den 2 Juli und get. den 14 Juli 1862.
+Pathen: Philippine Schamerloh und Sophie Beeck (or Buuck)
+
+3. Louise Wilhelmine Sophie, geb. den 10 Juli 1864 und getauft
+den 17 Juli d.J. Pathen: Caroline Schamerloh und Emma Belz
+
+* (blank space)
+
+*English Translation*
+
+No. ?
+
+Carl Heinrich Wilhelm Krückeberg
+
+Son of Carl Gottlieb Krückeberg and Dorathea neé Weiland. He was born in
+Bernbursch (Berenbusch), county of Bückeburg, Principality
+Schaumburg-Lippe, on February the 1^st^ 1835 and baptized the same
+month. He was confirmed by Pastor Schwertmann on Palm Sunday 1849.
+
+He emigrated with his parents to the United States of North America on
+October 1^st^ 1850 and arrived in Fort Wayne, Indiana, on November
+26^th^ of the same year*.
+
+He married the maiden Caroline Wilhelmine Kleinschmidt on January 28,
+1860. She is a daughter of Christian Kleinschmidt and Sophie. She was
+born on September 13, 1834 in Groten-Hirse (now: Großenheerse) county
+Petershagen, district Minden, Kingdom of Prussia, and was baptized in
+the protestant church in Buchholz by Pastor Köhn. She was confirmed on
+Palm Sunday 18(blank) by Pastor Jäbker in Preeble (Preble) Township,
+Adams County, Indiana.
+
+Children of this marriage are:
+
+1. Friedrich Christian Wilhelm, born on September 30 and baptized
+on October 6, 1860. Godparents: Wilhelm Schamerloh and Christian
+Kleinschmidt
+
+2. Sophie Louise, born on July 2 and baptized on July 14 1862.
+Godparents: Philippine Schamerloh and Sophie Beeck (or Buuck)
+
+3. Louise Wilhelmine Sophie, born on July 10, 1864, and baptized
+on July 17 of the same year. Godparents: Caroline Schamerloh and Emma
+Belz
+
+* (blank space)
+*[.underline]#German Transcript#*
+
+No. 9
+
+== Carl Dietrich Wilhelm Schamerloh
+
+ehelicher Sohn des Colon Heinrich Christian Schamerloh und dessen
+Ehefrau Catharina Margaretha geb. Poos, geboren zu Buchholz (Buchholz
+bei Stadthagen, Schaumburg) Fürtsenthum Schaumburg-Lippe den 31.
+Dezember 1823 und getauft den 11. Januar 1824, confirmiert am Sonntage
+Palmarium 1838. Er wanderte aus nach den Vereinigten Staaten von
+Nord-Amerika den 6. Mai 1851, und kam am 4. Juli deselben Jahres in Fort
+Wayne Ind. an. Verheirathete sich in hiesiger Gemeinde den 30. April
+1857 mit Jungfrau Caroline Philippine Krückeberg, eheliches 2tes Kind
+und 1ste Tochter von Carl Fridrich Krückeberg und seiner Ehefrau Louise
+Dorathea neé Weiland, geb. in Beerenbusch (Berenbusch) Fürstenthum
+Schaumburg-Lippe, den 15ten Oktober und getauft den 22ten Oktober 1837,
+confirmiert um Ostern 1851.
+
+Kinder dieser Ehe sind:
+
+[This is a left margin pencil-in comment, written before the childrens
+names: _Carl Wilhelm Christian, see Taufregister No. 17_)
+
+1. Louise Sophie Caroline, geb. den 10. April, getauft den 15ten
+April 1860. Taufpathen: Caroline Schamerloh und Caroline Krückeberg.
+
+2. Caroline Wilhelmine, geboren den 12. Januar und getauft den
+20. Januar 1862. Pathen: Wilhelmine Weiland und Caroline Grote.
+
+3. Heinrich Wilhelm, geboren den 19. März und getauft den 26.
+März 1865. Taufpathen: Heinrich Krückeberg und Wilhelm Weiland
+
+4. Sophie Wilhelmine, geboren den 20. Oktober und getauft den 31.
+Oktober 1863. Pathen: Wilhelmine Weiland und Louise Heckmann
+
+*[.underline]#English Translation#*
+
+Nr. 9
+
+Carl Dietrich Wilhelm Schamerloh
+
+legitimate son of the landowner Heinrich Christian Schamerloh and his
+wife Catharina Margaretha neé Poos, born in Buchholz (Buchholz near
+Stadthagen, Schaumburg), Principality of Schaumburg-Lippe, on 31
+December 1823, baptized on 11 January 1824, and confirmed on Palm Sunday
+1838.
+
+He emigrated to the Unites States of North America on 6 May 1851, and
+arrived on the 4^th^ of July of the same year in Fort Wayne, IN.
+
+He married in the local community on 30 April 1857 the maiden Caroline
+Philippine Krückeberg, born in Beerenbusch (Berenbusch), Principality of
+Schaumburg-Lippe, on October the 15^th^ and baptized on 22 October 1837.
+She was confirmed around Easter 1851. She is the legitimate 2^nd^ child
+and 1^st^ daughter of Carl Fridrich Krückeberg and his wife Louise
+Dorathea neé Weiland.
+
+Children from this marriage are:
+
+(insert in pencil on the side: Carl Wilhelm Christian, see baptismal
+register Nr. 17)
+
+1. Louise Sophie Caroline, born on 10 April, baptized on 15 April
+1860. Godparents: Caroline Schamerloh and Caroline Krückeberg.
+
+2. Caroline Wilhelmine, born on 12 January, baptized on 20
+January 1862. Godparents: Wilhelmine Weiland and Caroline Grote.
+
+3. Heinrich Wilhelm, born on 19 March, baptized 26 March 1865.
+Godparents: Heinrich Krückeberg and Wilhelm Weiland
+
+4. Sophie Wilhelmine, born on 20 October, baptized 31 October
+1863. Godparents: Wilhelmine Weiland and Louise Heckmann
+*German Transcript*
+
+No. 10
+
+== Christian Fridrich Bleeke
+
+zweiter Sohn von Johann Heinrich Philipp Bleeke und Christine Marie neé
+Schwier, geb. den 7. Mai und get. den 13. Mai 1821 (siehe Seite 31, Kind
+No.2). Er verheiratete sich den 9. August 1849 mit Jungfrau Louise
+Valsing, eine Tochter von Friderich Valsing und seiner Ehefrau Louise
+geb. (in pencil: Kleinschmidt Friedheim) den 28. Juni 1833, und get. den
+[empty] August 1833. Geb. in Loh (now: Am Loh) Kreis Minden, Königreich
+Preussen.
+
+Kinder dieser Ehe sind:
+
+1. Marie Louise, geb. den 14. November u. get. den 8.Dezember
+1850. Pathen: Wilhelmine Zwick und Sophie Heckmann.
+
+2. Sophie Louise, geb. den 27. März und get. den 28. März 1853.
+Pathen: Christine Bleeke, Christine E. Bleeke und Louise Valsing.
+
+3. Johann Heinrich, geb. den 17. Februar u. get. den 25. Februar
+1855. Pathen: Johann Heinrich Bleeke und Friedrich Valsing.
+
+Im Jahre darauf ging die Mutter dieser Kinder nach kurzem Leiden am
+Nervenfieber ein zu ihres Herrn Freude. Ihm Jahre 1858 den 8 April
+verheirathete genannter Chr. Fr. Bleeke sich zum andern Male mit
+Jungfrau: Anna Maria Rup, eine Tochter von Rup und [empty] geb. den 11.
+Sept. 1833 u. get. [empty], ( note in pencil: died 26 Nov. 1989), in
+[empty] Co, Ohio confirmiert.
+
+1. Christine Elise, geb. den 1. Februar u. get. den 27 Februar
+1859. Pathen: Elisabeth Rup u. Christine Heckmann, gest. den 6 April
+1861
+
+2. Maria Elise, geb. den 23 Juni u. get. den 8 Juli 1860. Pathen:
+Maria Reinking und Sahra Rup.
+
+3. Carl Friedrich, geb. den 1 Oktober u. get. den 9 Oktober 1863.
+Pathen: Carl Zwick und Carl Heckmann.
+
+4. Friedrich Wilhelm, geb. den 2 Oktober u. get. den 9 Oktober
+1863. Pathen: C. Friedrich Wilhelm Bleeke und Ferdinand Reinking.
+
+5. Johannes Martin, geb. den 27 Juli u. get. den 13 September
+1865. Pathen: Wilhelm Fells und Wilhelm Heckmann.
+
+*English Translation*
+
+No. 10
+
+Christian Fridrich Bleeke
+
+2^nd^ son of Johann Heinrich Philipp Bleeke and Christine Marie neé
+Schwier, born on 7 May and baptized on 13 May 1821 (see page 31, child
+No.2). He married 9 August 1849 the maiden Louise Valsing, a daughter of
+Friderich Valsing and his wife Ehefrau Louise neé (in pencil:
+Kleinschmidt Friedheim), who was born 28 June 1833, and baptized [empty]
+August 1833. She was born in Loh (now: Am Loh) county of Minden, Kingdom
+of Prussia.
+
+Children from this marriage are:
+
+1. Marie Louise, born 14 November, and baptized 8 December 1850.
+Godparents: Wilhelmine Zwick and Sophie Heckmann.
+
+2. Sophie Louise, born 27 March and baptized 28 March 1853.
+Godparents: Christine Bleeke, Christine E. Bleeke, and Louise Valsing.
+
+3. Johann Heinrich, born 17 February, and baptized 25 February
+1855. Godparents: Johann Heinrich Bleeke and Friedrich Valsing.
+
+In the following year, after a short period of suffering from nervous
+fever (usually typhoid fever), the mother of these children went home to
+her Lord and was joyfully received by Him. On April 8, 1858, the above
+mentioned Chr. Fr. Bleeke married again. He married the maiden Anna
+Maria Rup, a daughter of [empty] Rup and [empty]. She was born 11
+September 1833, and baptized [empty], in [empty] County, Ohio, and
+confirmed [empty]. (note in pencil: died 26 Nov. 1889),
+
+1. Christine Elise, born 1 February, and baptized 27 February
+1859. Godparents: Elisabeth Rup and Christine Heckmann; died 6 April
+1861.
+
+2. Maria Elise, born 23 June, and baptized 8 July 1860.
+Godparents: Maria Reinking and Sahra Rup.
+
+3. Carl Friedrich, born 1 October, and baptized 9 October 1863.
+Godparents: Carl Zwick and Carl Heckmann.
+
+4. Friedrich Wilhelm, born 2 October, and baptized 9 October
+1863. Godparents: C. Friedrich Wilhelm Bleeke and Ferdinand Reinking.
+
+5. Johannes Martin, born 27 July, and baptized 13 September 1865.
+Godparents: Wilhelm Fells and Wilhelm Heckmann.
+German Transcript
+
+No. 11(?)
+
+== Carl Heinrich Ludwig Koldeweÿ (will become Koldewei or Koldewey)
+
+Ehelicher Sohn von Johann Heinrich Christoph Koldeweÿ und Sophie Mare
+Eleonore geborene Cordes, geboren zu Hanstedt, Königreich Hannover den
+31 März 1835, und getauft den 5 April 1835. Seine Taufpathen sind Carl
+Kemann, Ludwig Schröder und Gerhard Schröder. Er wurde confirmiert am
+Sonntage Palmarum 1849, und wanderte im Jahre 1856 aus nach den
+Vereinigten Staaten von Nord-Amerika, woselbst er den 29 November s.
+Jahres kam, zog bald hierher und schloß sich dieser Gemeinde an. Er
+verheirathete sich den 10 Mai 1861 mit Jungfrau Louise Sophie Tiemann,
+eheliche Tochter von Johann Friedrich Winkelmann und Anna Maria Tiemann,
+geboren zu Stemshorn Königreich Hannover den 21 Oktober 1841 und getauft
+den 31 Oktober desselben Jahres, confirmiert am Sonntage Palmarum 1855.
+
+Kinder dieser Ehe sind:
+
+1. Fridrich Heinrich, geboren den 9 Januar und getauft den 19
+Januar 1862. Pathen: Johann Heinrich Bleeke und Fridrich Koldeweÿ.
+
+2. Emma Maria Catharina, geboren den 23 December und getauft den
+25 December 1863. Pathen: Maria Tiemann und Catharina Koldeweÿ.
+
+3. Louise Maria, geborene den 22 Januar und getauft den 28 Januar
+1866. Pathen: Louise Wittfeld und Maria Thile.
+
+*English Translation*
+
+No. 11(?)
+
+Carl Heinrich Ludwig Koldeweÿ (will become Koldewei or Koldewey)
+
+Legitimate son of Johann Heinrich Christoph Koldeweÿ and Sophie Mare
+Eleonore neé Cordes, born in Hanstedt, Kingdome of Hannover on 31 March
+1835, and baptized on 5 April 1835. His godparents are Carl Kemann,
+Ludwig Schröder, and Gerhard Schröder. He was confirmed on Palm Sunday
+1849.
+
+He emigrated to the Unites States of North America in 1856 where he
+arrived on 29 November of the same year. Eventually he moved here and
+joined the parish community.
+
+He married on 10 Mai 1861 the maiden Louise Sophie Tiemann, legitimate
+daughter of Johann Friedrich Winkelmann and Anna Maria Tiemann. She was
+born in Stemshorn, Kingdom of Hannover on 21 October 1841 and was
+baptized on 31 October of he same year, and confirmed on Palm Sunday
+1855.
+
+Children of this marriage are:
+
+1. Fridrich Heinrich, born on 9 January, and baptized on 19
+January 1862. Godparents: Johann Heinrich Bleeke and Fridrich Koldeweÿ.
+
+2. Emma Maria Catharina, born on 23 December, and baptized on 25
+December 1863. Godparents: Maria Tiemann and Catharina Koldeweÿ.
+
+3. Louise Maria, born on 22 January, and baptized on 28 January
+1866. Godparents: Louise Wittfeld and Maria Thile.
+*German Transcript*
+
+No. ?
+
+== Jakob Stöhr
+
+ehelicher Sohn von Fridrich Jakob Stöhr und Margaretha neé Kern geboren
+in Ronbach Reinbeiern Königreich Bayern den 22ten März 1830, getauft im
+selben Monat. Taufpathe: Fridrich Stöhr. Confrmiert am Palmensonntag
+1843. Er wanderte aus mit seinen Eltern nach den Vereinigten Staaten von
+Nord-Amerika den 4 Mai 1852 und kam an in Mansfield Ohio den 17 Juli
+1852. Und nachdem er im Staate Ohio 6 ½ gewohnt, ließ er sich in
+hiesiger Gegend im Februar 1859 nieder woselbst er sich sogleich dieser
+Gemeinde anschloß. Er verheiratete sich den 19 Januar 1857 mit Elisabeth
+Mitteldorf, eine Tochter von Bernhard Mitteldorf und Gertraud neé
+Bechhold geb. in Buchholz Königreich Preussen den 22 Februar 1838 get im
+selben Monat , confirmiert [empty]
+
+Im Jahre 1845 wanderte sie mit ihren Eltern aus nach den Vereinigten
+Staaten von Nord-Amerika.
+
+*English Translation*
+
+No. ?
+
+Jakob Stöhr
+
+Legitimate son of Fridrich Jakob Stöhr and Margaretha neé Kern, born in
+Ronbach Reinbeiern, Kingdom of Bavaria, on 22 March 1830. He was
+baptized in the same month. Godfather: Fridrich Stöhr. Confirmed on Palm
+Sunday 1843.
+
+He emigrated with his parents to the United States of North America on 4
+May 1852, and arrived in Mansfield, Ohio, on 17 July 1852. After he had
+lived in the state of Ohio for 6 ½ years, he settled in the area around
+here in February 1859, upon which he immediately joined the parish. He
+married on 19 January 1857 Elisabeth Mitteldorf, a daughter of Bernhard
+Mitteldorf and Gertraud neé Bechhold. She was born in Buchholz, Kingdom
+of Prussia, on 22 February 1838, baptized in the same month, and
+confirmed [empty]. She emigrated with her parents in 1845 to the United
+States of North America.
+German Transcript
+
+No. ?
+
+== Christian Dietrich Schamerloh
+
+ehelicher Sohn des Colon Heinrich Christian Schamerloh und dessen
+Ehefrau Catharina Margaretha geb. Poos (No. 20) zu Buchholz (Buchholz
+bei Stadthagen, Schaumburg) Fürtsenthum Schaumburg-Lippe, ist am 15.
+Februar 1831 geboren und am 20. Februar desselben Jahres getauft worden,
+konfirmiert am Sonntag nach Ostern 1845. Er wanderte aus nach den
+Vereinigten Staaten von Nord-Amerika den 6. Mai 1851, und kam in Fort
+Wayne Ind. an den 4. Juli 1851, verheirathete sich den 6. Mai 1859 in
+hiesiger Gemeinde mit Caroline Philippine Sophie Krückeberg, eine
+Tochter von Carl Gottlieb Krückeberg und Dorothea geb. Weiland, geb. in
+Bernbusch (Berenbusch) Amt Bückeburg, Fürstenthum Schaumburg-Lippe, den
+8. September und getauft den 13. September 1840, confirmiert am Sonntag
+Palmarum 1854.
+
+Kinder dieser Ehe sind:
+
+1. Carl Friedrich Wilhelm, geb. den 19. September und getauft den
+1. Oktober 1854. Pathen: Carl Dietrich Wilhelm Schamerloh und Carl
+Heinrich Wilhelm Krückeberg
+
+†2. Heinrich, geboren den 2. Mai 1861, empfing die Nottaufe und starb 2
+Tage darauf den 4. Mai 1861.
+
+†3. Caroline Wilhelmine Louise, geboren den 18. März und getauft den 23.
+März 1862. Pathen: Caroline Philippine Schamerloh und Caroline
+Wilhelmine Krückeberg.
+
+4. Heinrich Christian Wilhelm, geboren den 26. September und
+getauft den 4. Oktober 1863. Pathen: Heinrich Krückeberg und Wilhelm
+Weiland.
+
+5. Caroline Sophie, geboren den 25. Februar, empfing die Nottaufe
+und starb zwei Tage darauf den 27. Februar 1865.
+
+*English Translation*
+
+No. ? (3 or 13?)
+
+Christian Dietrich Schamerloh
+
+legitimate son of the landowner Heinrich Christian Schamerloh and his
+wife Catharina Margaretha neé Poos (No. 20), born in Buchholz (Buchholz
+near Stadthagen, Schaumburg), Principality of Schaumburg-Lippe, on 15
+February 1831, baptized on February the 20^th^ of the same year, and
+confirmed on Sunday after Easter 1845
+
+He emigrated to the Unites States of North America on 6 May 1851, and
+arrived on the 4^th^ of July of the same year in Fort Wayne, IN.
+
+He married in the local community on 6 May 1859 Caroline Philippine
+Sophie Krückeberg, a daughter of Carl Gottlieb Krückeberg and Dorathea
+neé Weiland, born in Berenbusch, district of Bückeburg, Principality of
+Schaumburg-Lippe, on September the 8^th^ and baptized on 13 September
+1840, confirmed on Palm Sunday 1854.
+
+Children from this marriage are:
+
+1. Carl Friedrich Wilhelm, born 19 September, and baptized 1
+October 1854. Godparents: Carl Dietrich Wilhelm Schamerloh and Carl
+Heinrich Wilhelm Krückeberg
+
+†2. Heinrich, born 2. Mai 1861, received emergency baptism, and died 2
+days later on the 4^th^ of May 1861.
+
+†3. Caroline Wilhelmine Louise, born 18 March, and baptized 23 March
+1862. Godparents: Caroline Philippine Schamerloh and Caroline Wilhelmine
+Krückeberg.
+
+4. Heinrich Christian Wilhelm, born 26 September, and baptized 4
+October 1863. Godparents: Heinrich Krückeberg and Wilhelm Weiland.
+
+5. Caroline Sophie, born 25 February, received emergency baptism,
+and died 2 days later on the 27^th^ of February 1865.
+*German Transcript*
+
+page ??
+
+No. ?
+
+== Jacob Fridrich Höringer
+
+[While “Jacob Fridrich Höriger“ appears at the top of this page
+(just like all the other biographies), the page has no other text
+whatsoever]
+German Transcript
+
+== Heinrich Jacob Rücklos (sen)
+
+ehelicher Sohn von [empty] Rücklos und [empty].
+
+Geboren in Rumbach, Kanton Dahn, Rein-Pfalz, Königreich Baiern, den 16
+November und getauft im selben Monat 1833, confirmiert am Sonntag
+Palmarum 1847. Im Frühling des Jahres 1856 wanderte er aus nach den
+Vereinigten Staaten von Nord-Amerika, und nachdem er noch einmal seine
+alte Heimat 1859 besucht und im darauf folgenden Jahr er wieder hierhin
+zurückgekehrt war, verheirathete er sich mit Jungfrau Friderike Dauer,
+geboren in Bergzabern Königreich Bayern den 17 Mai 1841, getauft im
+selben Monat 1841, confirmiert am Sonntage Palmarum 1855. Anno 1860 kam
+sie nach Amerika.
+
+Kinder dieser Ehe sind:
+
+1. Elisabetha, geboren den 14 Juli und getauft den 18 Juli 1861.
+Pathen: [empty]
+
+2. Friedrich Jakob, geboren den 2 Mai und getauft den 16 Mai
+1864. Pathen [empty]
+
+*English Translation*
+
+Heinrich Jacob Rücklos (senior)
+
+Legitimate son of [empty] Rücklos and [empty].
+
+He was born in Rumbach, district of Dahn, Rein-Pfalz
+(Rhineland-Palatinate), Kingdom of Bavaria, on 16 November 1833, and
+baptized in the same month. He was confirmed on Palm Sunday 1847. In the
+spring of 1856, he emigrated to the United States of North-America.
+After he visited his old homeland once more in 1859 and returned back
+here the following year, he married the maiden Friderike Dauer, who was
+born in Bergzabern, Kingdom of Bavaria on 17 May 1841, baptized in the
+same month of 1841, and confirmed on Palm Sunday 1855. She came to
+America in 1860.
+
+Children from this marriage are:
+
+1. Elisabetha, born on 14 July, and baptized on 18 July 1861.
+Godparents: [empty]
+
+2. Friedrich Jakob, born on 2 May, and baptized on 16 May 1864.
+Godparents [empty]
+*German Transcript*
+
+== Heinrich Jacob Rücklos (jun)
+
+ehelicher Sohn von Heinrich Jacob Rücklos und Elisabeth, eine geborene
+Stöhr, geboren in Rumbach, Kanton Dahn, Rein-Pfalz, Königreich Baiern,
+den 28 Januar und getauft im darauf folgenden Monat 1842. Er wanderte er
+aus mit seinen Eltern nach den Vereinigten Staaten von Nord-Amerika im
+May 1852, und verheirathete er den 16 April 1863 mit Jungfrau Anna
+Elisabeth Hoffmann, geboren den 12 Juni und getauft im selben Monat 1842
+in Bärweiler, Hessen Homburg. Ihre Eltern sind Philipp Peter Hoffmann
+und Maria Elisabeth eine geb. Wendel.
+
+Kinder dieser Ehe sind
+
+1. Ludwig Wilhelm, geboren den 11 Januar und getauft den 7
+Februar 1864. Pathen: Johann H. Bleeke und Georg P. Germann.
+
+*English Translation*
+
+Heinrich Jacob Rücklos (junior)
+
+Legitimate son of Heinrich Jacob Rücklos and Elisabeth neé Stöhr, born
+in Rumbach, district of Dahn, Rein-Pfalz (Rhineland-Palatine), Kingdom
+of Bavaria, on 28 January 1842, and baptized the following month.
+
+He emigrated with his parents to the United States of North-America in
+May 1852. He married on 16 April 1863 the maiden Anna Elisabeth
+Hoffmann, who was born on 12 June 1842 and baptized in the same month.
+She was born in Bärweiler, Principality of Hesse-Homburg. Her parents
+are Philipp Peter Hoffmann and Maria Elisabeth neé Wendel.
+
+Children from this marriage are:
+
+1. Ludwig Wilhelm, born on 11 January and baptized on 7 February
+1864. Godparents: Johann H. Bleeke and Georg P. Germann.
+*German Transcript*
+
+page ??
+
+No. ?
+
+== Christain Wilhelm Fells
+
+[While “Christain Wilhelm Fells“ appears at the top of this page
+(just like all the other biographies), the page has no other text
+whatsoever]
+*German Transcript*
+
+== Abraham Stendler
+
+Ehelicher Sohn von Jakob Stendler und Maria Elisabeth geborene Alexander
+geboren in Klingen Kanton Bergzabern Königreich Bayern den 22 November
+und getauft im selben Monat 1831, konfirmiert im März 1845. Er wanderte
+ein in dieses Land im März 1860, arbeitete anfangs in Ohio, zog alsdann
+hierher woselbst er sich alsbald der Gemeinde anschloß, und
+verheirathete sich den 30 December 1862mit Jungfrau Maria Belz, eine
+Tochter von Peter Belz und Elisabeth geb. Bibelheimer, geboren in
+West-Penn to Schuylkill Co. Pa. den 2 Juli 1838, confirmiert den 4 Apr
+1852.
+
+*English Translation*
+
+Abraham Stendler,
+
+legitimate son of Jakob Stendler and Maria Elisabeth neé Alexander, was
+bon in Klingen, Kanton (district) Bergzabern, in the Kingdom of Bavaria,
+on November 22^nd^ 1831. He was baptized in the same month. He was
+confirmed in March 1845.
+
+He immigrated in this country in March of 1860. He first worked in Ohio
+but then later moved here, were he joined the community (parish) and
+married on December 30^th^ 1862 the maiden Maria Belz, a daughter of
+Peter Belz and Elisabeth neé Bibelheimer. Maria Belz had been born on
+July 2^nd^ 1838 in West Pennsylvania, in Schuylkill County, Pa. She was
+confirmed on April 4^th^ 1852.
+*German Transcript*
+
+No.19
+
+== Georg Conrad Wilhelm Reinking 
+
+Sohn von Johann Friedrich Conrad Reinking und Maria Elisabeth geb.
+Engelking, geb. den 8 Juli 1796 und get. im selben Monat desselben
+Jahres. Geboren in Hävern, Gemeinde Windheim, Kreis Minden, Königreich
+Preussen. Seine Taufpaten waren Wilhelm Kaiser und C. Pudelitz.
+Confirmiert am Sonntag nach Ostern Anno 1810. Er verheirathete sich den
+2 Juli 1821 mit Maria Louise Charlotte geb. Tragtmann, eine Tochter von
+Christian Tragtmann. Geb. den 24 Dezember u. get. im selben Monat 1800.
+
+Kinder dieser Ehe sind:
+
+1. Fridrich Christian, geb. den 15 Dezember 1821, get. im selben
+Monat. Pathen: Fridrich Engelking, confirmiert am Sonntage nach Ostern
+1835
+
+2. Conrad Dietrich Ferdinand, geboren den 8 Januar und getauft
+den 14 Januar 1827. Pathen: Conrad Reinking und Dietrich Bloome,
+confirmiert am Sonntag nach Oster 1841.
+
+3. Maria Wilhelmine, geboren den 6. Mai und getauft im selben
+Monat 1831. Pathen: Sophia Reinking; confirmiert 1845.
+
+4. Auguste Matilde Dorathee, geb. den 13 September 1833, getauft
+im selben Monat. Pathen: Friderike Brockhorn, confirmiert im Jahre 1847
+um Ostern von Pastor Walther, St. Louis.
+
+5. Conrad Christian Wilhelm, geb. den 22 Juli, und get. im selben
+Monat 1839. Pathen: Conrad Storm und Christian Dietrich Lessmann.
+Confirmiert um Oster 1853.
+
+Er wanderte aus mit seiner Familie nach den V. St. v. N. A. den 5 April
+1844, woselbst er den 18 Mai in New Orleangs (New Orleans?) ankam. Von
+da ging er nach dem südlichen Illinois und nach dem er dort u. in St.
+Louis 4 Jahre lang gewohnt hatte, zog er nach Preeble Tow. Adams Co.
+Ind. woselbst seine Frau den 10 August 1850 starb.
+
+Im Jahre 1854 zog er hier her zu seinem Sohn, woselbst er sich alsbald
+dieser Gemeinde anschloß. Außer den genannten fünf Kindern die noch alle
+am Leben sind, hatten genannte Eheleute noch 1 Sohn und 4 Töchter, von
+welchen der erste und drei Töchter schon in Deutschland gestorben sind.
+Eine Tochter aber in St. Louis, Mo.
+
+*English Translation*
+
+No.19
+
+Georg Conrad Wilhelm Reinking
+
+Son of Johann Friedrich Conrad Reinking and Maria Elisabeth neé
+Engelking, born on 8 July 1796, and baptized in the same month of the
+same year. Born in Hävern, parish of Windheim, county of Minden, Kingdom
+of Prussia. His godparents were Wilhelm Kaiser and C. Pudelitz. He was
+confirmed on the Sunday after Easter in 1810. He was married on 2 July
+1821 to Maria Louise Charlotte neé Tragtmann, a daughter of Christian
+Tragtmann. She was born on 24 December 1800, and baptized in the same
+month.
+
+Children from this marriage are:
+
+1. Fridrich Christian, born on 15 December 1821, and baptized in
+the same month. Godfather: Fridrich Engelking. He was confirmed on
+Sunday after Easter 1835.
+
+2. Conrad Dietrich Ferdinand, born on 8 January, and baptized on
+14 January 1827. Godparents: Conrad Reinking and Dietrich Bloome. He was
+confirmed on Sunday after Easter 1841.
+
+3. Maria Wilhelmine, born on 6. May 1831, and baptized in the
+same month. Godmother: Sophia Reinking. She was confirmed in 1845.
+
+4. Auguste Matilde Dorathee, born on 13 September 1833, and
+baptized in the same month. Godmother: Friderike Brockhorn. She was
+confirmed around Easter 1847 by Pastor Walther, St. Louis.
+
+5. Conrad Christian Wilhelm, born on 22 July 1839, and baptized
+in the same month. Godparents: Conrad Storm and Christian Dietrich
+Lessmann. He was confirmed around Easter 1853.
+
+He emigrated with his family to the Unites States of North America on 5
+April 1844, where he arrived on the 18^th^ of May in New Orleag (New
+Orleans?). From there, he moved to southern Illinois, and, after he
+lived there and in St. Louis, MO, for 4 years, he moved to Preeble
+(Preble) Township, Adams County, Indiana, where his wife died on August
+10^th^ 1850.
+
+In 1854 he moved here to his son and soon joined the parish community.
+Besides the five children that are listed above and that are all still
+alive, the above mentioned married couple had 1 more son and 4 more
+daughters. Of these, the son and three of the daughters died in Germany
+while the 4^th^ daughter died in St. Louis, Mo.
+*German Transcript*
+
+page 50
+
+No. 2?
+
+== David Bibelheimer
+
+ehelicher Sohn von [empty] Bibelheimer und [empty] geboren in West-Penn
+Schulkill Co. Pa. den 5 Oktober und getauft den 17 November 1805.
+Konfirmiert Anno 1819. Er verheirathete sich den [empty] mit Jungfrau
+Maria [empty] eine Tochter von [empty], geboren in oben genanntem Orte
+den 9 January und getauft den 1 May 1810. Im Jahre 18[empty] zog er
+hierher und schloß sich alsbald dieser Gemeinde an.
+
+Kinder dieser Ehe sind:
+
+1. [empty]
+
+2. [empty]
+
+3. [empty]
+
+4. [empty]
+
+5. [empty]
+
+6. Elisabeth, geb. den 18 Dezember 1841 in Huma Madina Co. O.,
+und get. den 20 März 1842. Pathen: Ruben Mansy und seine Ehefrau, conf.
+den 28 März 1858 von Past. Jäbker.
+
+7. Harietta, geboren den 7 Februar und get. den 10 März 1845 in
+Medina Co. O. Pathen: Johann Miller und seine Ehefrau Rosine,
+confirmiert den [empty] von Past. [empty].
+
+8. Amanda, geboren den 17 Januar und getauft den 7 März 1848 in
+Medina Co. O. Pathen: Johann [empty] und seine Ehefrau Pennina. Conf.
+von Past. Fritze im Juli 1865.
+
+9. Isabella, geboren den 21 Februar und getauft den 1 März 1851.
+Pathen: Louise Bleeke und Maria Bleeke.
+
+*English Translation*
+
+David Bibelheimer
+
+legitimate son of [empty] Bibelheimer and [empty] born in West -Penn
+Schulkill (Schuylkill) County, PA. on 5 October und baptized on 17
+November 1805. Confirmed in 1819. He married on [empty] the maiden Maria
+[empty] a daughter of [empty] She was born in the above named place on 9
+January and baptized on 1 May 1810. He moved here in 18[empty] and soon
+after joined the parish community.
+
+Children of this marriage are:
+
+1. [empty]
+
+2. [empty]
+
+3. [empty]
+
+4. [empty]
+
+5. [empty]
+
+6. Elisabeth, born on 18 December 1841 in Huma, Madina (Medina)
+County, OH, and baptizes on 20 March 1842. Godparents: Ruben Mansy and
+his wife; confirmed on 28 March 1858 by Pastor Jäbker.
+
+7. Harietta, born on 7 February, and baptizes on 10 March 1845 in
+Medina County, Ohio. Godparents: Johann Miller and his wife Rosine;
+confirmed on [empty] by Pastor [empty].
+
+8. Amanda, born on 17 January and baptizes on 7 March 1848 in
+Medina County, Ohio. Godparents: Johann [empty] and his wife Pennina;
+confirmed in July 1865 by Pastor Fritze.
+
+9. Isabella, born on 21 February, and baptizes on 1 March 1851.
+Godparents: Louise Bleeke and Maria Bleeke.
