@@ -14,7 +14,7 @@ class pdoInserer {
    public function __construct(\PDP $pdo, string $sql) {}
   
 }
-
+$ddate = '1000-01-01';
 function insert(\PDOStatement $s)
 {
 

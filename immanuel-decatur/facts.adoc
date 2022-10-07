@@ -1,10 +1,16 @@
-Johann Heinrich Philipp Bleeke
 
+
+fname: Fridrich
+lname: Bleeke
 sex:m
-fname: Johann Heinrich Philipp
-lname: Bleeke 
-father: Fridrich Bleeke
+fid:1
+mid:1
+badte: 1000-01-01 
 mother: Anna Margaretha Volkening
+founder
+fname:Johann Heinrich Philipp
+sex:m
+lname:Bleeke 
 bdate:3 November 1797
 founder:true
 bdorf: Leteln
