@@ -13,10 +13,11 @@ $options = [
 
 try {
 
- $pdo = new \PDO($dsn, "kurt", "kk0457", $options);
+  $pdo = new \PDO($dsn, "kurt", "kk0457", $options);
 
+  $uid = 1; 
 
- $p = new Person($stmt);
+  $p = new Person($pdo);
 
  /*
    Set the values of interest manually
@@ -26,9 +27,10 @@ try {
 
    ...OR...do it all at once.
    $p->insert("fridrich", "bleeke", unid, unid, ....)
- */
 
- $id = $pdo->lastInsertId();
+   $id = $pdo->lastInsertId();
+ */
+ $p->insert("Fridrich", "Bleeke"); 
  
 } 
 catch (Exception $e) {

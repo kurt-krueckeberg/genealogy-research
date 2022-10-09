@@ -25,7 +25,7 @@ class Person { // struct
 
 	$stmt->bindValue('fname', $this->fname);
 	$stmt->bindValue('lname', $this->lname);
-	$stmt->bindValue('sex', $this->sex);
+	$stmt->bindValue('sex',   $this->sex);
 	$stmt->bindValue('fid', $this->fid, PDO::PARAM_INT);
 	$stmt->bindValue('mid', $this->mid, PDO::PARAM_INT);
 	$stmt->bindValue('bdate', $this->bdate);
@@ -36,9 +36,20 @@ class Person { // struct
     }  
 
     // todo: Add optional parameters--decide which are required and which optionsl.
-    public function insert() : bool 
+    public function insert(string $fname, string $lname, sex $sex, int $fid=1, int $mid=1, string $bdate='1000-01-01', bool $found=false, string $bdorf = 'unspecified', string $kreis = 'unspecified', string $bland = 'unspecified') : bool 
     {
-       $rc =  $this->stmt->execute();
+	$this->fname   = $fname;
+	$this->lname   = $lname;
+	$this->sex     = $sex;
+	$this->fid     = $fid;
+	$this->mid     = $mid;
+	$this->bdate   = $bdate;
+	$this->founder = $founder;
+	$this->bdorf   = $bdorf;
+	$this->bkreis  = $bkreis;
+	$this->bland   = $bland;
+
+        $rc =  $this->stmt->execute();
     }
     
     public function date(string $date) // Must be in format of "month-name day, year"
