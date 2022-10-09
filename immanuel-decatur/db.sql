@@ -21,8 +21,8 @@ create table IF NOT EXISTS person (
  bdorf varchar(15) not null,
  bkreis varchar(20) not null,
  bland varchar(25) not null,
- foreign key (fid) references person(id), 
- foreign key (mid) references person(id), 
+ foreign key (fid) references person(id) on delete set null, 
+ foreign key (mid) references person(id) on delete set null,
  primary key(id)
 );
 
@@ -93,3 +93,5 @@ create table IF NOT EXISTS children (
   foreign key (famlyid) references family(id),
   primary key(id)
 );
+
+
