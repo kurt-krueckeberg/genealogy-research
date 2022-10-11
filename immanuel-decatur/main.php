@@ -44,13 +44,24 @@ function insert_unknown(\PDO $pdo, string $fname, string $last) : int
 
  return $fid;
 }
+class Inserter {
+
+   public function __construct(private \PDO $pdo)
+
+   public function __invoke(?? $founder) // array or stdClass or Person?
+ 
+}
 
 try {
 
   $pdo = new \PDO($dsn, "kurt", "kk0457", $options);
 
-  $uid = 1; 
+  $inserter = new Inserter($pdo);
 
+  foreach ($founders as $founder) { // use SPl iteratos
+
+       insert($founder);
+  }
 } 
 catch (Exception $e) {
   error_log($e->getMessage());
