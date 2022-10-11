@@ -11,13 +11,20 @@ $options = [
   PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC, // Make the default fetch be an associative array
 ];
 
-try {
+/*
+ Alogithm:
+ 
+ 1. Insert new founders person's parents as unkown
+ 2. insert new founder person, new founder wife person, and new children persons, if any. 
+ 3. insert associated ceremonies for founder
+ 3. insert new family record for founder married couple 
+ 4. insert new children recores associated with this the family above.
 
-  $pdo = new \PDO($dsn, "kurt", "kk0457", $options);
+*/
+function insert_unknown(\PDO $pdo, string $fname, string $last) : int 
+{
 
-  $uid = 1; 
-
-  $p = new Person($pdo);
+  $p = new Person($pdo, "Fridrich", "Bleeke"); 
 
  /*
    Set the values of interest manually
@@ -30,8 +37,20 @@ try {
 
    $id = $pdo->lastInsertId();
  */
- $p->insert("Fridrich", "Bleeke"); 
- 
+  
+ $p->insert();
+
+ $fid = $pdo->lastInsertId();
+
+ return $fid;
+}
+
+try {
+
+  $pdo = new \PDO($dsn, "kurt", "kk0457", $options);
+
+  $uid = 1; 
+
 } 
 catch (Exception $e) {
   error_log($e->getMessage());

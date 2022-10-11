@@ -1,3 +1,4 @@
+YAML Explained: https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started
 insert unkown person
 insert father 
 fid=get last insert if
@@ -5,15 +6,25 @@ insert mother
 mid=last isert id 
 insert children
 
-= Immanuel Luterhan, Decatur, Indiana, Organizers
 
-No. 1
+founder:
+ person:
+   fname:Johann Heinrich Philip
+   lname:Bleeke
 
-Johann Heinrich P. Bleeke
-
-parents: Fridrich Bleeke and Anna Margaretha neé Volkening. born in:
-Leeteln (Leteln), parish of Windheim, county of Minden, Kingdom of
-Prussia, on 3 November 1797. He was baptized in the same month by Pastor
+father:
+ person: 
+   fname: Fridrich
+   lname: Bleeke
+mother: 
+  person: Anna Margaretha
+  lname: Volkening
+bdord: Leteln
+parish: Windheim
+kreis: Minden
+land: Kingdom of Prussia
+bdate: 3 November 1797
+He was baptized in the same month by Pastor
 Peikmann. His godfather was Johann Fridrich Volkening. He was confirmed
 on Sunday after Easter, 1810.
 
@@ -33,6 +44,7 @@ Lutheran Imanuel Church community formed in 1849.
 
 His children are:
 
+children:
 1. Carl Heinrich, born: 27 April, and baptised: 30 April
 1818. Godfather: Fridrich Schwier; confirmed on Sunday after Easter,
 1832; died on 25 March 1839.
@@ -65,9 +77,7 @@ Cincinati (Cincinnati), Ohion. Baptized by Pastor Lauer. Godmother:
 Christine Bleeke; died 8 Sept. 1838, in her birth town of Cincinati
 (Cincinnati).
 
-No. 2
-
-Johann Heinrich Krückeberg
+founder: Johann Heinrich Krückeberg
 
 He was born: August 12, 1806 in Behrenbusch (Berenbusch), Principality
 Schaumburg-Lippe, and he was baptized in the evangelical Lutheran church
@@ -83,8 +93,9 @@ Easter 1822. Her parents are: Fridrich Wilhelm Weÿland and Catharina neé
 Hahn. She was born in Evesen, Principality Schaumburg-Lippe. She was
 baptized, confirmed, and married by the already mentioned Pastor Stille.
 
-He and his wife had three children which were all born in Germany. Those
-are:
+He and his wife had three children which were all born in Germany. 
+
+children:
 
 1. Caroline Philippine Dorathee, born: February 27, 1834, and
 baptised: March 9 of the same year. Her Godparents were: Doratha
@@ -105,9 +116,7 @@ the United States of North America on September 13, 1849, and then
 settled in the parish here on November 21st of the same year. He also
 immediately joined the church community.
 
-No. 3
-
-Johann Heinrich Wilhelm Carl Grote
+founder: Johann Heinrich Wilhelm Carl Grote
 
 parents: Heinrich Grote and Sophie neé Barnekamp. He was born: 4
 November 1823 in Jenhorst, parish district of Stolzen (Stolzenau),
@@ -125,6 +134,7 @@ community.
 
 Children of this marriage are:
 
+children:
 1. Carl Heinrich Christian, born: 26 February 1853, and
 baptised: 12 March of the same year. Godparents: Heinrich Krückeberg
 and Christian Bleeke.
@@ -148,9 +158,7 @@ January 1862.
 March 1865. Godparents: Wilhelmine Weiland and Caroline Schamerloh.
 
 
-No. 4
-
-Conrad Dietrich Ferdinand Reinking
+founder: Conrad Dietrich Ferdinand Reinking
 
 parents: Georg Wilhelm Reinking and Maria Lousie Trachtmann (could be, but
 it was written over, letters in blue are confirmed), born in Hävern,
@@ -170,6 +178,7 @@ Bleeke and Anna Margaretha neé Volkening (see page 31, child No.7)
 
 Children from this marriage are:
 
+children:
 1. Mathilde Christine Louise, born 5 October, and baptized 3
 November 1854. Godparents: Christine Bleeke and Louise Reinking.
 
@@ -193,12 +202,9 @@ January 1863. Godparents: Caroline Grote and Elisabeth Bibelheimer.
 September 1864. Godparents: Bernhardine Koldeweÿ (will become Koldewei
 or Koldewey), and Maria Carolina Bleeke.
 
-No. 5
+founder: Heinrich Wilhelm Weiland
 
-Heinrich Wilhelm Weÿland (in modern German, the name exists almost
-exclusively as Weiland)
-
-parents: Fridrich Wilhelm Weÿland and his wife Catharina neé Hahn. He was
+parents: Fridrich Wilhelm wWeiland and his wife Catharina neé Hahn. He was
 born on 14 December 1814 in Evesen, Principality of Schaumburg-Lippe,
 and baptised: 19 December 1814 in the Protestant Lutheran Church in
 Petzen by Pastor Stille. His godfather was Heinrich Sickmann. He was
@@ -227,9 +233,7 @@ the Unites States of North America on 13 September 18496. He settled in
 the local parish on November 21st of the same year and immediately
 joined the parish community.
 
-No. 6
-
-Johann Andreas Thieme
+founder: Johann Andreas Thieme
 
 parents: Johann Andreas Thieme and Johanne Rosine neé. Haugk, born in
 Niederfranken (Niederfrankenhain) near Gaitham (Geithain), Kingdom of
@@ -249,6 +253,7 @@ Caroline Sophie neé Weÿland (see page 32, child No. 2).
 
 Children from this marriage are:
 
+children:
 1. Johann Fridrich, born: 1 October, and baptised: 10 October
 1858. His godparents are: Johann Gottlieb Thieme and Heinrich
 Krückeberg.
@@ -267,9 +272,7 @@ and Maria Bleeke.
 October 1865. Her godparents are: Philippine Weÿland and Philippine
 Christine Koldewey.
 
-No. 7
-
-Carl Fridrich Wilhelm Bleeke
+founder: Carl Fridrich Wilhelm Bleeke
 
 Third son of Johann Heinrich Philipp Bleeke and Christine Marie neé
 Schwier. He was born: the 30st of November and baptised: December
@@ -283,6 +286,7 @@ Fritze on July 28st 1852, and married by the same on December 26st
 
 Children from this marriage are:
 
+children:
 1. Friedrich Wilhelm, born: 13 April, and baptised: 29 April
 1855. Godparents: Johann Heinrich Bleeke, Christian Fridrich Bleeke, and
 Wilhelm Heckmann.
@@ -311,8 +315,7 @@ Schnellenberger.
 
 
 No. ?
-
-Carl Heinrich Wilhelm Krückeberg
+founder: Carl Heinrich Wilhelm Krückeberg
 
 parents: Carl Gottlieb Krückeberg and Dorathea neé Weiland. He was born in
 Bernbursch (Berenbusch), county of Bückeburg, Principality
@@ -345,8 +348,7 @@ on July 17 of the same year. Godparents: Caroline Schamerloh and Emma
 Belz
 
 Nr. 9
-
-Carl Dietrich Wilhelm Schamerloh
+founder: Carl Dietrich Wilhelm Schamerloh
 
 legitimate son of the landowner Heinrich Christian Schamerloh and his
 wife Catharina Margaretha neé Poos, born in Buchholz (Buchholz near
@@ -366,9 +368,9 @@ Dorathea neé Weiland.
 
 Children from this marriage are:
 
-(insert in pencil on the side: Carl Wilhelm Christian, see baptismal
-register Nr. 17)
+(insert in pencil on the side: Carl Wilhelm Christian, see baptismal register Nr. 17) <----
 
+children:
 1. Louise Sophie Caroline, born: 10 April, baptised: 15 April
 1860. Godparents: Caroline Schamerloh and Caroline Krückeberg.
 
@@ -382,9 +384,7 @@ Godparents: Heinrich Krückeberg and Wilhelm Weiland
 1863. Godparents: Wilhelmine Weiland and Louise Heckmann
 
 
-No. 10
-
-Christian Fridrich Bleeke
+founder: Christian Fridrich Bleeke
 
 2nd son of Johann Heinrich Philipp Bleeke and Christine Marie neé
 Schwier, born: 7 May and baptised: 13 May 1821 (see page 31, child
@@ -396,6 +396,7 @@ of Prussia.
 
 Children from this marriage are:
 
+children:
 1. Marie Louise, born 14 November, and baptized 8 December 1850.
 Godparents: Wilhelmine Zwick and Sophie Heckmann.
 
@@ -430,9 +431,7 @@ Godparents: Carl Zwick and Carl Heckmann.
 Godparents: Wilhelm Fells and Wilhelm Heckmann.
 
 
-No. 11(?)
-
-Carl Heinrich Ludwig Koldeweÿ (will become Koldewei or Koldewey)
+founder: Carl Heinrich Ludwig Koldeweÿ (will become Koldewei or Koldewey)
 
 Legitimate son of Johann Heinrich Christoph Koldeweÿ and Sophie Mare
 Eleonore neé Cordes, born in Hanstedt, Kingdome of Hannover on 31 March
@@ -452,6 +451,7 @@ baptised: 31 October of he same year, and confirmed on Palm Sunday
 
 Children of this marriage are:
 
+children:
 1. Fridrich Heinrich, born: 9 January, and baptised: 19
 January 1862. Godparents: Johann Heinrich Bleeke and Fridrich Koldeweÿ.
 
@@ -463,8 +463,7 @@ December 1863. Godparents: Maria Tiemann and Catharina Koldeweÿ.
 
 
 No. ?
-
-Jakob Stöhr
+founder: Jakob Stöhr
 
 Legitimate son of Fridrich Jakob Stöhr and Margaretha neé Kern, born in
 Ronbach Reinbeiern, Kingdom of Bavaria, on 22 March 1830. He was
@@ -486,44 +485,9 @@ No. ?
 
 == Christian Dietrich Schamerloh
 
-ehelicher Sohn des Colon Heinrich Christian Schamerloh und dessen
-Ehefrau Catharina Margaretha geb. Poos (No. 20) zu Buchholz (Buchholz
-bei Stadthagen, Schaumburg) Fürtsenthum Schaumburg-Lippe, ist am 15.
-Februar 1831 geboren und am 20. Februar desselben Jahres getauft worden,
-konfirmiert am Sonntag nach Ostern 1845. Er wanderte aus nach den
-Vereinigten Staaten von Nord-Amerika den 6. Mai 1851, und kam in Fort
-Wayne Ind. an den 4. Juli 1851, verheirathete sich den 6. Mai 1859 in
-hiesiger Gemeinde mit Caroline Philippine Sophie Krückeberg, eine
-Tochter von Carl Gottlieb Krückeberg und Dorothea geb. Weiland, geb. in
-Bernbusch (Berenbusch) Amt Bückeburg, Fürstenthum Schaumburg-Lippe, den
-8. September und getauft den 13. September 1840, confirmiert am Sonntag
-Palmarum 1854.
-
-Kinder dieser Ehe sind:
-
-1. Carl Friedrich Wilhelm, geb. den 19. September und getauft den
-1. Oktober 1854. Pathen: Carl Dietrich Wilhelm Schamerloh und Carl
-Heinrich Wilhelm Krückeberg
-
-†2. Heinrich, geboren den 2. Mai 1861, empfing die Nottaufe und starb 2
-Tage darauf den 4. Mai 1861.
-
-†3. Caroline Wilhelmine Louise, geboren den 18. März und getauft den 23.
-März 1862. Pathen: Caroline Philippine Schamerloh und Caroline
-Wilhelmine Krückeberg.
-
-4. Heinrich Christian Wilhelm, geboren den 26. September und
-getauft den 4. Oktober 1863. Pathen: Heinrich Krückeberg und Wilhelm
-Weiland.
-
-5. Caroline Sophie, geboren den 25. Februar, empfing die Nottaufe
-und starb zwei Tage darauf den 27. Februar 1865.
-
-
 
 No. ? (3 or 13?)
-
-Christian Dietrich Schamerloh
+founder: Christian Dietrich Schamerloh
 
 legitimate son of the landowner Heinrich Christian Schamerloh and his
 wife Catharina Margaretha neé Poos (No. 20), born in Buchholz (Buchholz
@@ -540,7 +504,7 @@ neé Weiland, born in Berenbusch, district of Bückeburg, Principality of
 Schaumburg-Lippe, on September the 8st and baptised: 13 September
 1840, confirmed on Palm Sunday 1854.
 
-Children from this marriage are:
+children:
 
 1. Carl Friedrich Wilhelm, born 19 September, and baptized 1
 October 1854. Godparents: Carl Dietrich Wilhelm Schamerloh and Carl
@@ -559,8 +523,7 @@ October 1863. Godparents: Heinrich Krückeberg and Wilhelm Weiland.
 5. Caroline Sophie, born 25 February, received emergency baptism,
 and died 2 days later on the 27st of February 1865.
 
-
-Heinrich Jacob Rücklos (senior)
+founder: Heinrich Jacob Rücklos (senior)
 
 Legitimate son of [empty] Rücklos and [empty].
 
@@ -576,14 +539,14 @@ America in 1860.
 
 Children from this marriage are:
 
+children:
 1. Elisabetha, born: 14 July, and baptised: 18 July 1861.
 Godparents: [empty]
 
 2. Friedrich Jakob, born: 2 May, and baptised: 16 May 1864.
 Godparents [empty]
 
-
-Heinrich Jacob Rücklos (junior)
+founder: Heinrich Jacob Rücklos (junior)
 
 Legitimate son of Heinrich Jacob Rücklos and Elisabeth neé Stöhr, born
 in Rumbach, district of Dahn, Rein-Pfalz (Rhineland-Palatine), Kingdom
@@ -597,10 +560,11 @@ are Philipp Peter Hoffmann and Maria Elisabeth neé Wendel.
 
 Children from this marriage are:
 
+children:
 1. Ludwig Wilhelm, born: 11 January ; baptised: 7 February 1864. Godparents: Johann H. Bleeke and Georg P. Germann.
 
 
-Abraham Stendler,
+founder:Abraham Stendler
 
 legitimate son of Jakob Stendler and Maria Elisabeth neé Alexander, was
 bon in Klingen, Kanton (district) Bergzabern, in the Kingdom of Bavaria,
@@ -615,8 +579,7 @@ July 2nd 1838 in West Pennsylvania, in Schuylkill County, Pa. She was
 confirmed on April 4st 1852.
 
 No.19
-
-Georg Conrad Wilhelm Reinking
+founder: Georg Conrad Wilhelm Reinking
 
 parents: Johann Friedrich Conrad Reinking and Maria Elisabeth neé
 Engelking, born: 8 July 1796, and baptized in the same month of the
@@ -627,7 +590,7 @@ confirmed on the Sunday after Easter in 1810. He was married on 2 July
 Tragtmann. She was born: 24 December 1800, and baptized in the same
 month.
 
-Children from this marriage are:
+children:
 
 1. Fridrich Christian, born: 15 December 1821, and baptized in
 the same month. Godfather: Fridrich Engelking. He was confirmed on
@@ -661,8 +624,7 @@ alive, the above mentioned married couple had 1 more son and 4 more
 daughters. Of these, the son and three of the daughters died in Germany
 while the 4st daughter died in St. Louis, Mo.
 
-
-David Bibelheimer
+founder: David Bibelheimer
 
 legitimate son of [empty] Bibelheimer and [empty] born in West -Penn
 Schulkill (Schuylkill) County, PA. on 5 October und baptised: 17
