@@ -7,30 +7,44 @@ mid=last isert id
 insert children
 
 
-founder:
- person:
+person:
+   founder:y
    fname:Johann Heinrich Philip
    lname:Bleeke
-
-father:
- person: 
-   fname: Fridrich
-   lname: Bleeke
-mother: 
-  person: Anna Margaretha
-  lname: Volkening
-bdord: Leteln
-parish: Windheim
-kreis: Minden
-land: Kingdom of Prussia
-bdate: 3 November 1797
-He was baptized in the same month by Pastor
-Peikmann. His godfather was Johann Fridrich Volkening. He was confirmed
-on Sunday after Easter, 1810.
-
-He was married in spring of 1819 to Christine Maria Schwier, a daughter
-of Christian Fridrich Schwier and Catharina Margareta neé Rösner. She
-was born: 13 May 1798, and baptized in the same month in the
+ father:
+     fname: Fridrich
+     lname: Bleeke
+  mother: 
+     fname: Anna Margaretha
+     lname: Volkening
+  bdord: Leteln
+  parish: Windheim
+  kreis: Minden
+  land: Prussia
+  bdate: 3 November 1797
+  events: 
+   baptized:
+     date: November 1797
+     pastor: Peikmann 
+     godperson: 
+       person:
+        Johann Fridrich Volkening. He was
+   confirmed:
+     date: Sunday after Easter, 1810.
+   married: 
+     date: spring 1819
+     wife:
+       person: 
+         fname: Christine Maria
+         lname: Schwier
+           father: 
+           fname:Christian Fridrich
+           lname:Schwier
+         mother: 
+           fname: Catharina Margareta 
+           lanem: Rösner
+         bdate: 13 May 1798
+         events: baptized in the same month in the
 Protestant Lutheran Church in Frülle (Frille) by Pastor Peikmann. Her
 godparents are: Anna Sophie Rösner and Christine Müller. She was
 confirmed on Sunday after Easter, 1811.

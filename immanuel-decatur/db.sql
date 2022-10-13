@@ -27,7 +27,7 @@ create table IF NOT EXISTS person (
 );
 
 #--Insert UNKONWN person into the person table. The unknown person has person(id) of 1, the first auto_increment value, and the fid and mid are also 1, referring this same all-purpose unknown person.
-INSERT INTO person (id, fname, lname, sex, fid, mid, bdate, founder, bdorf, bkreis, bland) VALUES (1, "unknown", "unknown", "u", 1, 1, "1000-01-01", false, "unknown", "unknown", "unknown");
+INSERT INTO person (id, fname, lname, sex, fid, mid, bdate, founder, bdorf, bkreis, bland) VALUES (1, "unknown", "unknown", "u", 1, 1, "0000-00-00", false, "unknown", "unknown", "unknown");
 
 #--This tracks Church ceremonies performed on the date, by the pastorid,
 #--at the parish.
