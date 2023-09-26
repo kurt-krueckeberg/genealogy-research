@@ -5,8 +5,6 @@
 :docinfodir: /home/kurt/docinfo
 :nofooter:
 
-//= Genealogy Research Status
-
 == Summary of Emigration from Rodehim-Bieber and Fellinghausen, Grand Duchy of Hessen
 
 The origanl Peppplers emigrated from the village of *Rodhein an der Bieber* (Rodhiem on the Bieber river, renamed in 195?? *Rodheim-Bieber* in the *Gran
@@ -69,7 +67,6 @@ The effort is to notice, document and trace these relationships. Thus discoverin
 
 == Adams County, Kryueckeberg Research
 
-
 todo: 
 
 Immanuel bios:
@@ -96,7 +93,6 @@ translated the penciled-in word "Taufregister" as "baptismal register". She did 
 correct translation, it obscures what the word "Tauf" seems to be telling us: Immanuel Lutheran maintained original baptismal registers going back to the beginning of the church, or at least to 1865, when Carl Dietrich Wilhelm Schamerloh's only son, Heinrich Wilhelm Schamleroh (as his name was written in the original document before the penciled-in correction), was born and baptized.
 
 Immanuel likely still has related birth and marriage records, which would answer many questions and open many other doors. They might tell us when Carl Friedrich Krückeberg (1807 to 185??) died?
-
 
 === Bleeke, Fells, Kodeway Relation Hint
 
